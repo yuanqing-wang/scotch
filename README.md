@@ -8,7 +8,7 @@
 ## Syllabus
 | Module  | 
 | :-------------: | 
-| Object-Oriented Mathematical Programming |
+| [Object-Oriented Mathematical Programming](object_oriented_math_programming/index.md) |
 
 ## Open Education Statement
 All notes of this class will be published in on this website under [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
