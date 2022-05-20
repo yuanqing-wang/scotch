@@ -6,7 +6,7 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 
 Module | Notes
 --------------------- | --------------------- 
-[Object-Oriented Mathematical Programming](pages/object_oriented_math_programming/index.md) |
+[OOMPH (Object-Oriented Mathematical Programming Hackathon)](pages/object_oriented_math_programming/index.md) |
 
 ## Course Description
 
