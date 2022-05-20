@@ -1,3 +1,6 @@
+Scientific Computing From Scratch
+---------------------------------
+
 ## Course Description
 
 ## Syllabus
