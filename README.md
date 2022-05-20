@@ -30,6 +30,6 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 - Yuanqing Wang(wangyq@wangyq.net)
 
 ## Sponsors
-![](https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png)
-![](https://brand.umd.edu/images/6420e6_65635f965637c8d98422afb90604d286.gif_srz_476_78_75_22_0.50_1.20_0-1.gif)
+![](https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png|height="150")
+![](https://brand.umd.edu/images/6420e6_65635f965637c8d98422afb90604d286.gif_srz_476_78_75_22_0.50_1.20_0-1.gif|height="150")
 
