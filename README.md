@@ -1,7 +1,3 @@
----
-layout: home
----
-
 Scientific Computing From Scratch
 ---------------------------------
 A summer bootcamp on scientific computing for beginners with [Python](https://www.python.org) and [Pytorch](https://pytorch.org) .
