@@ -5,9 +5,16 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 ## Course Description
 
 ## Useful resources
-- [Python Data and Scripting for Biochemists](https://education.molssi.org/python-scripting-biochemistry/chapters/setup.html)
-- [Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/)
+- [Python Documentation](https://docs.python.org/3/)
 - [Pytorch Documentation](https://pytorch.org/docs/stable/index.html)
+- MolSSI Education Resources[http://education.molssi.org/resources.html#programming]
+    - [Python Data and Scripting for Biochemists](https://education.molssi.org/python-scripting-biochemistry/chapters/setup.html)
+    - [Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/)
+    - [Python for Data Analysis](https://education.molssi.org/python-data-analysis/)
+- [PY4E - Python for Everybody](https://www.py4e.com)
+- [Learn Python | Code Academy](https://www.codecademy.com/learn/learn-python)
+- [Fast AI](https://www.fast.ai)
+
 
 ## Syllabus
 
