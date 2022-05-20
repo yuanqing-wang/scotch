@@ -10,6 +10,7 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 - [Pytorch Documentation](https://pytorch.org/docs/stable/index.html)
 
 ## Syllabus
+|Modules|
 |-------|
 |[Object-Oriented Mathematical Programming](pages/object_oriented_math_programming/index.md)|
 
