@@ -6,7 +6,7 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 
 Module | Notes
 --------------------- | ---------------------
-[OOMPH (Object-Oriented Mathematical Programming Hackathon)](pages/oomph) |
+[OOMPH (Object-Oriented Mathematical Programming Hackathon)](pages/oomph) | ![https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg](https://colab.research.google.com/drive/1VYVsk98aWBI0wg6jx8lZZGK3aZqpw46o?usp=sharing)
 
 ## Course Description
 
