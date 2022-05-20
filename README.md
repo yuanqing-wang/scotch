@@ -1,7 +1,7 @@
 ## Course Description
 
 ## Syllabus
-- [Object-Oriented Mathematical Programming](_pages/object_oriented_math_programming/index.md)
+- [Object-Oriented Mathematical Programming](pages/object_oriented_math_programming/index.md)
 -
 
 ## Open Education Statement
