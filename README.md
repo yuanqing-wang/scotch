@@ -5,8 +5,8 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 ## Syllabus
 
 Module | Notes
---------------------- | --------------------- 
-[OOMPH (Object-Oriented Mathematical Programming Hackathon)](pages/object_oriented_math_programming/index.md) |
+--------------------- | ---------------------
+[OOMPH (Object-Oriented Mathematical Programming Hackathon)](pages/oomph/index.md) |
 
 ## Course Description
 
@@ -32,4 +32,3 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 
 ## Sponsors
 <img src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" height="100"><img src="https://brand.umd.edu/images/6420e6_10f378c7b1008d2d2b7e703493548d46.gif_srz_213_190_75_22_0.50_1.20_0-1.gif" height="100"><img src="https://molssi.org/wp-content/uploads/2017/04/MolSSI-Logo-2.jpg" height="100">
-
