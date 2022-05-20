@@ -1,8 +1,12 @@
 Scientific Computing From Scratch
 ---------------------------------
-[Python](https://www.python.org) and [Pytorch](https://pytorch.org) summer bootcamp.
+A [Python](https://www.python.org) and [Pytorch](https://pytorch.org) summer bootcamp.
 
 ## Course Description
+
+## Useful resources
+- [Python Data and Scripting for Biochemists](https://education.molssi.org/python-scripting-biochemistry/chapters/setup.html)
+- [Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/)
 
 ## Syllabus
 - [Object-Oriented Mathematical Programming](pages/object_oriented_math_programming/index.md)
