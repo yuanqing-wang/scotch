@@ -3,6 +3,7 @@ Scientific Computing From Scratch
 A summer bootcamp on scientific computing for beginners with [Python](https://www.python.org) and [Pytorch](https://pytorch.org) .
 
 ## Syllabus
+
 Module | Notes
 --------------------- | --------------------- 
 [Object-Oriented Mathematical Programming](pages/object_oriented_math_programming/index.md) |
@@ -17,7 +18,7 @@ Module | Notes
     - [Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/)
     - [Python for Data Analysis](https://education.molssi.org/python-data-analysis/)
 - [PY4E - Python for Everybody](https://www.py4e.com)
-- [Learn Python | Code Academy](https://www.codecademy.com/learn/learn-python)
+- [Learn Python - Code Academy](https://www.codecademy.com/learn/learn-python)
 - [Fast AI](https://www.fast.ai)
 
 ## Open Education Statement
@@ -30,6 +31,6 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 - Yuanqing Wang(wangyq@wangyq.net)
 
 ## Sponsors
-![](https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png|height=100px)
-![](https://brand.umd.edu/images/6420e6_65635f965637c8d98422afb90604d286.gif_srz_476_78_75_22_0.50_1.20_0-1.gif|height=100px)
+<img src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" height="100">
+<img src="https://brand.umd.edu/images/6420e6_65635f965637c8d98422afb90604d286.gif_srz_476_78_75_22_0.50_1.20_0-1.gif" height="100">
 
