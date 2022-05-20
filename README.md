@@ -2,6 +2,11 @@ Scientific Computing From Scratch
 ---------------------------------
 A summer bootcamp on scientific computing for beginners with [Python](https://www.python.org) and [Pytorch](https://pytorch.org) .
 
+## Syllabus
+Module | Notes
+--------------------- | --------------------- 
+[Object-Oriented Mathematical Programming](pages/object_oriented_math_programming/index.md) |
+
 ## Course Description
 
 ## Useful resources
@@ -16,11 +21,6 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 - [Fast AI](https://www.fast.ai)
 
 
-## Syllabus
-
-Module | Notes
---------------------- | --------------------- 
-[Object-Oriented Mathematical Programming](pages/object_oriented_math_programming/index.md) |
 
 
 
