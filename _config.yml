@@ -1,3 +1,13 @@
+title: scotch
+email: wangyq@wangyq.net
+description: >- # this means to ignore newlines until "baseurl:"
+  Scientific Computing from Scratch
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "scotch.wangyq.net" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: YuanqingWang
+github_username:  yuanqing-wang
+
+
 theme: minima
 header_pages:
   - pages/2022/schedule.md
