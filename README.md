@@ -10,9 +10,11 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 - [Pytorch Documentation](https://pytorch.org/docs/stable/index.html)
 
 ## Syllabus
-|Modules|
-|-------|
-|[Object-Oriented Mathematical Programming](pages/object_oriented_math_programming/index.md)|
+<table>
+  <tr>
+    <th>[Object-Oriented Mathematical Programming](pages/object_oriented_math_programming/index.md)</th>
+  </tr>
+</table>
 
 ## Open Education Statement
 All notes of this class will be published in on this website under [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
