@@ -12,7 +12,7 @@ Module | Notes
 ## Useful resources
 - [Python Documentation](https://docs.python.org/3/)
 - [Pytorch Documentation](https://pytorch.org/docs/stable/index.html)
-- MolSSI Education Resources[http://education.molssi.org/resources.html#programming]
+- [MolSSI Education Resources](http://education.molssi.org/resources.html#programming)
     - [Python Data and Scripting for Biochemists](https://education.molssi.org/python-scripting-biochemistry/chapters/setup.html)
     - [Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/)
     - [Python for Data Analysis](https://education.molssi.org/python-data-analysis/)
