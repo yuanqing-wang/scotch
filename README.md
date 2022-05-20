@@ -1,5 +1,6 @@
 Scientific Computing From Scratch
 ---------------------------------
+[Python](https://www.python.org) and [Pytorch](https://pytorch.org) summer bootcamp.
 
 ## Course Description
 
