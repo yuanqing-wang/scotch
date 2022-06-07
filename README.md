@@ -11,14 +11,29 @@ Module | Notes
 ## Course Description
 
 ## Useful resources
+
+### Mathematical Foundations
+
+Math helper videos:
+- [Fun with functions playlist](https://www.youtube.com/playlist?list=PLieme_dDfavgNH_eoC5hWX-75fwst0abG) (4 modules of average 15 min duration)
+- [Single variable calculus playlist](https://www.youtube.com/playlist?list=PLieme_dDfaviKfYPpqE6iO5ByxHb9nFmO) (8 modules of average 15 min duration)
+- [Multi variable calculus playlist](https://www.youtube.com/playlist?list=PLieme_dDfavg9CSUr1i_ai3XQnaVbxx1D) (5 modules of average 16 min duration)
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by [3Blue1Brown](https://www.3blue1brown.com/)
+- [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) by [3Blue1Brown](https://www.3blue1brown.com/)
+
+### Python and Data Science
+- [PY4E - Python for Everybody](https://www.py4e.com)
+- [Learn Python - Code Academy](https://www.codecademy.com/learn/learn-python)
 - [Python Documentation](https://docs.python.org/3/)
-- [Pytorch Documentation](https://pytorch.org/docs/stable/index.html)
+- [Python and Jupyter Notebooks](https://qiskit.org/textbook/ch-prerequisites/python-and-jupyter-notebooks.html)
 - [MolSSI Education Resources](http://education.molssi.org/resources.html#programming)
     - [Python Data and Scripting for Biochemists](https://education.molssi.org/python-scripting-biochemistry/chapters/setup.html)
     - [Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/)
     - [Python for Data Analysis](https://education.molssi.org/python-data-analysis/)
-- [PY4E - Python for Everybody](https://www.py4e.com)
-- [Learn Python - Code Academy](https://www.codecademy.com/learn/learn-python)
+
+
+### PyTorch and Machine Learning
+- [Pytorch Documentation](https://pytorch.org/docs/stable/index.html)
 - [Fast AI](https://www.fast.ai)
 
 ## Open Education Statement
