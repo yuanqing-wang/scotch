@@ -15,7 +15,7 @@ Module | Notes
 ### Mathematical Foundations
 
 Math helper videos:
-- [Fun with functions playlist](https://www.youtube.com/playlist?list=PLieme_dDfavgNH_eoC5hWX-75fwst0abG) (4 modules of average 15 min duration)
+-[![YouTube](https://img.shields.io/badge/Fun_with_functions_playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLieme_dDfavgNH_eoC5hWX-75fwst0abG)(4 modules of average 15 min duration)
 - [Single variable calculus playlist](https://www.youtube.com/playlist?list=PLieme_dDfaviKfYPpqE6iO5ByxHb9nFmO) (8 modules of average 15 min duration)
 - [Multi variable calculus playlist](https://www.youtube.com/playlist?list=PLieme_dDfavg9CSUr1i_ai3XQnaVbxx1D) (5 modules of average 16 min duration)
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by [3Blue1Brown](https://www.3blue1brown.com/)
