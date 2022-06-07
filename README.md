@@ -31,4 +31,4 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 - Yuanqing Wang(wangyq@wangyq.net)
 
 ## Sponsors
-<img src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" height="100"><img src="https://brand.umd.edu/images/6420e6_10f378c7b1008d2d2b7e703493548d46.gif_srz_213_190_75_22_0.50_1.20_0-1.gif" height="100"><img src="https://molssi.org/wp-content/uploads/2021/12/molssi_main_logo_inverted_white-e1639264171552.png" height="100">
+<img src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" height="100"><img src="https://brand.umd.edu/images/6420e6_10f378c7b1008d2d2b7e703493548d46.gif_srz_213_190_75_22_0.50_1.20_0-1.gif" height="100"><img src="https://avatars.githubusercontent.com/u/26232579?s=200&v=4" height="100">
