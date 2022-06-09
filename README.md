@@ -18,6 +18,7 @@ Module | Notes | Video
 - [Multi variable calculus playlist 🍿](https://www.youtube.com/playlist?list=PLieme_dDfavg9CSUr1i_ai3XQnaVbxx1D) (5 modules of average 16 min duration)
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by [3Blue1Brown](https://www.3blue1brown.com/)
 - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) by [3Blue1Brown](https://www.3blue1brown.com/)
+- [Linear algebra (Khan Academy)](https://www.khanacademy.org/math/linear-algebra)
 
 ### Python and Data Science
 - [PY4E - Python for Everybody](https://www.py4e.com)
