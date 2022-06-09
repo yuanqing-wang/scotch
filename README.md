@@ -29,6 +29,7 @@ Module | Notes | Video
     - [Python Data and Scripting for Biochemists](https://education.molssi.org/python-scripting-biochemistry/chapters/setup.html)
     - [Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/)
     - [Python for Data Analysis](https://education.molssi.org/python-data-analysis/)
+- [Python basics notebooks](https://github.com/okara83/python-pytorch-workshop)
 
 
 ### PyTorch and Machine Learning
