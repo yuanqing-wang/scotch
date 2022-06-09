@@ -1,0 +1,595 @@
+{
+    "name": "title types",
+    "children": [
+        {
+            "name": "data scientist",
+            "children": [
+                {
+                    "name": "data scientist",
+                    "value": 110998
+                },
+                {
+                    "name": "senior data scientist",
+                    "value": 16402
+                },
+                {
+                    "name": "data scientist intern",
+                    "value": 7017
+                },
+                {
+                    "name": "lead data scientist",
+                    "value": 4995
+                },
+                {
+                    "name": "junior data scientist",
+                    "value": 3892
+                },
+                {
+                    "name": "principal data scientist",
+                    "value": 2225
+                },
+                {
+                    "name": "chief data scientist",
+                    "value": 2024
+                },
+                {
+                    "name": "associate data scientist",
+                    "value": 1898
+                },
+                {
+                    "name": "sr. data scientist",
+                    "value": 1248
+                },
+                {
+                    "name": "data scientist ii",
+                    "value": 752
+                },
+                {
+                    "name": "data scientist consultant",
+                    "value": 559
+                },
+                {
+                    "name": "stagiaire data scientist",
+                    "value": 476
+                },
+                {
+                    "name": "staff data scientist",
+                    "value": 461
+                },
+                {
+                    "name": "consultant data scientist",
+                    "value": 394
+                },
+                {
+                    "name": "freelance data scientist",
+                    "value": 337
+                },
+                {
+                    "name": "jr. data scientist",
+                    "value": 311
+                },
+                {
+                    "name": "sr data scientist",
+                    "value": 240
+                },
+                {
+                    "name": "research data scientist",
+                    "value": 233
+                },
+                {
+                    "name": "intern data scientist",
+                    "value": 220
+                },
+                {
+                    "name": "data scientist trainee",
+                    "value": 216
+                },
+                {
+                    "name": "clinical data scientist",
+                    "value": 200
+                }
+            ]
+        },
+        {
+            "name": "data engineer",
+            "children": [
+                {
+                    "name": "data engineer",
+                    "value": 38955
+                },
+                {
+                    "name": "senior data engineer",
+                    "value": 7985
+                },
+                {
+                    "name": "big data engineer",
+                    "value": 6382
+                },
+                {
+                    "name": "data engineer intern",
+                    "value": 1625
+                },
+                {
+                    "name": "lead data engineer",
+                    "value": 1284
+                },
+                {
+                    "name": "junior data engineer",
+                    "value": 713
+                },
+                {
+                    "name": "senior big data engineer",
+                    "value": 663
+                },
+                {
+                    "name": "associate data engineer",
+                    "value": 654
+                },
+                {
+                    "name": "sr. data engineer",
+                    "value": 652
+                },
+                {
+                    "name": "data engineer ii",
+                    "value": 378
+                },
+                {
+                    "name": "principal data engineer",
+                    "value": 361
+                },
+                {
+                    "name": "sr data engineer",
+                    "value": 303
+                },
+                {
+                    "name": "market data engineer",
+                    "value": 173
+                },
+                {
+                    "name": "big data engineer intern",
+                    "value": 155
+                }
+            ]
+        },
+        {
+            "name": "data analyst",
+            "children": [
+                {
+                    "name": "data analyst",
+                    "value": 259810
+                },
+                {
+                    "name": "senior data analyst",
+                    "value": 24323
+                },
+                {
+                    "name": "data analyst intern",
+                    "value": 21403
+                },
+                {
+                    "name": "business data analyst",
+                    "value": 9039
+                },
+                {
+                    "name": "junior data analyst",
+                    "value": 5202
+                },
+                {
+                    "name": "master data analyst",
+                    "value": 3963
+                },
+                {
+                    "name": "financial data analyst",
+                    "value": 3720
+                },
+                {
+                    "name": "sr. data analyst",
+                    "value": 3457
+                },
+                {
+                    "name": "marketing data analyst",
+                    "value": 3321
+                },
+                {
+                    "name": "clinical data analyst",
+                    "value": 3270
+                },
+                {
+                    "name": "market data analyst",
+                    "value": 2589
+                },
+                {
+                    "name": "lead data analyst",
+                    "value": 2496
+                },
+                {
+                    "name": "research data analyst",
+                    "value": 1801
+                },
+                {
+                    "name": "data analyst ii",
+                    "value": 1770
+                },
+                {
+                    "name": "associate data analyst",
+                    "value": 1454
+                },
+                {
+                    "name": "big data analyst",
+                    "value": 1255
+                },
+                {
+                    "name": "sr data analyst",
+                    "value": 908
+                },
+                {
+                    "name": "hr data analyst",
+                    "value": 821
+                },
+                {
+                    "name": "quality data analyst",
+                    "value": 740
+                },
+                {
+                    "name": "data analyst consultant",
+                    "value": 669
+                },
+                {
+                    "name": "business/data analyst",
+                    "value": 663
+                }
+            ]
+        },
+        {
+            "name": "machine learning engineer",
+            "children": [
+                {
+                    "name": "machine learning engineer",
+                    "value": 13933
+                },
+                {
+                    "name": "senior machine learning engineer",
+                    "value": 1237
+                },
+                {
+                    "name": "machine learning engineer intern",
+                    "value": 793
+                },
+                {
+                    "name": "junior machine learning engineer",
+                    "value": 254
+                },
+                {
+                    "name": "lead machine learning engineer",
+                    "value": 228
+                },
+                {
+                    "name": "data scientist / machine learning engineer",
+                    "value": 137
+                },
+                {
+                    "name": "principal machine learning engineer",
+                    "value": 99
+                },
+                {
+                    "name": "sr. machine learning engineer",
+                    "value": 97
+                },
+                {
+                    "name": "staff machine learning engineer",
+                    "value": 93
+                },
+                {
+                    "name": "computer vision and machine learning engineer",
+                    "value": 67
+                },
+                {
+                    "name": "machine learning engineer ii",
+                    "value": 67
+                },
+                {
+                    "name": "data scientist/machine learning engineer",
+                    "value": 62
+                },
+                {
+                    "name": "machine learning engineer (intern)",
+                    "value": 61
+                },
+                {
+                    "name": "associate machine learning engineer",
+                    "value": 59
+                },
+                {
+                    "name": "data scientist and machine learning engineer",
+                    "value": 59
+                },
+                {
+                    "name": "data scientist & machine learning engineer",
+                    "value": 53
+                },
+                {
+                    "name": "machine learning engineer / data scientist",
+                    "value": 46
+                },
+                {
+                    "name": "computer vision & machine learning engineer",
+                    "value": 42
+                },
+                {
+                    "name": "machine learning engineer internship",
+                    "value": 40
+                },
+                {
+                    "name": "applied machine learning engineer",
+                    "value": 39
+                }
+            ]
+        },
+        {
+            "name": "statistician",
+            "children": [
+                {
+                    "name": "statistician",
+                    "value": 33938
+                },
+                {
+                    "name": "senior statistician",
+                    "value": 4613
+                },
+                {
+                    "name": "biostatistician",
+                    "value": 1932
+                },
+                {
+                    "name": "mathematical statistician",
+                    "value": 1181
+                },
+                {
+                    "name": "principal statistician",
+                    "value": 1156
+                },
+                {
+                    "name": "research statistician",
+                    "value": 1149
+                },
+                {
+                    "name": "survey statistician",
+                    "value": 1026
+                },
+                {
+                    "name": "assistant statistician",
+                    "value": 861
+                },
+                {
+                    "name": "senior biostatistician",
+                    "value": 682
+                },
+                {
+                    "name": "statistician intern",
+                    "value": 490
+                },
+                {
+                    "name": "sr. statistician",
+                    "value": 399
+                },
+                {
+                    "name": "medical statistician",
+                    "value": 369
+                },
+                {
+                    "name": "chief statistician",
+                    "value": 330
+                },
+                {
+                    "name": "junior statistician",
+                    "value": 296
+                },
+                {
+                    "name": "consultant statistician",
+                    "value": 265
+                },
+                {
+                    "name": "associate statistician",
+                    "value": 252
+                },
+                {
+                    "name": "statistician ii",
+                    "value": 246
+                },
+                {
+                    "name": "contract statistician",
+                    "value": 191
+                },
+                {
+                    "name": "lead statistician",
+                    "value": 176
+                },
+                {
+                    "name": "agricultural statistician",
+                    "value": 170
+                },
+                {
+                    "name": "biostatistician ii",
+                    "value": 166
+                },
+                {
+                    "name": "bio-statistician",
+                    "value": 165
+                },
+                {
+                    "name": "sports statistician",
+                    "value": 155
+                },
+                {
+                    "name": "economist/statistician",
+                    "value": 154
+                },
+                {
+                    "name": "consulting statistician",
+                    "value": 153
+                },
+                {
+                    "name": "statistician i",
+                    "value": 132
+                },
+                {
+                    "name": "basketball statistician",
+                    "value": 131
+                },
+                {
+                    "name": "principal biostatistician",
+                    "value": 131
+                },
+                {
+                    "name": "senior research statistician",
+                    "value": 127
+                },
+                {
+                    "name": "economic statistician",
+                    "value": 124
+                },
+                {
+                    "name": "economist-statistician",
+                    "value": 106
+                },
+                {
+                    "name": "freelance statistician",
+                    "value": 93
+                },
+                {
+                    "name": "clinical statistician",
+                    "value": 86
+                },
+                {
+                    "name": "intern statistician",
+                    "value": 86
+                },
+                {
+                    "name": "applied statistician",
+                    "value": 83
+                },
+                {
+                    "name": "project statistician",
+                    "value": 81
+                },
+                {
+                    "name": "health statistician",
+                    "value": 78
+                },
+                {
+                    "name": "sr. biostatistician",
+                    "value": 70
+                },
+                {
+                    "name": "data analyst/statistician",
+                    "value": 69
+                },
+                {
+                    "name": "economist statistician",
+                    "value": 66
+                },
+                {
+                    "name": "bio statistician",
+                    "value": 63
+                },
+                {
+                    "name": "biostatistician intern",
+                    "value": 60
+                },
+                {
+                    "name": "supervisory survey statistician",
+                    "value": 60
+                },
+                {
+                    "name": "actuarial statistician",
+                    "value": 59
+                },
+                {
+                    "name": "statistician iii",
+                    "value": 57
+                }
+            ]
+        },
+        {
+            "name": "data entry",
+            "children": [
+                {
+                    "name": "data entry",
+                    "value": 105184
+                },
+                {
+                    "name": "data entry clerk",
+                    "value": 81332
+                },
+                {
+                    "name": "data entry operator",
+                    "value": 43082
+                },
+                {
+                    "name": "data entry specialist",
+                    "value": 33883
+                },
+                {
+                    "name": "data entry assistant",
+                    "value": 6123
+                },
+                {
+                    "name": "data entry technician",
+                    "value": 3014
+                },
+                {
+                    "name": "data entry supervisor",
+                    "value": 2800
+                },
+                {
+                    "name": "data entry officer",
+                    "value": 2188
+                },
+                {
+                    "name": "data entry associate",
+                    "value": 1715
+                },
+                {
+                    "name": "data entry analyst",
+                    "value": 1638
+                },
+                {
+                    "name": "data entry processor",
+                    "value": 1383
+                },
+                {
+                    "name": "data entry intern",
+                    "value": 1260
+                },
+                {
+                    "name": "data entry administrator",
+                    "value": 1136
+                },
+                {
+                    "name": "customer service/data entry",
+                    "value": 1095
+                },
+                {
+                    "name": "data entry coordinator",
+                    "value": 982
+                },
+                {
+                    "name": "data entry manager",
+                    "value": 982
+                },
+                {
+                    "name": "receptionist/data entry",
+                    "value": 936
+                },
+                {
+                    "name": "data entry/customer service",
+                    "value": 849
+                },
+                {
+                    "name": "data entry representative",
+                    "value": 639
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex, nofollow"/>
+        <!-- Meta -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>404 Error</title>
+        <script >
+            window.location.href = '/page-not-found';
+        </script>
+    </head>
+<body></body>
+</html>

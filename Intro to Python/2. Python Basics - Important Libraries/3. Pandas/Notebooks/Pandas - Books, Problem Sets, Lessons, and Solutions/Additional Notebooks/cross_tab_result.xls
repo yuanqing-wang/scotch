@@ -1,0 +1,8 @@
+Product_Category,Product,alibaba,amazon,flipkart,walmart,Sub-Total
+Beauty,sunscreen,7020.0,,,,7020
+Gardening,digging spade,4000.0,,,3000.0,7000
+Garments,pyjamas,,,9950.0,,9950
+Health,fitness band,,2500.0,5000.0,,7500
+Home-Decor,Sofa-set,,3000.0,,,3000
+Kitchen,Oven,,,,2000.0,2000
+Sub-Total,,11020.0,5500.0,14950.0,5000.0,36470

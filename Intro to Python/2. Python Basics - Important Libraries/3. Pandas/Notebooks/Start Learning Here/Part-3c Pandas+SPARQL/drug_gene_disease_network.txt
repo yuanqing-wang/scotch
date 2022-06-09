@@ -1,0 +1,3001 @@
+source_node	source_type	edge_type	target_node	target_type
+epinephrine	drug	interacts_with	ADRA1D	gene
+norepinephrine	drug	interacts_with	ADRA1D	gene
+clozapine	drug	interacts_with	ADRA1D	gene
+terazosin	drug	interacts_with	ADRA1D	gene
+indoramin	drug	interacts_with	ADRA1D	gene
+silodosin	drug	interacts_with	ADRA1D	gene
+risperidone	drug	interacts_with	ADRA1D	gene
+mianserin	drug	interacts_with	ADRA1D	gene
+oxymetazoline	drug	interacts_with	ADRA1D	gene
+cyproheptadine	drug	interacts_with	ADRA1D	gene
+tamsulosin	drug	interacts_with	ADRA1D	gene
+doxazosin	drug	interacts_with	ADRA1D	gene
+phentolamine	drug	interacts_with	ADRA1D	gene
+prazosin	drug	interacts_with	ADRA1D	gene
+methoxamine	drug	interacts_with	ADRA1D	gene
+dapiprazole	drug	interacts_with	ADRA1D	gene
+labetalol	drug	interacts_with	ADRA1D	gene
+alfuzosin	drug	interacts_with	ADRA1D	gene
+spiperone	drug	interacts_with	ADRA1D	gene
+ritanserin	drug	interacts_with	ADRA1D	gene
+BMY-7378	drug	interacts_with	ADRA1D	gene
+spiroxatrine	drug	interacts_with	ADRA1D	gene
+NAN 190	drug	interacts_with	ADRA1D	gene
+α-methylnoradrenaline	drug	interacts_with	ADRA1D	gene
+WB-4101	drug	interacts_with	ADRA1D	gene
+epinephrine	drug	interacts_with	ADRA1D	gene
+norepinephrine	drug	interacts_with	ADRA1D	gene
+clozapine	drug	interacts_with	ADRA1D	gene
+terazosin	drug	interacts_with	ADRA1D	gene
+indoramin	drug	interacts_with	ADRA1D	gene
+silodosin	drug	interacts_with	ADRA1D	gene
+risperidone	drug	interacts_with	ADRA1D	gene
+mianserin	drug	interacts_with	ADRA1D	gene
+oxymetazoline	drug	interacts_with	ADRA1D	gene
+cyproheptadine	drug	interacts_with	ADRA1D	gene
+tamsulosin	drug	interacts_with	ADRA1D	gene
+doxazosin	drug	interacts_with	ADRA1D	gene
+phentolamine	drug	interacts_with	ADRA1D	gene
+prazosin	drug	interacts_with	ADRA1D	gene
+methoxamine	drug	interacts_with	ADRA1D	gene
+dapiprazole	drug	interacts_with	ADRA1D	gene
+labetalol	drug	interacts_with	ADRA1D	gene
+alfuzosin	drug	interacts_with	ADRA1D	gene
+spiperone	drug	interacts_with	ADRA1D	gene
+ritanserin	drug	interacts_with	ADRA1D	gene
+BMY-7378	drug	interacts_with	ADRA1D	gene
+spiroxatrine	drug	interacts_with	ADRA1D	gene
+NAN 190	drug	interacts_with	ADRA1D	gene
+α-methylnoradrenaline	drug	interacts_with	ADRA1D	gene
+WB-4101	drug	interacts_with	ADRA1D	gene
+ibrutinib	drug	interacts_with	BLK	gene
+ibrutinib	drug	interacts_with	BLK	gene
+ibrutinib	drug	interacts_with	BLK	gene
+ibrutinib	drug	interacts_with	BLK	gene
+mitotane	drug	interacts_with	CYP11A1	gene
+sitagliptin	drug	interacts_with	DPP4	gene
+vildagliptin	drug	interacts_with	DPP4	gene
+linagliptin	drug	interacts_with	DPP4	gene
+saxagliptin	drug	interacts_with	DPP4	gene
+alogliptin	drug	interacts_with	DPP4	gene
+omarigliptin	drug	interacts_with	DPP4	gene
+Hypothetical protein CTL0156	drug	interacts_with	TP53	gene
+Hypothetical protein CT_788	drug	interacts_with	TP53	gene
+Hypothetical protein CTL0156	drug	interacts_with	TP53	gene
+Hypothetical protein CT_788	drug	interacts_with	TP53	gene
+Hypothetical protein CTL0156	drug	interacts_with	TP53	gene
+Hypothetical protein CT_788	drug	interacts_with	TP53	gene
+Hypothetical protein CTL0156	drug	interacts_with	TP53	gene
+Hypothetical protein CT_788	drug	interacts_with	TP53	gene
+everolimus	drug	interacts_with	MTOR	gene
+ridaforolimus	drug	interacts_with	MTOR	gene
+dactolisib	drug	interacts_with	MTOR	gene
+temsirolimus	drug	interacts_with	MTOR	gene
+Non-structural protein 14 [SARS-CoV-2]	drug	interacts_with	GLA	gene
+AIDA	drug	interacts_with	GRM1	gene
+CPCCOEt	drug	interacts_with	GRM1	gene
+AIDA	drug	interacts_with	GRM1	gene
+CPCCOEt	drug	interacts_with	GRM1	gene
+navitoclax	drug	interacts_with	BCL2	gene
+Epidermal growth factor receptor	drug	interacts_with	EGF	gene
+gefitinib	drug	interacts_with	EGFR	gene
+erlotinib	drug	interacts_with	EGFR	gene
+lapatinib	drug	interacts_with	EGFR	gene
+Epidermal growth factor	drug	interacts_with	EGFR	gene
+Brigatinib	drug	interacts_with	EGFR	gene
+afatinib	drug	interacts_with	EGFR	gene
+canertinib	drug	interacts_with	EGFR	gene
+neratinib	drug	interacts_with	EGFR	gene
+vandetanib	drug	interacts_with	EGFR	gene
+icotinib	drug	interacts_with	EGFR	gene
+dacomitinib	drug	interacts_with	EGFR	gene
+Inclusion membrane protein E CT_116	drug	interacts_with	EGFR	gene
+Inclusion membrane protein E CTL0371	drug	interacts_with	EGFR	gene
+osimertinib	drug	interacts_with	EGFR	gene
+gefitinib	drug	interacts_with	EGFR	gene
+erlotinib	drug	interacts_with	EGFR	gene
+lapatinib	drug	interacts_with	EGFR	gene
+Epidermal growth factor	drug	interacts_with	EGFR	gene
+Brigatinib	drug	interacts_with	EGFR	gene
+afatinib	drug	interacts_with	EGFR	gene
+canertinib	drug	interacts_with	EGFR	gene
+neratinib	drug	interacts_with	EGFR	gene
+vandetanib	drug	interacts_with	EGFR	gene
+icotinib	drug	interacts_with	EGFR	gene
+dacomitinib	drug	interacts_with	EGFR	gene
+Inclusion membrane protein E CT_116	drug	interacts_with	EGFR	gene
+Inclusion membrane protein E CTL0371	drug	interacts_with	EGFR	gene
+osimertinib	drug	interacts_with	EGFR	gene
+Isopentenyl pyrophosphate	drug	interacts_with	MVK	gene
+geranyl diphosphate	drug	interacts_with	MVK	gene
+geranylgeranyl pyrophosphate	drug	interacts_with	MVK	gene
+Isopentenyl pyrophosphate	drug	interacts_with	MVK	gene
+geranyl diphosphate	drug	interacts_with	MVK	gene
+geranylgeranyl pyrophosphate	drug	interacts_with	MVK	gene
+Isopentenyl pyrophosphate	drug	interacts_with	MVK	gene
+geranyl diphosphate	drug	interacts_with	MVK	gene
+geranylgeranyl pyrophosphate	drug	interacts_with	MVK	gene
+dabigatran	drug	interacts_with	F2	gene
+ximelagatran	drug	interacts_with	F2	gene
+Anti-thrombin antibodies	drug	interacts_with	F2	gene
+dabigatran	drug	interacts_with	F2	gene
+ximelagatran	drug	interacts_with	F2	gene
+Anti-thrombin antibodies	drug	interacts_with	F2	gene
+sorafenib	drug	interacts_with	RAF1	gene
+vemurafenib	drug	interacts_with	RAF1	gene
+sorafenib	drug	interacts_with	RAF1	gene
+vemurafenib	drug	interacts_with	RAF1	gene
+sorafenib	drug	interacts_with	RAF1	gene
+vemurafenib	drug	interacts_with	RAF1	gene
+PRE-084	drug	interacts_with	SIGMAR1	gene
+dextromethorphan	drug	interacts_with	SIGMAR1	gene
+(-)-pentazocine	drug	interacts_with	SIGMAR1	gene
+bd-1047	drug	interacts_with	SIGMAR1	gene
+Hypothetical protein CT_449	drug	interacts_with	SIGMAR1	gene
+Hypothetical protein CTL0709	drug	interacts_with	SIGMAR1	gene
+non-structural protein 6 [SARS-CoV-2]	drug	interacts_with	SIGMAR1	gene
+PRE-084	drug	interacts_with	SIGMAR1	gene
+dextromethorphan	drug	interacts_with	SIGMAR1	gene
+(-)-pentazocine	drug	interacts_with	SIGMAR1	gene
+bd-1047	drug	interacts_with	SIGMAR1	gene
+Hypothetical protein CT_449	drug	interacts_with	SIGMAR1	gene
+Hypothetical protein CTL0709	drug	interacts_with	SIGMAR1	gene
+non-structural protein 6 [SARS-CoV-2]	drug	interacts_with	SIGMAR1	gene
+glycochenodeoxycholic acid	drug	interacts_with	ABCB11	gene
+Inclusion membrane protein E CT_116	drug	interacts_with	RAC1	gene
+Inclusion membrane protein E CTL0371	drug	interacts_with	RAC1	gene
+sorafenib	drug	interacts_with	DDR2	gene
+Helicase [SARS-CoV-2]	drug	interacts_with	RDX	gene
+Helicase [SARS-CoV-2]	drug	interacts_with	RDX	gene
+semagacestat	drug	interacts_with	PSEN1	gene
+semagacestat	drug	interacts_with	PSEN1	gene
+semagacestat	drug	interacts_with	PSEN1	gene
+lonafarnib	drug	interacts_with	KRAS	gene
+lonafarnib	drug	interacts_with	KRAS	gene
+lonafarnib	drug	interacts_with	KRAS	gene
+Inclusion membrane protein F CTL0372	drug	interacts_with	COL3A1	gene
+Inclusion membrane protein F CT_117	drug	interacts_with	COL3A1	gene
+alvocidib	drug	interacts_with	CDK4	gene
+palbociclib	drug	interacts_with	CDK4	gene
+palbociclib	drug	interacts_with	CDK6	gene
+palbociclib	drug	interacts_with	CDK6	gene
+naltrexone	drug	interacts_with	OPRM1	gene
+hydrocodone	drug	interacts_with	OPRM1	gene
+methylnaltrexone	drug	interacts_with	OPRM1	gene
+tapentadol	drug	interacts_with	OPRM1	gene
+(-)-pentazocine	drug	interacts_with	OPRM1	gene
+sufentanil	drug	interacts_with	OPRM1	gene
+loperamide	drug	interacts_with	OPRM1	gene
+diprenorphine	drug	interacts_with	OPRM1	gene
+DADLE	drug	interacts_with	OPRM1	gene
+butorphanol	drug	interacts_with	OPRM1	gene
+L-morphan	drug	interacts_with	OPRM1	gene
+nalorphine	drug	interacts_with	OPRM1	gene
+naltrindole	drug	interacts_with	OPRM1	gene
+dihydromorphine	drug	interacts_with	OPRM1	gene
+nalmefene	drug	interacts_with	OPRM1	gene
+endomorphin-1	drug	interacts_with	OPRM1	gene
+alvimopan	drug	interacts_with	OPRM1	gene
+DAMGO	drug	interacts_with	OPRM1	gene
+etonitazene	drug	interacts_with	OPRM1	gene
+levallorphan	drug	interacts_with	OPRM1	gene
+levomethadone	drug	interacts_with	OPRM1	gene
+quadazocine	drug	interacts_with	OPRM1	gene
+naltriben	drug	interacts_with	OPRM1	gene
+cebranopadol	drug	interacts_with	OPRM1	gene
+eluxadoline	drug	interacts_with	OPRM1	gene
+aminooxyacetic acid	drug	interacts_with	CBS	gene
+hypothetical protein CTL0003	drug	interacts_with	CDKN2A	gene
+enoxaparin sodium	drug	interacts_with	SERPINC1	gene
+tafamidis	drug	interacts_with	TTR	gene
+tafamidis	drug	interacts_with	TTR	gene
+capsaicin	drug	interacts_with	CFTR	gene
+capsaicin	drug	interacts_with	CFTR	gene
+letrozole	drug	interacts_with	CYP19A1	gene
+aminoglutethimide	drug	interacts_with	CYP19A1	gene
+exemestane	drug	interacts_with	CYP19A1	gene
+anastrozole	drug	interacts_with	CYP19A1	gene
+testolactone	drug	interacts_with	CYP19A1	gene
+azalanstat	drug	interacts_with	CYP19A1	gene
+fadrozole	drug	interacts_with	CYP19A1	gene
+maraviroc	drug	interacts_with	CCR5	gene
+vicriviroc	drug	interacts_with	CCR5	gene
+aplaviroc	drug	interacts_with	CCR5	gene
+Cenicriviroc	drug	interacts_with	CCR5	gene
+bisphenol A	drug	interacts_with	AR	gene
+fluoxymesterone	drug	interacts_with	AR	gene
+dihydrotestosterone	drug	interacts_with	AR	gene
+mifepristone	drug	interacts_with	AR	gene
+flutamide	drug	interacts_with	AR	gene
+nandrolone	drug	interacts_with	AR	gene
+methyltestosterone	drug	interacts_with	AR	gene
+cyproterone acetate	drug	interacts_with	AR	gene
+ethylestrenol	drug	interacts_with	AR	gene
+bicalutamide	drug	interacts_with	AR	gene
+enzalutamide	drug	interacts_with	AR	gene
+metribolone	drug	interacts_with	AR	gene
+nilutamide	drug	interacts_with	AR	gene
+andarine	drug	interacts_with	AR	gene
+dromostanolone propionate	drug	interacts_with	AR	gene
+mibolerone	drug	interacts_with	AR	gene
+testosterone propionate	drug	interacts_with	AR	gene
+hydroxyflutamide	drug	interacts_with	AR	gene
+plerixafor	drug	interacts_with	CXCR4	gene
+nepicastat	drug	interacts_with	DBH	gene
+L-Tryptophan	drug	interacts_with	CASR	gene
+cinacalcet	drug	interacts_with	CASR	gene
+spermine	drug	interacts_with	CASR	gene
+NPS-2143	drug	interacts_with	CASR	gene
+ponatinib	drug	interacts_with	RET	gene
+sunitinib	drug	interacts_with	RET	gene
+sorafenib	drug	interacts_with	RET	gene
+linifanib	drug	interacts_with	RET	gene
+vandetanib	drug	interacts_with	RET	gene
+ponatinib	drug	interacts_with	RET	gene
+sunitinib	drug	interacts_with	RET	gene
+sorafenib	drug	interacts_with	RET	gene
+linifanib	drug	interacts_with	RET	gene
+vandetanib	drug	interacts_with	RET	gene
+ponatinib	drug	interacts_with	RET	gene
+sunitinib	drug	interacts_with	RET	gene
+sorafenib	drug	interacts_with	RET	gene
+linifanib	drug	interacts_with	RET	gene
+vandetanib	drug	interacts_with	RET	gene
+ponatinib	drug	interacts_with	RET	gene
+sunitinib	drug	interacts_with	RET	gene
+sorafenib	drug	interacts_with	RET	gene
+linifanib	drug	interacts_with	RET	gene
+vandetanib	drug	interacts_with	RET	gene
+ponatinib	drug	interacts_with	RET	gene
+sunitinib	drug	interacts_with	RET	gene
+sorafenib	drug	interacts_with	RET	gene
+linifanib	drug	interacts_with	RET	gene
+vandetanib	drug	interacts_with	RET	gene
+ponatinib	drug	interacts_with	RET	gene
+sunitinib	drug	interacts_with	RET	gene
+sorafenib	drug	interacts_with	RET	gene
+linifanib	drug	interacts_with	RET	gene
+vandetanib	drug	interacts_with	RET	gene
+estriol	drug	interacts_with	ESR1	gene
+tamoxifen	drug	interacts_with	ESR1	gene
+estrone	drug	interacts_with	ESR1	gene
+ethinylestradiol	drug	interacts_with	ESR1	gene
+17β-estradiol	drug	interacts_with	ESR1	gene
+diethylstilbestrol	drug	interacts_with	ESR1	gene
+raloxifene	drug	interacts_with	ESR1	gene
+lasofoxifene	drug	interacts_with	ESR1	gene
+bazedoxifene	drug	interacts_with	ESR1	gene
+Hexestrol	drug	interacts_with	ESR1	gene
+estriol	drug	interacts_with	ESR1	gene
+tamoxifen	drug	interacts_with	ESR1	gene
+estrone	drug	interacts_with	ESR1	gene
+ethinylestradiol	drug	interacts_with	ESR1	gene
+17β-estradiol	drug	interacts_with	ESR1	gene
+diethylstilbestrol	drug	interacts_with	ESR1	gene
+raloxifene	drug	interacts_with	ESR1	gene
+lasofoxifene	drug	interacts_with	ESR1	gene
+bazedoxifene	drug	interacts_with	ESR1	gene
+Hexestrol	drug	interacts_with	ESR1	gene
+estriol	drug	interacts_with	ESR1	gene
+tamoxifen	drug	interacts_with	ESR1	gene
+estrone	drug	interacts_with	ESR1	gene
+ethinylestradiol	drug	interacts_with	ESR1	gene
+17β-estradiol	drug	interacts_with	ESR1	gene
+diethylstilbestrol	drug	interacts_with	ESR1	gene
+raloxifene	drug	interacts_with	ESR1	gene
+lasofoxifene	drug	interacts_with	ESR1	gene
+bazedoxifene	drug	interacts_with	ESR1	gene
+Hexestrol	drug	interacts_with	ESR1	gene
+Urofollitropin	drug	interacts_with	FSHR	gene
+Urofollitropin	drug	interacts_with	FSHR	gene
+Urofollitropin	drug	interacts_with	FSHR	gene
+Urofollitropin	drug	interacts_with	FSHR	gene
+Urofollitropin	drug	interacts_with	FSHR	gene
+Nintedanib	drug	interacts_with	FGFR2	gene
+Nintedanib	drug	interacts_with	FGFR2	gene
+Nintedanib	drug	interacts_with	FGFR2	gene
+Nintedanib	drug	interacts_with	FGFR2	gene
+Nintedanib	drug	interacts_with	FGFR2	gene
+Nintedanib	drug	interacts_with	FGFR2	gene
+Nintedanib	drug	interacts_with	FGFR2	gene
+DL-TBOA	drug	interacts_with	SLC1A3	gene
+sunitinib	drug	interacts_with	FGFR1	gene
+sorafenib	drug	interacts_with	FGFR1	gene
+pazopanib	drug	interacts_with	FGFR1	gene
+Nintedanib	drug	interacts_with	FGFR1	gene
+sunitinib	drug	interacts_with	FGFR1	gene
+sorafenib	drug	interacts_with	FGFR1	gene
+pazopanib	drug	interacts_with	FGFR1	gene
+Nintedanib	drug	interacts_with	FGFR1	gene
+sunitinib	drug	interacts_with	FGFR1	gene
+sorafenib	drug	interacts_with	FGFR1	gene
+pazopanib	drug	interacts_with	FGFR1	gene
+Nintedanib	drug	interacts_with	FGFR1	gene
+sunitinib	drug	interacts_with	FGFR1	gene
+sorafenib	drug	interacts_with	FGFR1	gene
+pazopanib	drug	interacts_with	FGFR1	gene
+Nintedanib	drug	interacts_with	FGFR1	gene
+Nintedanib	drug	interacts_with	FGFR3	gene
+Nintedanib	drug	interacts_with	FGFR3	gene
+Nintedanib	drug	interacts_with	FGFR3	gene
+Nintedanib	drug	interacts_with	FGFR3	gene
+Nintedanib	drug	interacts_with	FGFR3	gene
+Nintedanib	drug	interacts_with	FGFR3	gene
+Nintedanib	drug	interacts_with	FGFR3	gene
+Nintedanib	drug	interacts_with	FGFR3	gene
+abarelix	drug	interacts_with	GNRHR	gene
+buserelin	drug	interacts_with	GNRHR	gene
+leuprolide	drug	interacts_with	GNRHR	gene
+triptorelin	drug	interacts_with	GNRHR	gene
+goserelin	drug	interacts_with	GNRHR	gene
+cetrorelix	drug	interacts_with	GNRHR	gene
+histrelin	drug	interacts_with	GNRHR	gene
+elagolix	drug	interacts_with	GNRHR	gene
+relugolix	drug	interacts_with	GNRHR	gene
+sufugolix	drug	interacts_with	GNRHR	gene
+flunitrazepam	drug	interacts_with	GABRA1	gene
+diazepam	drug	interacts_with	GABRA1	gene
+zolpidem	drug	interacts_with	GABRA1	gene
+alprazolam	drug	interacts_with	GABRA1	gene
+clonazepam	drug	interacts_with	GABRA1	gene
+triazolam	drug	interacts_with	GABRA1	gene
+muscimol	drug	interacts_with	GABRA1	gene
+picrotoxin	drug	interacts_with	GABRA1	gene
+flumazenil	drug	interacts_with	GABRA1	gene
+ocinaplon	drug	interacts_with	GABRA1	gene
+bicuculline	drug	interacts_with	GABRA1	gene
+gaboxadol	drug	interacts_with	GABRA1	gene
+bretazenil	drug	interacts_with	GABRA1	gene
+methyl 6,7-dimethoxy-4-ethyl-β-carboline-3-carboxylate	drug	interacts_with	GABRA1	gene
+indiplon	drug	interacts_with	GABRA1	gene
+isoguvacine	drug	interacts_with	GABRA1	gene
+L-838417	drug	interacts_with	GABRA1	gene
+Ro-15-4513	drug	interacts_with	GABRA1	gene
+ZK93423	drug	interacts_with	GABRA1	gene
+L-822179	drug	interacts_with	GABRA1	gene
+ZK93426	drug	interacts_with	GABRA1	gene
+isonipecotic acid	drug	interacts_with	GABRA1	gene
+RO4938581	drug	interacts_with	GABRA1	gene
+terfenadine	drug	interacts_with	KCNH2	gene
+astemizole	drug	interacts_with	KCNH2	gene
+disopyramide	drug	interacts_with	KCNH2	gene
+dofetilide	drug	interacts_with	KCNH2	gene
+ibutilide	drug	interacts_with	KCNH2	gene
+E4031	drug	interacts_with	KCNH2	gene
+rottlerin	drug	interacts_with	KCNH2	gene
+terfenadine	drug	interacts_with	KCNH2	gene
+astemizole	drug	interacts_with	KCNH2	gene
+disopyramide	drug	interacts_with	KCNH2	gene
+dofetilide	drug	interacts_with	KCNH2	gene
+ibutilide	drug	interacts_with	KCNH2	gene
+E4031	drug	interacts_with	KCNH2	gene
+rottlerin	drug	interacts_with	KCNH2	gene
+miglitol	drug	interacts_with	GAA	gene
+duvoglustat	drug	interacts_with	GAA	gene
+mitotane	drug	interacts_with	CYP11B1	gene
+metyrapone	drug	interacts_with	CYP11B1	gene
+fadrozole	drug	interacts_with	CYP11B1	gene
+piracetam	drug	interacts_with	GRIA3	gene
+allopurinol	drug	interacts_with	XDH	gene
+sunitinib	drug	interacts_with	KIT	gene
+sorafenib	drug	interacts_with	KIT	gene
+masitinib	drug	interacts_with	KIT	gene
+cediranib	drug	interacts_with	KIT	gene
+crenolanib	drug	interacts_with	KIT	gene
+linifanib	drug	interacts_with	KIT	gene
+pazopanib	drug	interacts_with	KIT	gene
+semaxanib	drug	interacts_with	KIT	gene
+sunitinib	drug	interacts_with	KIT	gene
+sorafenib	drug	interacts_with	KIT	gene
+masitinib	drug	interacts_with	KIT	gene
+cediranib	drug	interacts_with	KIT	gene
+crenolanib	drug	interacts_with	KIT	gene
+linifanib	drug	interacts_with	KIT	gene
+pazopanib	drug	interacts_with	KIT	gene
+semaxanib	drug	interacts_with	KIT	gene
+sunitinib	drug	interacts_with	KIT	gene
+sorafenib	drug	interacts_with	KIT	gene
+masitinib	drug	interacts_with	KIT	gene
+cediranib	drug	interacts_with	KIT	gene
+crenolanib	drug	interacts_with	KIT	gene
+linifanib	drug	interacts_with	KIT	gene
+pazopanib	drug	interacts_with	KIT	gene
+semaxanib	drug	interacts_with	KIT	gene
+diclofenac	drug	interacts_with	PPARG	gene
+resveratrol	drug	interacts_with	PPARG	gene
+linoleic acid	drug	interacts_with	PPARG	gene
+indomethacin	drug	interacts_with	PPARG	gene
+mesalazine	drug	interacts_with	PPARG	gene
+pioglitazone	drug	interacts_with	PPARG	gene
+bexarotene	drug	interacts_with	PPARG	gene
+rosiglitazone	drug	interacts_with	PPARG	gene
+bardoxolone methyl	drug	interacts_with	PPARG	gene
+ciglitazone	drug	interacts_with	PPARG	gene
+farglitazar	drug	interacts_with	PPARG	gene
+netoglitazone	drug	interacts_with	PPARG	gene
+Troglitazone	drug	interacts_with	PPARG	gene
+diclofenac	drug	interacts_with	PPARG	gene
+resveratrol	drug	interacts_with	PPARG	gene
+linoleic acid	drug	interacts_with	PPARG	gene
+indomethacin	drug	interacts_with	PPARG	gene
+mesalazine	drug	interacts_with	PPARG	gene
+pioglitazone	drug	interacts_with	PPARG	gene
+bexarotene	drug	interacts_with	PPARG	gene
+rosiglitazone	drug	interacts_with	PPARG	gene
+bardoxolone methyl	drug	interacts_with	PPARG	gene
+ciglitazone	drug	interacts_with	PPARG	gene
+farglitazar	drug	interacts_with	PPARG	gene
+netoglitazone	drug	interacts_with	PPARG	gene
+Troglitazone	drug	interacts_with	PPARG	gene
+hydrochlorothiazide	drug	interacts_with	SLC12A3	gene
+metolazone	drug	interacts_with	SLC12A3	gene
+chlorothiazide	drug	interacts_with	SLC12A3	gene
+cyclothiazide	drug	interacts_with	SLC12A3	gene
+arachidonic acid	drug	interacts_with	TRPC6	gene
+hydron	drug	interacts_with	TRPC6	gene
+2-aminoethoxydiphenylborate	drug	interacts_with	TRPC6	gene
+20-HETE	drug	interacts_with	TRPC6	gene
+tetraethylammonium	drug	interacts_with	KCNN3	gene
+tubocurarine	drug	interacts_with	KCNN3	gene
+dapagliflozin	drug	interacts_with	SLC5A2	gene
+canagliflozin	drug	interacts_with	SLC5A2	gene
+empagliflozin	drug	interacts_with	SLC5A2	gene
+sergliflozin etabonate	drug	interacts_with	SLC5A2	gene
+pregnenolone sulfate	drug	interacts_with	TRPM1	gene
+2-aminoethoxydiphenylborate	drug	interacts_with	TRPC3	gene
+2-aminoethoxydiphenylborate	drug	interacts_with	TRPC4	gene
+adenosine triphosphate	drug	interacts_with	TRPM4	gene
+adenosine diphosphate	drug	interacts_with	TRPM4	gene
+adenosine	drug	interacts_with	TRPM4	gene
+adenosine monophosphate	drug	interacts_with	TRPM4	gene
+clotrimazole	drug	interacts_with	TRPM4	gene
+spermine	drug	interacts_with	TRPM4	gene
+AMP-PNP	drug	interacts_with	TRPM4	gene
+tetrahydrocannabinol	drug	interacts_with	TRPM8	gene
+L-menthol	drug	interacts_with	TRPM8	gene
+linoleic acid	drug	interacts_with	TRPM8	gene
+anandamide	drug	interacts_with	TRPM8	gene
+clotrimazole	drug	interacts_with	TRPM8	gene
+cannabidiol	drug	interacts_with	TRPM8	gene
+NADA	drug	interacts_with	TRPM8	gene
+5-benzyloxytryptamine	drug	interacts_with	TRPM8	gene
+tetrahydrocannabinol	drug	interacts_with	TRPM8	gene
+L-menthol	drug	interacts_with	TRPM8	gene
+linoleic acid	drug	interacts_with	TRPM8	gene
+anandamide	drug	interacts_with	TRPM8	gene
+clotrimazole	drug	interacts_with	TRPM8	gene
+cannabidiol	drug	interacts_with	TRPM8	gene
+NADA	drug	interacts_with	TRPM8	gene
+5-benzyloxytryptamine	drug	interacts_with	TRPM8	gene
+tetrahydrocannabinol	drug	interacts_with	TRPM8	gene
+L-menthol	drug	interacts_with	TRPM8	gene
+linoleic acid	drug	interacts_with	TRPM8	gene
+anandamide	drug	interacts_with	TRPM8	gene
+clotrimazole	drug	interacts_with	TRPM8	gene
+cannabidiol	drug	interacts_with	TRPM8	gene
+NADA	drug	interacts_with	TRPM8	gene
+5-benzyloxytryptamine	drug	interacts_with	TRPM8	gene
+tetrahydrocannabinol	drug	interacts_with	TRPM8	gene
+L-menthol	drug	interacts_with	TRPM8	gene
+linoleic acid	drug	interacts_with	TRPM8	gene
+anandamide	drug	interacts_with	TRPM8	gene
+clotrimazole	drug	interacts_with	TRPM8	gene
+cannabidiol	drug	interacts_with	TRPM8	gene
+NADA	drug	interacts_with	TRPM8	gene
+5-benzyloxytryptamine	drug	interacts_with	TRPM8	gene
+cholesterol	drug	interacts_with	RORA	gene
+cholesterol	drug	interacts_with	RORA	gene
+cholesterol	drug	interacts_with	RORA	gene
+adenosine triphosphate	drug	interacts_with	TRPM7	gene
+adenosine cyclic phosphate	drug	interacts_with	TRPM7	gene
+hydron	drug	interacts_with	TRPM7	gene
+nafamostat	drug	interacts_with	TRPM7	gene
+balanol	drug	interacts_with	GRK1	gene
+liothyronine	drug	interacts_with	THRA	gene
+DL-3,3',5'-triiodothyronine	drug	interacts_with	THRA	gene
+tiratricol	drug	interacts_with	THRA	gene
+mefenamic acid	drug	interacts_with	KCNQ1	gene
+niflumic acid	drug	interacts_with	KCNQ1	gene
+mefenamic acid	drug	interacts_with	KCNQ1	gene
+niflumic acid	drug	interacts_with	KCNQ1	gene
+mefenamic acid	drug	interacts_with	KCNQ1	gene
+niflumic acid	drug	interacts_with	KCNQ1	gene
+lonafarnib	drug	interacts_with	HRAS	gene
+lonafarnib	drug	interacts_with	HRAS	gene
+lonafarnib	drug	interacts_with	HRAS	gene
+lonafarnib	drug	interacts_with	HRAS	gene
+oxytocin	drug	interacts_with	OXTR	gene
+arginine vasopressin	drug	interacts_with	OXTR	gene
+vasotocin	drug	interacts_with	OXTR	gene
+L-371,257	drug	interacts_with	OXTR	gene
+nelivaptan	drug	interacts_with	OXTR	gene
+relcovaptan	drug	interacts_with	OXTR	gene
+tolbutamide	drug	interacts_with	KCNJ11	gene
+glyburide	drug	interacts_with	KCNJ11	gene
+minoxidil	drug	interacts_with	KCNJ11	gene
+nicorandil	drug	interacts_with	KCNJ11	gene
+tolbutamide	drug	interacts_with	KCNJ11	gene
+glyburide	drug	interacts_with	KCNJ11	gene
+minoxidil	drug	interacts_with	KCNJ11	gene
+nicorandil	drug	interacts_with	KCNJ11	gene
+tolbutamide	drug	interacts_with	KCNJ11	gene
+glyburide	drug	interacts_with	KCNJ11	gene
+minoxidil	drug	interacts_with	KCNJ11	gene
+nicorandil	drug	interacts_with	KCNJ11	gene
+tolbutamide	drug	interacts_with	KCNJ11	gene
+glyburide	drug	interacts_with	KCNJ11	gene
+minoxidil	drug	interacts_with	KCNJ11	gene
+nicorandil	drug	interacts_with	KCNJ11	gene
+tetraethylammonium	drug	interacts_with	KCNQ2	gene
+flupirtine	drug	interacts_with	KCNQ2	gene
+ezogabine	drug	interacts_with	KCNQ2	gene
+linopirdine	drug	interacts_with	KCNQ2	gene
+tetraethylammonium	drug	interacts_with	KCNQ3	gene
+ezogabine	drug	interacts_with	KCNQ3	gene
+6-methyl-2-(phenylethynyl)pyridine	drug	interacts_with	GRM5	gene
+ADX-47273	drug	interacts_with	GRM5	gene
+CDPPB	drug	interacts_with	GRM5	gene
+CTEP	drug	interacts_with	GRM5	gene
+fenobam	drug	interacts_with	GRM5	gene
+MTEP	drug	interacts_with	GRM5	gene
+CHPG	drug	interacts_with	GRM5	gene
+dipraglurant	drug	interacts_with	GRM5	gene
+6-methyl-2-(phenylethynyl)pyridine	drug	interacts_with	GRM5	gene
+ADX-47273	drug	interacts_with	GRM5	gene
+CDPPB	drug	interacts_with	GRM5	gene
+CTEP	drug	interacts_with	GRM5	gene
+fenobam	drug	interacts_with	GRM5	gene
+MTEP	drug	interacts_with	GRM5	gene
+CHPG	drug	interacts_with	GRM5	gene
+dipraglurant	drug	interacts_with	GRM5	gene
+DCPG	drug	interacts_with	GRM6	gene
+eglumetad	drug	interacts_with	GRM6	gene
+LY379268	drug	interacts_with	GRM6	gene
+DCG-IV	drug	interacts_with	GRM7	gene
+DCG-IV	drug	interacts_with	GRM7	gene
+DCG-IV	drug	interacts_with	GRM7	gene
+DCG-IV	drug	interacts_with	GRM7	gene
+DCG-IV	drug	interacts_with	GRM8	gene
+DCPG	drug	interacts_with	GRM8	gene
+eglumetad	drug	interacts_with	GRM8	gene
+L-AP4	drug	interacts_with	GRM8	gene
+DCG-IV	drug	interacts_with	GRM8	gene
+DCPG	drug	interacts_with	GRM8	gene
+eglumetad	drug	interacts_with	GRM8	gene
+L-AP4	drug	interacts_with	GRM8	gene
+DCG-IV	drug	interacts_with	GRM8	gene
+DCPG	drug	interacts_with	GRM8	gene
+eglumetad	drug	interacts_with	GRM8	gene
+L-AP4	drug	interacts_with	GRM8	gene
+tretinoin	drug	interacts_with	RARB	gene
+adapalene	drug	interacts_with	RARB	gene
+alitretinoin	drug	interacts_with	RARB	gene
+tazarotene	drug	interacts_with	RARB	gene
+tamibarotene	drug	interacts_with	RARB	gene
+cabozantinib	drug	interacts_with	MET	gene
+crizotinib	drug	interacts_with	MET	gene
+tivantinib	drug	interacts_with	MET	gene
+cabozantinib	drug	interacts_with	MET	gene
+crizotinib	drug	interacts_with	MET	gene
+tivantinib	drug	interacts_with	MET	gene
+cabozantinib	drug	interacts_with	MET	gene
+crizotinib	drug	interacts_with	MET	gene
+tivantinib	drug	interacts_with	MET	gene
+chrysin	drug	interacts_with	CYP1B1	gene
+chrysin	drug	interacts_with	CYP1B1	gene
+pethidine	drug	interacts_with	OPRM1	gene
+morphine	drug	interacts_with	OPRM1	gene
+codeine	drug	interacts_with	OPRM1	gene
+(RS)-methadone	drug	interacts_with	OPRM1	gene
+nalbuphine	drug	interacts_with	OPRM1	gene
+hydromorphone	drug	interacts_with	OPRM1	gene
+fentanyl	drug	interacts_with	OPRM1	gene
+buprenorphine	drug	interacts_with	OPRM1	gene
+sunitinib	drug	interacts_with	FLT3	gene
+sorafenib	drug	interacts_with	FLT3	gene
+pacritinib	drug	interacts_with	FLT3	gene
+cediranib	drug	interacts_with	FLT3	gene
+crenolanib	drug	interacts_with	FLT3	gene
+lestaurtinib	drug	interacts_with	FLT3	gene
+linifanib	drug	interacts_with	FLT3	gene
+midostaurin	drug	interacts_with	FLT3	gene
+ceritinib	drug	interacts_with	FLT3	gene
+phenelzine	drug	interacts_with	CYP2C8	gene
+phenelzine	drug	interacts_with	CYP2C8	gene
+PF-4800567	drug	interacts_with	CSNK1D	gene
+topiramate	drug	interacts_with	CA4	gene
+acetazolamide	drug	interacts_with	CA4	gene
+chlorthalidone	drug	interacts_with	CA4	gene
+methazolamide	drug	interacts_with	CA4	gene
+dichlorphenamide	drug	interacts_with	CA4	gene
+Inclusion membrane protein E CT_116	drug	interacts_with	CADM1	gene
+Inclusion membrane protein E CTL0371	drug	interacts_with	CADM1	gene
+CGS8216	drug	interacts_with	GABRA1	gene
+SB-203580	drug	interacts_with	GAK	gene
+linaclotide	drug	interacts_with	GUCY2C	gene
+nifedipine	drug	interacts_with	CACNA1C	gene
+verapamil	drug	interacts_with	CACNA1C	gene
+diltiazem	drug	interacts_with	CACNA1C	gene
+nisoldipine	drug	interacts_with	CACNA1C	gene
+mibefradil	drug	interacts_with	CACNA1C	gene
+nifedipine	drug	interacts_with	CACNA1C	gene
+verapamil	drug	interacts_with	CACNA1C	gene
+diltiazem	drug	interacts_with	CACNA1C	gene
+nisoldipine	drug	interacts_with	CACNA1C	gene
+mibefradil	drug	interacts_with	CACNA1C	gene
+nifedipine	drug	interacts_with	CACNA1C	gene
+verapamil	drug	interacts_with	CACNA1C	gene
+diltiazem	drug	interacts_with	CACNA1C	gene
+nisoldipine	drug	interacts_with	CACNA1C	gene
+mibefradil	drug	interacts_with	CACNA1C	gene
+nifedipine	drug	interacts_with	CACNA1C	gene
+verapamil	drug	interacts_with	CACNA1C	gene
+diltiazem	drug	interacts_with	CACNA1C	gene
+nisoldipine	drug	interacts_with	CACNA1C	gene
+mibefradil	drug	interacts_with	CACNA1C	gene
+nifedipine	drug	interacts_with	CACNA1C	gene
+verapamil	drug	interacts_with	CACNA1C	gene
+diltiazem	drug	interacts_with	CACNA1C	gene
+nisoldipine	drug	interacts_with	CACNA1C	gene
+mibefradil	drug	interacts_with	CACNA1C	gene
+nifedipine	drug	interacts_with	CACNA1C	gene
+verapamil	drug	interacts_with	CACNA1C	gene
+diltiazem	drug	interacts_with	CACNA1C	gene
+nisoldipine	drug	interacts_with	CACNA1C	gene
+mibefradil	drug	interacts_with	CACNA1C	gene
+anisindione	drug	interacts_with	GGCX	gene
+Hypothetical protein CT_556	drug	interacts_with	GGCX	gene
+Hypothetical protein CTL0819	drug	interacts_with	GGCX	gene
+membrane protein [SARS-CoV-2]	drug	interacts_with	GGCX	gene
+Ziconotide	drug	interacts_with	CACNA1B	gene
+aniracetam	drug	interacts_with	GRIA3	gene
+(S)-AMPA	drug	interacts_with	GRIA3	gene
+NBQX	drug	interacts_with	GRIA3	gene
+CX546	drug	interacts_with	GRIA3	gene
+cx516	drug	interacts_with	GRIA3	gene
+cyclothiazide	drug	interacts_with	GRIA3	gene
+GYKI-2466	drug	interacts_with	GRIA3	gene
+S-18986	drug	interacts_with	GRIA3	gene
+IDRA-21	drug	interacts_with	GRIA3	gene
+tezampanel	drug	interacts_with	GRIA3	gene
+LY-300168	drug	interacts_with	GRIA3	gene
+Joro toxin	drug	interacts_with	GRIA3	gene
+argiotoxin	drug	interacts_with	GRIA3	gene
+fenclonine	drug	interacts_with	PAH	gene
+Brigatinib	drug	interacts_with	INSR	gene
+ceritinib	drug	interacts_with	INSR	gene
+genistein	drug	interacts_with	CFTR	gene
+glyburide	drug	interacts_with	CFTR	gene
+felodipine	drug	interacts_with	CFTR	gene
+nimodipine	drug	interacts_with	CFTR	gene
+apigenin	drug	interacts_with	CFTR	gene
+ivacaftor	drug	interacts_with	CFTR	gene
+genistein	drug	interacts_with	CFTR	gene
+glyburide	drug	interacts_with	CFTR	gene
+felodipine	drug	interacts_with	CFTR	gene
+nimodipine	drug	interacts_with	CFTR	gene
+apigenin	drug	interacts_with	CFTR	gene
+ivacaftor	drug	interacts_with	CFTR	gene
+ibrutinib	drug	interacts_with	BTK	gene
+telaprevir	drug	interacts_with	CTSA	gene
+boceprevir	drug	interacts_with	CTSA	gene
+clomipramine	drug	interacts_with	SLC6A3	gene
+mazindol	drug	interacts_with	SLC6A3	gene
+nomifensine	drug	interacts_with	SLC6A3	gene
+atomoxetine	drug	interacts_with	SLC6A3	gene
+methylphenidate	drug	interacts_with	SLC6A3	gene
+trimipramine	drug	interacts_with	SLC6A3	gene
+sibutramine	drug	interacts_with	SLC6A3	gene
+bupropion	drug	interacts_with	SLC6A3	gene
+dexmethylphenidate	drug	interacts_with	SLC6A3	gene
+dextroamphetamine	drug	interacts_with	SLC6A3	gene
+phenelzine	drug	interacts_with	SLC6A3	gene
+Desvenlafaxine	drug	interacts_with	SLC6A3	gene
+gbr-12935	drug	interacts_with	SLC6A3	gene
+levomilnacipran	drug	interacts_with	SLC6A3	gene
+WIN35428	drug	interacts_with	SLC6A3	gene
+Brigatinib	drug	interacts_with	IGF1R	gene
+ceritinib	drug	interacts_with	IGF1R	gene
+Inclusion membrane protein E CT_116	drug	interacts_with	IGF2R	gene
+Inclusion membrane protein E CTL0371	drug	interacts_with	IGF2R	gene
+adenosine diphosphate	drug	interacts_with	P2RY12	gene
+1-octanol	drug	interacts_with	GJA1	gene
+flufenamic acid	drug	interacts_with	GJA1	gene
+carbenoxolone	drug	interacts_with	GJA1	gene
+1-octanol	drug	interacts_with	GJA1	gene
+flufenamic acid	drug	interacts_with	GJA1	gene
+carbenoxolone	drug	interacts_with	GJA1	gene
+1-octanol	drug	interacts_with	GJA1	gene
+flufenamic acid	drug	interacts_with	GJA1	gene
+carbenoxolone	drug	interacts_with	GJA1	gene
+1-octanol	drug	interacts_with	GJA1	gene
+flufenamic acid	drug	interacts_with	GJA1	gene
+carbenoxolone	drug	interacts_with	GJA1	gene
+ruxolitinib	drug	interacts_with	TYK2	gene
+ruxolitinib	drug	interacts_with	TYK2	gene
+ruxolitinib	drug	interacts_with	TYK2	gene
+Vesamicol	drug	interacts_with	SLC18A3	gene
+cortisol	drug	interacts_with	NR3C1	gene
+desoximetasone	drug	interacts_with	NR3C1	gene
+mifepristone	drug	interacts_with	NR3C1	gene
+betamethasone	drug	interacts_with	NR3C1	gene
+methylprednisolone	drug	interacts_with	NR3C1	gene
+Clobetasol propionate	drug	interacts_with	NR3C1	gene
+budesonide	drug	interacts_with	NR3C1	gene
+dexamethasone	drug	interacts_with	NR3C1	gene
+prednisone	drug	interacts_with	NR3C1	gene
+fluorometholone	drug	interacts_with	NR3C1	gene
+difluprednate	drug	interacts_with	NR3C1	gene
+fluocinolone acetonide	drug	interacts_with	NR3C1	gene
+desoxycortone	drug	interacts_with	NR3C1	gene
+fluticasone	drug	interacts_with	NR3C1	gene
+triamcinolone	drug	interacts_with	NR3C1	gene
+triamcinolone acetonide	drug	interacts_with	NR3C1	gene
+Ciclesonide	drug	interacts_with	NR3C1	gene
+fluocinonide	drug	interacts_with	NR3C1	gene
+RU28362	drug	interacts_with	NR3C1	gene
+fluticasone propionate	drug	interacts_with	NR3C1	gene
+prednisolone	drug	interacts_with	NR3C1	gene
+prunetin	drug	interacts_with	ALDH2	gene
+Alda-1	drug	interacts_with	ALDH2	gene
+prunetin	drug	interacts_with	ALDH2	gene
+Alda-1	drug	interacts_with	ALDH2	gene
+prunetin	drug	interacts_with	ALDH2	gene
+Alda-1	drug	interacts_with	ALDH2	gene
+prunetin	drug	interacts_with	ALDH2	gene
+Alda-1	drug	interacts_with	ALDH2	gene
+prunetin	drug	interacts_with	ALDH2	gene
+Alda-1	drug	interacts_with	ALDH2	gene
+Hypothetical protein CT_728	drug	interacts_with	SLC19A2	gene
+Hypothetical protein CTL0097	drug	interacts_with	SLC19A2	gene
+momelotinib	drug	interacts_with	JAK2	gene
+pacritinib	drug	interacts_with	JAK2	gene
+baricitinib	drug	interacts_with	JAK2	gene
+ruxolitinib	drug	interacts_with	JAK2	gene
+momelotinib	drug	interacts_with	JAK2	gene
+pacritinib	drug	interacts_with	JAK2	gene
+baricitinib	drug	interacts_with	JAK2	gene
+ruxolitinib	drug	interacts_with	JAK2	gene
+momelotinib	drug	interacts_with	JAK2	gene
+pacritinib	drug	interacts_with	JAK2	gene
+baricitinib	drug	interacts_with	JAK2	gene
+ruxolitinib	drug	interacts_with	JAK2	gene
+momelotinib	drug	interacts_with	JAK2	gene
+pacritinib	drug	interacts_with	JAK2	gene
+baricitinib	drug	interacts_with	JAK2	gene
+ruxolitinib	drug	interacts_with	JAK2	gene
+momelotinib	drug	interacts_with	JAK2	gene
+pacritinib	drug	interacts_with	JAK2	gene
+baricitinib	drug	interacts_with	JAK2	gene
+ruxolitinib	drug	interacts_with	JAK2	gene
+ticagrelor	drug	interacts_with	P2RY12	gene
+cangrelor	drug	interacts_with	P2RY12	gene
+tropicamide	drug	interacts_with	CHRM3	gene
+amitriptyline	drug	interacts_with	CHRM3	gene
+darifenacin	drug	interacts_with	CHRM3	gene
+acetylcholine	drug	interacts_with	CHRM3	gene
+3-quinuclidinyl-benzilate	drug	interacts_with	CHRM3	gene
+brucine	drug	interacts_with	CHRM3	gene
+pilocarpine	drug	interacts_with	CHRM3	gene
+glycopyrrolate	drug	interacts_with	CHRM3	gene
+biperiden	drug	interacts_with	CHRM3	gene
+vincamine	drug	interacts_with	CHRM3	gene
+bethanechol	drug	interacts_with	CHRM3	gene
+pirenzepine	drug	interacts_with	CHRM3	gene
+arecoline	drug	interacts_with	CHRM3	gene
+tolterodine	drug	interacts_with	CHRM3	gene
+aclidinium	drug	interacts_with	CHRM3	gene
+oxotremorine	drug	interacts_with	CHRM3	gene
+(RS)-oxybutynin	drug	interacts_with	CHRM3	gene
+vinburnine	drug	interacts_with	CHRM3	gene
+dicyclomine	drug	interacts_with	CHRM3	gene
+propantheline	drug	interacts_with	CHRM3	gene
+clidinium	drug	interacts_with	CHRM3	gene
+hexocyclium	drug	interacts_with	CHRM3	gene
+himbacine	drug	interacts_with	CHRM3	gene
+milameline	drug	interacts_with	CHRM3	gene
+sabcomeline	drug	interacts_with	CHRM3	gene
+xanomeline	drug	interacts_with	CHRM3	gene
+methoctramine free base	drug	interacts_with	CHRM3	gene
+umeclidinium	drug	interacts_with	CHRM3	gene
+tropicamide	drug	interacts_with	CHRM3	gene
+amitriptyline	drug	interacts_with	CHRM3	gene
+darifenacin	drug	interacts_with	CHRM3	gene
+acetylcholine	drug	interacts_with	CHRM3	gene
+3-quinuclidinyl-benzilate	drug	interacts_with	CHRM3	gene
+brucine	drug	interacts_with	CHRM3	gene
+pilocarpine	drug	interacts_with	CHRM3	gene
+glycopyrrolate	drug	interacts_with	CHRM3	gene
+biperiden	drug	interacts_with	CHRM3	gene
+vincamine	drug	interacts_with	CHRM3	gene
+bethanechol	drug	interacts_with	CHRM3	gene
+pirenzepine	drug	interacts_with	CHRM3	gene
+arecoline	drug	interacts_with	CHRM3	gene
+tolterodine	drug	interacts_with	CHRM3	gene
+aclidinium	drug	interacts_with	CHRM3	gene
+oxotremorine	drug	interacts_with	CHRM3	gene
+(RS)-oxybutynin	drug	interacts_with	CHRM3	gene
+vinburnine	drug	interacts_with	CHRM3	gene
+dicyclomine	drug	interacts_with	CHRM3	gene
+propantheline	drug	interacts_with	CHRM3	gene
+clidinium	drug	interacts_with	CHRM3	gene
+hexocyclium	drug	interacts_with	CHRM3	gene
+himbacine	drug	interacts_with	CHRM3	gene
+milameline	drug	interacts_with	CHRM3	gene
+sabcomeline	drug	interacts_with	CHRM3	gene
+xanomeline	drug	interacts_with	CHRM3	gene
+methoctramine free base	drug	interacts_with	CHRM3	gene
+umeclidinium	drug	interacts_with	CHRM3	gene
+Non-structural protein 9 [SARS-CoV-2]	drug	interacts_with	FBN2	gene
+picrotoxin	drug	interacts_with	GABRG2	gene
+1-octanol	drug	interacts_with	GJA8	gene
+flufenamic acid	drug	interacts_with	GJA8	gene
+carbenoxolone	drug	interacts_with	GJA8	gene
+1-octanol	drug	interacts_with	GJB1	gene
+flufenamic acid	drug	interacts_with	GJB1	gene
+carbenoxolone	drug	interacts_with	GJB1	gene
+1-octanol	drug	interacts_with	GJB2	gene
+flufenamic acid	drug	interacts_with	GJB2	gene
+carbenoxolone	drug	interacts_with	GJB2	gene
+1-octanol	drug	interacts_with	GJB2	gene
+flufenamic acid	drug	interacts_with	GJB2	gene
+carbenoxolone	drug	interacts_with	GJB2	gene
+1-octanol	drug	interacts_with	GJB2	gene
+flufenamic acid	drug	interacts_with	GJB2	gene
+carbenoxolone	drug	interacts_with	GJB2	gene
+1-octanol	drug	interacts_with	GJB2	gene
+flufenamic acid	drug	interacts_with	GJB2	gene
+carbenoxolone	drug	interacts_with	GJB2	gene
+1-octanol	drug	interacts_with	GJB2	gene
+flufenamic acid	drug	interacts_with	GJB2	gene
+carbenoxolone	drug	interacts_with	GJB2	gene
+1-octanol	drug	interacts_with	GJB3	gene
+flufenamic acid	drug	interacts_with	GJB3	gene
+carbenoxolone	drug	interacts_with	GJB3	gene
+1-octanol	drug	interacts_with	GJB6	gene
+flufenamic acid	drug	interacts_with	GJB6	gene
+carbenoxolone	drug	interacts_with	GJB6	gene
+1-octanol	drug	interacts_with	GJB6	gene
+flufenamic acid	drug	interacts_with	GJB6	gene
+carbenoxolone	drug	interacts_with	GJB6	gene
+1-octanol	drug	interacts_with	GJB6	gene
+flufenamic acid	drug	interacts_with	GJB6	gene
+carbenoxolone	drug	interacts_with	GJB6	gene
+1-octanol	drug	interacts_with	GJC2	gene
+flufenamic acid	drug	interacts_with	GJC2	gene
+carbenoxolone	drug	interacts_with	GJC2	gene
+Inclusion membrane protein E CT_116	drug	interacts_with	DPP9	gene
+Inclusion membrane protein E CTL0371	drug	interacts_with	DPP9	gene
+1-octanol	drug	interacts_with	GJB4	gene
+flufenamic acid	drug	interacts_with	GJB4	gene
+carbenoxolone	drug	interacts_with	GJB4	gene
+nafamostat	drug	interacts_with	C1R	gene
+olaparib	drug	interacts_with	PARP1	gene
+rucaparib	drug	interacts_with	PARP1	gene
+Brigatinib	drug	interacts_with	ALK	gene
+crizotinib	drug	interacts_with	ALK	gene
+ceritinib	drug	interacts_with	ALK	gene
+Hypothetical protein CT_005	drug	interacts_with	ASPH	gene
+Hypothetical protein CTL0260	drug	interacts_with	ASPH	gene
+nifedipine	drug	interacts_with	CACNA1S	gene
+verapamil	drug	interacts_with	CACNA1S	gene
+diltiazem	drug	interacts_with	CACNA1S	gene
+staurosporine	drug	interacts_with	CAMK2B	gene
+staurosporine	drug	interacts_with	CAMK2B	gene
+staurosporine	drug	interacts_with	CAMK2B	gene
+pancuronium (cation)	drug	interacts_with	CHRNA1	gene
+succinylcholine	drug	interacts_with	CHRNA1	gene
+mecamylamine	drug	interacts_with	CHRNA1	gene
+hexamethonium	drug	interacts_with	CHRNA2	gene
+mecamylamine	drug	interacts_with	CHRNA2	gene
+hexamethonium	drug	interacts_with	CHRNA3	gene
+mecamylamine	drug	interacts_with	CHRNA3	gene
+hexamethonium	drug	interacts_with	CHRNA3	gene
+mecamylamine	drug	interacts_with	CHRNA3	gene
+furosemide	drug	interacts_with	GPR35	gene
+pamoic acid	drug	interacts_with	GPR35	gene
+kynurenic acid	drug	interacts_with	GPR35	gene
+zaprinast	drug	interacts_with	GPR35	gene
+furosemide	drug	interacts_with	GPR35	gene
+pamoic acid	drug	interacts_with	GPR35	gene
+kynurenic acid	drug	interacts_with	GPR35	gene
+zaprinast	drug	interacts_with	GPR35	gene
+furosemide	drug	interacts_with	GPR35	gene
+pamoic acid	drug	interacts_with	GPR35	gene
+kynurenic acid	drug	interacts_with	GPR35	gene
+zaprinast	drug	interacts_with	GPR35	gene
+anandamide	drug	interacts_with	KCNA2	gene
+Hypothetical protein CT_164	drug	interacts_with	LPA	gene
+desmosterol	drug	interacts_with	NR1H3	gene
+(25R)-cholest-5-ene-3β,26-diol	drug	interacts_with	NR1H3	gene
+Hypothetical protein CT_449	drug	interacts_with	DDHD2	gene
+Hypothetical protein CTL0709	drug	interacts_with	DDHD2	gene
+Helicase [SARS-CoV-2]	drug	interacts_with	FYCO1	gene
+progesterone	drug	interacts_with	CATSPER2	gene
+alprostadil	drug	interacts_with	CATSPER2	gene
+mibefradil	drug	interacts_with	CATSPER2	gene
+Helicase [SARS-CoV-2]	drug	interacts_with	TBK1	gene
+ingenol mebutate	drug	interacts_with	PRKCB	gene
+balanol	drug	interacts_with	PRKCB	gene
+enzastaurin	drug	interacts_with	PRKCB	gene
+ruboxistaurin	drug	interacts_with	PRKCB	gene
+ingenol mebutate	drug	interacts_with	PRKCG	gene
+balanol	drug	interacts_with	PRKCG	gene
+enzastaurin	drug	interacts_with	PRKCG	gene
+ruboxistaurin	drug	interacts_with	PRKCG	gene
+balanol	drug	interacts_with	PRKCH	gene
+balanol	drug	interacts_with	PRKCH	gene
+Hypothetical protein CTL0156	drug	interacts_with	INF2	gene
+Hypothetical protein CT_788	drug	interacts_with	INF2	gene
+Hypothetical protein CTL0156	drug	interacts_with	INF2	gene
+Hypothetical protein CT_788	drug	interacts_with	INF2	gene
+fadrozole	drug	interacts_with	CYP11B2	gene
+sivelestat	drug	interacts_with	ELANE	gene
+sivelestat	drug	interacts_with	ELANE	gene
+lidocaine	drug	interacts_with	SCN5A	gene
+lidocaine	drug	interacts_with	SCN5A	gene
+lidocaine	drug	interacts_with	SCN5A	gene
+lidocaine	drug	interacts_with	SCN5A	gene
+caffeine	drug	interacts_with	RYR2	gene
+adenosine triphosphate	drug	interacts_with	RYR2	gene
+procaine	drug	interacts_with	RYR2	gene
+suramin	drug	interacts_with	RYR2	gene
+caffeine	drug	interacts_with	RYR2	gene
+adenosine triphosphate	drug	interacts_with	RYR2	gene
+procaine	drug	interacts_with	RYR2	gene
+suramin	drug	interacts_with	RYR2	gene
+caffeine	drug	interacts_with	RYR2	gene
+adenosine triphosphate	drug	interacts_with	RYR2	gene
+procaine	drug	interacts_with	RYR2	gene
+suramin	drug	interacts_with	RYR2	gene
+vismodegib	drug	interacts_with	SMO	gene
+saridegib	drug	interacts_with	SMO	gene
+sonidegib	drug	interacts_with	SMO	gene
+LY-294002	drug	interacts_with	PIK3CA	gene
+dactolisib	drug	interacts_with	PIK3CA	gene
+idelalisib	drug	interacts_with	PIK3CA	gene
+LY-294002	drug	interacts_with	PIK3CA	gene
+dactolisib	drug	interacts_with	PIK3CA	gene
+idelalisib	drug	interacts_with	PIK3CA	gene
+LY-294002	drug	interacts_with	PIK3CA	gene
+dactolisib	drug	interacts_with	PIK3CA	gene
+idelalisib	drug	interacts_with	PIK3CA	gene
+LY-294002	drug	interacts_with	PIK3CA	gene
+dactolisib	drug	interacts_with	PIK3CA	gene
+idelalisib	drug	interacts_with	PIK3CA	gene
+LY-294002	drug	interacts_with	PIK3CA	gene
+dactolisib	drug	interacts_with	PIK3CA	gene
+idelalisib	drug	interacts_with	PIK3CA	gene
+tranylcypromine	drug	interacts_with	MAOA	gene
+moclobemide	drug	interacts_with	MAOA	gene
+phenelzine	drug	interacts_with	MAOA	gene
+clorgiline	drug	interacts_with	MAOA	gene
+pirlindole	drug	interacts_with	MAOA	gene
+befloxatone	drug	interacts_with	MAOA	gene
+(RS)-mexiletine	drug	interacts_with	SCN4A	gene
+(RS)-mexiletine	drug	interacts_with	SCN4A	gene
+(RS)-mexiletine	drug	interacts_with	SCN4A	gene
+(RS)-mexiletine	drug	interacts_with	SCN4A	gene
+saxitoxin	drug	interacts_with	SCN9A	gene
+lacosamide	drug	interacts_with	SCN9A	gene
+saxitoxin	drug	interacts_with	SCN9A	gene
+lacosamide	drug	interacts_with	SCN9A	gene
+saxitoxin	drug	interacts_with	SCN9A	gene
+lacosamide	drug	interacts_with	SCN9A	gene
+saxitoxin	drug	interacts_with	SCN9A	gene
+lacosamide	drug	interacts_with	SCN9A	gene
+epigallocatechin gallate	drug	interacts_with	KAT2B	gene
+plumbagin	drug	interacts_with	KAT2B	gene
+Inclusion membrane protein CT_813	drug	interacts_with	MSH2	gene
+Inclusion membrane protein CTL0184	drug	interacts_with	MSH2	gene
+Inclusion membrane protein CT_813	drug	interacts_with	MSH2	gene
+Inclusion membrane protein CTL0184	drug	interacts_with	MSH2	gene
+Inclusion membrane protein CT_813	drug	interacts_with	MSH2	gene
+Inclusion membrane protein CTL0184	drug	interacts_with	MSH2	gene
+Inclusion membrane protein CT_813	drug	interacts_with	MSH2	gene
+Inclusion membrane protein CTL0184	drug	interacts_with	MSH2	gene
+Inclusion membrane protein CT_813	drug	interacts_with	MSH6	gene
+Inclusion membrane protein CTL0184	drug	interacts_with	MSH6	gene
+Inclusion membrane protein CT_813	drug	interacts_with	MSH6	gene
+Inclusion membrane protein CTL0184	drug	interacts_with	MSH6	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+pre-eclampsia	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+gestational hypertension	disease	associated_with	ADRA1D	gene
+systemic lupus erythematosus	disease	associated_with	BLK	gene
+smallpox	disease	associated_with	BLK	gene
+rheumatoid arthritis	disease	associated_with	BLK	gene
+maturity-onset diabetes of the young type 11	disease	associated_with	BLK	gene
+congenital adrenal insufficiency	disease	associated_with	CYP11A1	gene
+rheumatoid arthritis	disease	associated_with	DPP4	gene
+rheumatoid arthritis	disease	associated_with	DPP4	gene
+rheumatoid arthritis	disease	associated_with	DPP4	gene
+rheumatoid arthritis	disease	associated_with	DPP4	gene
+rheumatoid arthritis	disease	associated_with	DPP4	gene
+rheumatoid arthritis	disease	associated_with	DPP4	gene
+Li-Fraumeni syndrome	disease	associated_with	TP53	gene
+Li-Fraumeni syndrome	disease	associated_with	TP53	gene
+basal-cell carcinoma	disease	associated_with	TP53	gene
+basal-cell carcinoma	disease	associated_with	TP53	gene
+head and neck squamous cell carcinoma	disease	associated_with	TP53	gene
+head and neck squamous cell carcinoma	disease	associated_with	TP53	gene
+Li-Fraumeni syndrome 1	disease	associated_with	TP53	gene
+Li-Fraumeni syndrome 1	disease	associated_with	TP53	gene
+macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome	disease	associated_with	MTOR	gene
+macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome	disease	associated_with	MTOR	gene
+macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome	disease	associated_with	MTOR	gene
+macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome	disease	associated_with	MTOR	gene
+Fabry disease	disease	associated_with	GLA	gene
+autosomal recessive spinocerebellar ataxia 13	disease	associated_with	GRM1	gene
+autosomal recessive spinocerebellar ataxia 13	disease	associated_with	GRM1	gene
+spinocerebellar ataxia 44	disease	associated_with	GRM1	gene
+spinocerebellar ataxia 44	disease	associated_with	GRM1	gene
+chronic lymphocytic leukemia	disease	associated_with	BCL2	gene
+renal hypomagnesemia 4	disease	associated_with	EGF	gene
+glioma	disease	associated_with	EGFR	gene
+glioma	disease	associated_with	EGFR	gene
+glioma	disease	associated_with	EGFR	gene
+glioma	disease	associated_with	EGFR	gene
+glioma	disease	associated_with	EGFR	gene
+glioma	disease	associated_with	EGFR	gene
+glioma	disease	associated_with	EGFR	gene
+glioma	disease	associated_with	EGFR	gene
+glioma	disease	associated_with	EGFR	gene
+glioma	disease	associated_with	EGFR	gene
+glioma	disease	associated_with	EGFR	gene
+glioma	disease	associated_with	EGFR	gene
+glioma	disease	associated_with	EGFR	gene
+glioma	disease	associated_with	EGFR	gene
+non-small-cell lung carcinoma	disease	associated_with	EGFR	gene
+non-small-cell lung carcinoma	disease	associated_with	EGFR	gene
+non-small-cell lung carcinoma	disease	associated_with	EGFR	gene
+non-small-cell lung carcinoma	disease	associated_with	EGFR	gene
+non-small-cell lung carcinoma	disease	associated_with	EGFR	gene
+non-small-cell lung carcinoma	disease	associated_with	EGFR	gene
+non-small-cell lung carcinoma	disease	associated_with	EGFR	gene
+non-small-cell lung carcinoma	disease	associated_with	EGFR	gene
+non-small-cell lung carcinoma	disease	associated_with	EGFR	gene
+non-small-cell lung carcinoma	disease	associated_with	EGFR	gene
+non-small-cell lung carcinoma	disease	associated_with	EGFR	gene
+non-small-cell lung carcinoma	disease	associated_with	EGFR	gene
+non-small-cell lung carcinoma	disease	associated_with	EGFR	gene
+non-small-cell lung carcinoma	disease	associated_with	EGFR	gene
+Hyper-IgD syndrome	disease	associated_with	MVK	gene
+Hyper-IgD syndrome	disease	associated_with	MVK	gene
+Hyper-IgD syndrome	disease	associated_with	MVK	gene
+mevalonic aciduria	disease	associated_with	MVK	gene
+mevalonic aciduria	disease	associated_with	MVK	gene
+mevalonic aciduria	disease	associated_with	MVK	gene
+MVK	disease	associated_with	MVK	gene
+MVK	disease	associated_with	MVK	gene
+MVK	disease	associated_with	MVK	gene
+thrombophilia	disease	associated_with	F2	gene
+thrombophilia	disease	associated_with	F2	gene
+thrombophilia	disease	associated_with	F2	gene
+Hypoprothrombinemia	disease	associated_with	F2	gene
+Hypoprothrombinemia	disease	associated_with	F2	gene
+Hypoprothrombinemia	disease	associated_with	F2	gene
+hypertrophic cardiomyopathy	disease	associated_with	RAF1	gene
+hypertrophic cardiomyopathy	disease	associated_with	RAF1	gene
+Noonan syndrome 5	disease	associated_with	RAF1	gene
+Noonan syndrome 5	disease	associated_with	RAF1	gene
+dilated cardiomyopathy 1NN	disease	associated_with	RAF1	gene
+dilated cardiomyopathy 1NN	disease	associated_with	RAF1	gene
+autosomal recessive distal spinal muscular atrophy 2	disease	associated_with	SIGMAR1	gene
+autosomal recessive distal spinal muscular atrophy 2	disease	associated_with	SIGMAR1	gene
+autosomal recessive distal spinal muscular atrophy 2	disease	associated_with	SIGMAR1	gene
+autosomal recessive distal spinal muscular atrophy 2	disease	associated_with	SIGMAR1	gene
+autosomal recessive distal spinal muscular atrophy 2	disease	associated_with	SIGMAR1	gene
+autosomal recessive distal spinal muscular atrophy 2	disease	associated_with	SIGMAR1	gene
+autosomal recessive distal spinal muscular atrophy 2	disease	associated_with	SIGMAR1	gene
+amyotrophic lateral sclerosis type 16	disease	associated_with	SIGMAR1	gene
+amyotrophic lateral sclerosis type 16	disease	associated_with	SIGMAR1	gene
+amyotrophic lateral sclerosis type 16	disease	associated_with	SIGMAR1	gene
+amyotrophic lateral sclerosis type 16	disease	associated_with	SIGMAR1	gene
+amyotrophic lateral sclerosis type 16	disease	associated_with	SIGMAR1	gene
+amyotrophic lateral sclerosis type 16	disease	associated_with	SIGMAR1	gene
+amyotrophic lateral sclerosis type 16	disease	associated_with	SIGMAR1	gene
+metabolic disease	disease	associated_with	ABCB11	gene
+autosomal dominant mental retardation 48	disease	associated_with	RAC1	gene
+autosomal dominant mental retardation 48	disease	associated_with	RAC1	gene
+spondyloepimetaphyseal dysplasia-short limb-abnormal calcification syndrome	disease	associated_with	DDR2	gene
+nonsyndromic deafness	disease	associated_with	RDX	gene
+autosomal recessive nonsyndromic deafness 24	disease	associated_with	RDX	gene
+Pick disease	disease	associated_with	PSEN1	gene
+Alzheimer disease 3	disease	associated_with	PSEN1	gene
+dilated cardiomyopathy 1U	disease	associated_with	PSEN1	gene
+acute myeloid leukemia	disease	associated_with	KRAS	gene
+juvenile myelomonocytic leukemia	disease	associated_with	KRAS	gene
+Noonan syndrome 3	disease	associated_with	KRAS	gene
+autosomal dominant type IV Ehlers-Danlos syndrome	disease	associated_with	COL3A1	gene
+autosomal dominant type IV Ehlers-Danlos syndrome	disease	associated_with	COL3A1	gene
+melanoma, cutaneous malignant, susceptibility to, 3	disease	associated_with	CDK4	gene
+melanoma, cutaneous malignant, susceptibility to, 3	disease	associated_with	CDK4	gene
+rheumatoid arthritis	disease	associated_with	CDK6	gene
+microcephaly 12, primary, autosomal recessive	disease	associated_with	CDK6	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+obesity	disease	associated_with	CBS	gene
+melanoma-pancreatic cancer syndrome	disease	associated_with	CDKN2A	gene
+antithrombin III deficiency	disease	associated_with	SERPINC1	gene
+transthyretin amyloidosis	disease	associated_with	TTR	gene
+hereditary ATTR amyloidosis	disease	associated_with	TTR	gene
+cystic fibrosis	disease	associated_with	CFTR	gene
+congenital bilateral aplasia of the vas deferens	disease	associated_with	CFTR	gene
+aromatase excess syndrome	disease	associated_with	CYP19A1	gene
+aromatase excess syndrome	disease	associated_with	CYP19A1	gene
+aromatase excess syndrome	disease	associated_with	CYP19A1	gene
+aromatase excess syndrome	disease	associated_with	CYP19A1	gene
+aromatase excess syndrome	disease	associated_with	CYP19A1	gene
+aromatase excess syndrome	disease	associated_with	CYP19A1	gene
+aromatase excess syndrome	disease	associated_with	CYP19A1	gene
+type 1 diabetes mellitus 22	disease	associated_with	CCR5	gene
+type 1 diabetes mellitus 22	disease	associated_with	CCR5	gene
+type 1 diabetes mellitus 22	disease	associated_with	CCR5	gene
+type 1 diabetes mellitus 22	disease	associated_with	CCR5	gene
+Kennedy disease	disease	associated_with	AR	gene
+Kennedy disease	disease	associated_with	AR	gene
+Kennedy disease	disease	associated_with	AR	gene
+Kennedy disease	disease	associated_with	AR	gene
+Kennedy disease	disease	associated_with	AR	gene
+Kennedy disease	disease	associated_with	AR	gene
+Kennedy disease	disease	associated_with	AR	gene
+Kennedy disease	disease	associated_with	AR	gene
+Kennedy disease	disease	associated_with	AR	gene
+Kennedy disease	disease	associated_with	AR	gene
+Kennedy disease	disease	associated_with	AR	gene
+Kennedy disease	disease	associated_with	AR	gene
+Kennedy disease	disease	associated_with	AR	gene
+Kennedy disease	disease	associated_with	AR	gene
+Kennedy disease	disease	associated_with	AR	gene
+Kennedy disease	disease	associated_with	AR	gene
+Kennedy disease	disease	associated_with	AR	gene
+Kennedy disease	disease	associated_with	AR	gene
+WHIM syndrome	disease	associated_with	CXCR4	gene
+dopamine beta-hydroxylase deficiency	disease	associated_with	DBH	gene
+neonatal severe primary hyperparathyroidism	disease	associated_with	CASR	gene
+neonatal severe primary hyperparathyroidism	disease	associated_with	CASR	gene
+neonatal severe primary hyperparathyroidism	disease	associated_with	CASR	gene
+neonatal severe primary hyperparathyroidism	disease	associated_with	CASR	gene
+colorectal cancer	disease	associated_with	RET	gene
+colorectal cancer	disease	associated_with	RET	gene
+colorectal cancer	disease	associated_with	RET	gene
+colorectal cancer	disease	associated_with	RET	gene
+colorectal cancer	disease	associated_with	RET	gene
+phaeochromocytoma	disease	associated_with	RET	gene
+phaeochromocytoma	disease	associated_with	RET	gene
+phaeochromocytoma	disease	associated_with	RET	gene
+phaeochromocytoma	disease	associated_with	RET	gene
+phaeochromocytoma	disease	associated_with	RET	gene
+multiple endocrine neoplasia type 2A	disease	associated_with	RET	gene
+multiple endocrine neoplasia type 2A	disease	associated_with	RET	gene
+multiple endocrine neoplasia type 2A	disease	associated_with	RET	gene
+multiple endocrine neoplasia type 2A	disease	associated_with	RET	gene
+multiple endocrine neoplasia type 2A	disease	associated_with	RET	gene
+multiple endocrine neoplasia type 2B	disease	associated_with	RET	gene
+multiple endocrine neoplasia type 2B	disease	associated_with	RET	gene
+multiple endocrine neoplasia type 2B	disease	associated_with	RET	gene
+multiple endocrine neoplasia type 2B	disease	associated_with	RET	gene
+multiple endocrine neoplasia type 2B	disease	associated_with	RET	gene
+familial medullary thyroid carcinoma	disease	associated_with	RET	gene
+familial medullary thyroid carcinoma	disease	associated_with	RET	gene
+familial medullary thyroid carcinoma	disease	associated_with	RET	gene
+familial medullary thyroid carcinoma	disease	associated_with	RET	gene
+familial medullary thyroid carcinoma	disease	associated_with	RET	gene
+hereditary pheochromocytoma-paraganglioma	disease	associated_with	RET	gene
+hereditary pheochromocytoma-paraganglioma	disease	associated_with	RET	gene
+hereditary pheochromocytoma-paraganglioma	disease	associated_with	RET	gene
+hereditary pheochromocytoma-paraganglioma	disease	associated_with	RET	gene
+hereditary pheochromocytoma-paraganglioma	disease	associated_with	RET	gene
+obesity	disease	associated_with	ESR1	gene
+obesity	disease	associated_with	ESR1	gene
+obesity	disease	associated_with	ESR1	gene
+obesity	disease	associated_with	ESR1	gene
+obesity	disease	associated_with	ESR1	gene
+obesity	disease	associated_with	ESR1	gene
+obesity	disease	associated_with	ESR1	gene
+obesity	disease	associated_with	ESR1	gene
+obesity	disease	associated_with	ESR1	gene
+obesity	disease	associated_with	ESR1	gene
+breast cancer	disease	associated_with	ESR1	gene
+breast cancer	disease	associated_with	ESR1	gene
+breast cancer	disease	associated_with	ESR1	gene
+breast cancer	disease	associated_with	ESR1	gene
+breast cancer	disease	associated_with	ESR1	gene
+breast cancer	disease	associated_with	ESR1	gene
+breast cancer	disease	associated_with	ESR1	gene
+breast cancer	disease	associated_with	ESR1	gene
+breast cancer	disease	associated_with	ESR1	gene
+breast cancer	disease	associated_with	ESR1	gene
+alcohol dependence	disease	associated_with	ESR1	gene
+alcohol dependence	disease	associated_with	ESR1	gene
+alcohol dependence	disease	associated_with	ESR1	gene
+alcohol dependence	disease	associated_with	ESR1	gene
+alcohol dependence	disease	associated_with	ESR1	gene
+alcohol dependence	disease	associated_with	ESR1	gene
+alcohol dependence	disease	associated_with	ESR1	gene
+alcohol dependence	disease	associated_with	ESR1	gene
+alcohol dependence	disease	associated_with	ESR1	gene
+alcohol dependence	disease	associated_with	ESR1	gene
+prostate cancer	disease	associated_with	FSHR	gene
+erectile dysfunction	disease	associated_with	FSHR	gene
+polycystic ovary syndrome	disease	associated_with	FSHR	gene
+ovarian hyperstimulation syndrome	disease	associated_with	FSHR	gene
+46 XX gonadal dysgenesis	disease	associated_with	FSHR	gene
+breast cancer	disease	associated_with	FGFR2	gene
+Antley-Bixler syndrome	disease	associated_with	FGFR2	gene
+Crouzon syndrone	disease	associated_with	FGFR2	gene
+Beare-Stevenson cutis gyrata syndrome	disease	associated_with	FGFR2	gene
+Jackson–Weiss syndrome	disease	associated_with	FGFR2	gene
+McGillivray syndrome	disease	associated_with	FGFR2	gene
+LADD syndrome	disease	associated_with	FGFR2	gene
+episodic ataxia type 6	disease	associated_with	SLC1A3	gene
+Jackson–Weiss syndrome	disease	associated_with	FGFR1	gene
+Jackson–Weiss syndrome	disease	associated_with	FGFR1	gene
+Jackson–Weiss syndrome	disease	associated_with	FGFR1	gene
+Jackson–Weiss syndrome	disease	associated_with	FGFR1	gene
+Encephalocraniocutaneous lipomatosis	disease	associated_with	FGFR1	gene
+Encephalocraniocutaneous lipomatosis	disease	associated_with	FGFR1	gene
+Encephalocraniocutaneous lipomatosis	disease	associated_with	FGFR1	gene
+Encephalocraniocutaneous lipomatosis	disease	associated_with	FGFR1	gene
+osteoglophonic dwarfism	disease	associated_with	FGFR1	gene
+osteoglophonic dwarfism	disease	associated_with	FGFR1	gene
+osteoglophonic dwarfism	disease	associated_with	FGFR1	gene
+osteoglophonic dwarfism	disease	associated_with	FGFR1	gene
+Hartsfield-Bixler-Demyer syndrome	disease	associated_with	FGFR1	gene
+Hartsfield-Bixler-Demyer syndrome	disease	associated_with	FGFR1	gene
+Hartsfield-Bixler-Demyer syndrome	disease	associated_with	FGFR1	gene
+Hartsfield-Bixler-Demyer syndrome	disease	associated_with	FGFR1	gene
+SADDAN	disease	associated_with	FGFR3	gene
+bladder cancer	disease	associated_with	FGFR3	gene
+seborrheic keratosis	disease	associated_with	FGFR3	gene
+Muenke syndrome	disease	associated_with	FGFR3	gene
+Crouzonodermoskeletal syndrome	disease	associated_with	FGFR3	gene
+LADD syndrome	disease	associated_with	FGFR3	gene
+camptodactyly-tall stature-scoliosis-hearing loss syndrome	disease	associated_with	FGFR3	gene
+thanatophoric dysplasia type 2	disease	associated_with	FGFR3	gene
+hypogonadotropic hypogonadism 7 with or without anosmia	disease	associated_with	GNRHR	gene
+hypogonadotropic hypogonadism 7 with or without anosmia	disease	associated_with	GNRHR	gene
+hypogonadotropic hypogonadism 7 with or without anosmia	disease	associated_with	GNRHR	gene
+hypogonadotropic hypogonadism 7 with or without anosmia	disease	associated_with	GNRHR	gene
+hypogonadotropic hypogonadism 7 with or without anosmia	disease	associated_with	GNRHR	gene
+hypogonadotropic hypogonadism 7 with or without anosmia	disease	associated_with	GNRHR	gene
+hypogonadotropic hypogonadism 7 with or without anosmia	disease	associated_with	GNRHR	gene
+hypogonadotropic hypogonadism 7 with or without anosmia	disease	associated_with	GNRHR	gene
+hypogonadotropic hypogonadism 7 with or without anosmia	disease	associated_with	GNRHR	gene
+hypogonadotropic hypogonadism 7 with or without anosmia	disease	associated_with	GNRHR	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+long QT syndrome	disease	associated_with	KCNH2	gene
+long QT syndrome	disease	associated_with	KCNH2	gene
+long QT syndrome	disease	associated_with	KCNH2	gene
+long QT syndrome	disease	associated_with	KCNH2	gene
+long QT syndrome	disease	associated_with	KCNH2	gene
+long QT syndrome	disease	associated_with	KCNH2	gene
+long QT syndrome	disease	associated_with	KCNH2	gene
+short QT syndrome	disease	associated_with	KCNH2	gene
+short QT syndrome	disease	associated_with	KCNH2	gene
+short QT syndrome	disease	associated_with	KCNH2	gene
+short QT syndrome	disease	associated_with	KCNH2	gene
+short QT syndrome	disease	associated_with	KCNH2	gene
+short QT syndrome	disease	associated_with	KCNH2	gene
+short QT syndrome	disease	associated_with	KCNH2	gene
+glycogen storage disease II	disease	associated_with	GAA	gene
+glycogen storage disease II	disease	associated_with	GAA	gene
+glucocorticoid-remediable aldosteronism	disease	associated_with	CYP11B1	gene
+glucocorticoid-remediable aldosteronism	disease	associated_with	CYP11B1	gene
+glucocorticoid-remediable aldosteronism	disease	associated_with	CYP11B1	gene
+syndromic X-linked intellectual disability 94	disease	associated_with	GRIA3	gene
+obesity	disease	associated_with	XDH	gene
+acute myeloid leukemia	disease	associated_with	KIT	gene
+acute myeloid leukemia	disease	associated_with	KIT	gene
+acute myeloid leukemia	disease	associated_with	KIT	gene
+acute myeloid leukemia	disease	associated_with	KIT	gene
+acute myeloid leukemia	disease	associated_with	KIT	gene
+acute myeloid leukemia	disease	associated_with	KIT	gene
+acute myeloid leukemia	disease	associated_with	KIT	gene
+acute myeloid leukemia	disease	associated_with	KIT	gene
+gastrointestinal stromal tumor	disease	associated_with	KIT	gene
+gastrointestinal stromal tumor	disease	associated_with	KIT	gene
+gastrointestinal stromal tumor	disease	associated_with	KIT	gene
+gastrointestinal stromal tumor	disease	associated_with	KIT	gene
+gastrointestinal stromal tumor	disease	associated_with	KIT	gene
+gastrointestinal stromal tumor	disease	associated_with	KIT	gene
+gastrointestinal stromal tumor	disease	associated_with	KIT	gene
+gastrointestinal stromal tumor	disease	associated_with	KIT	gene
+piebaldism	disease	associated_with	KIT	gene
+piebaldism	disease	associated_with	KIT	gene
+piebaldism	disease	associated_with	KIT	gene
+piebaldism	disease	associated_with	KIT	gene
+piebaldism	disease	associated_with	KIT	gene
+piebaldism	disease	associated_with	KIT	gene
+piebaldism	disease	associated_with	KIT	gene
+piebaldism	disease	associated_with	KIT	gene
+type 2 diabetes	disease	associated_with	PPARG	gene
+type 2 diabetes	disease	associated_with	PPARG	gene
+type 2 diabetes	disease	associated_with	PPARG	gene
+type 2 diabetes	disease	associated_with	PPARG	gene
+type 2 diabetes	disease	associated_with	PPARG	gene
+type 2 diabetes	disease	associated_with	PPARG	gene
+type 2 diabetes	disease	associated_with	PPARG	gene
+type 2 diabetes	disease	associated_with	PPARG	gene
+type 2 diabetes	disease	associated_with	PPARG	gene
+type 2 diabetes	disease	associated_with	PPARG	gene
+type 2 diabetes	disease	associated_with	PPARG	gene
+type 2 diabetes	disease	associated_with	PPARG	gene
+type 2 diabetes	disease	associated_with	PPARG	gene
+familial partial lipodystrophy	disease	associated_with	PPARG	gene
+familial partial lipodystrophy	disease	associated_with	PPARG	gene
+familial partial lipodystrophy	disease	associated_with	PPARG	gene
+familial partial lipodystrophy	disease	associated_with	PPARG	gene
+familial partial lipodystrophy	disease	associated_with	PPARG	gene
+familial partial lipodystrophy	disease	associated_with	PPARG	gene
+familial partial lipodystrophy	disease	associated_with	PPARG	gene
+familial partial lipodystrophy	disease	associated_with	PPARG	gene
+familial partial lipodystrophy	disease	associated_with	PPARG	gene
+familial partial lipodystrophy	disease	associated_with	PPARG	gene
+familial partial lipodystrophy	disease	associated_with	PPARG	gene
+familial partial lipodystrophy	disease	associated_with	PPARG	gene
+familial partial lipodystrophy	disease	associated_with	PPARG	gene
+Gitelman syndrome	disease	associated_with	SLC12A3	gene
+Gitelman syndrome	disease	associated_with	SLC12A3	gene
+Gitelman syndrome	disease	associated_with	SLC12A3	gene
+Gitelman syndrome	disease	associated_with	SLC12A3	gene
+focal segmental glomerulosclerosis 2	disease	associated_with	TRPC6	gene
+focal segmental glomerulosclerosis 2	disease	associated_with	TRPC6	gene
+focal segmental glomerulosclerosis 2	disease	associated_with	TRPC6	gene
+focal segmental glomerulosclerosis 2	disease	associated_with	TRPC6	gene
+obesity	disease	associated_with	KCNN3	gene
+obesity	disease	associated_with	KCNN3	gene
+renal glycosuria	disease	associated_with	SLC5A2	gene
+renal glycosuria	disease	associated_with	SLC5A2	gene
+renal glycosuria	disease	associated_with	SLC5A2	gene
+renal glycosuria	disease	associated_with	SLC5A2	gene
+congenital stationary night blindness 1C	disease	associated_with	TRPM1	gene
+spinocerebellar ataxia type 41	disease	associated_with	TRPC3	gene
+obesity	disease	associated_with	TRPC4	gene
+progressive familial heart block type IB	disease	associated_with	TRPM4	gene
+progressive familial heart block type IB	disease	associated_with	TRPM4	gene
+progressive familial heart block type IB	disease	associated_with	TRPM4	gene
+progressive familial heart block type IB	disease	associated_with	TRPM4	gene
+progressive familial heart block type IB	disease	associated_with	TRPM4	gene
+progressive familial heart block type IB	disease	associated_with	TRPM4	gene
+progressive familial heart block type IB	disease	associated_with	TRPM4	gene
+migraine disorder	disease	associated_with	TRPM8	gene
+migraine disorder	disease	associated_with	TRPM8	gene
+migraine disorder	disease	associated_with	TRPM8	gene
+migraine disorder	disease	associated_with	TRPM8	gene
+migraine disorder	disease	associated_with	TRPM8	gene
+migraine disorder	disease	associated_with	TRPM8	gene
+migraine disorder	disease	associated_with	TRPM8	gene
+migraine disorder	disease	associated_with	TRPM8	gene
+amyotrophic lateral sclerosis	disease	associated_with	TRPM8	gene
+amyotrophic lateral sclerosis	disease	associated_with	TRPM8	gene
+amyotrophic lateral sclerosis	disease	associated_with	TRPM8	gene
+amyotrophic lateral sclerosis	disease	associated_with	TRPM8	gene
+amyotrophic lateral sclerosis	disease	associated_with	TRPM8	gene
+amyotrophic lateral sclerosis	disease	associated_with	TRPM8	gene
+amyotrophic lateral sclerosis	disease	associated_with	TRPM8	gene
+amyotrophic lateral sclerosis	disease	associated_with	TRPM8	gene
+migraine without aura	disease	associated_with	TRPM8	gene
+migraine without aura	disease	associated_with	TRPM8	gene
+migraine without aura	disease	associated_with	TRPM8	gene
+migraine without aura	disease	associated_with	TRPM8	gene
+migraine without aura	disease	associated_with	TRPM8	gene
+migraine without aura	disease	associated_with	TRPM8	gene
+migraine without aura	disease	associated_with	TRPM8	gene
+migraine without aura	disease	associated_with	TRPM8	gene
+migraine with aura	disease	associated_with	TRPM8	gene
+migraine with aura	disease	associated_with	TRPM8	gene
+migraine with aura	disease	associated_with	TRPM8	gene
+migraine with aura	disease	associated_with	TRPM8	gene
+migraine with aura	disease	associated_with	TRPM8	gene
+migraine with aura	disease	associated_with	TRPM8	gene
+migraine with aura	disease	associated_with	TRPM8	gene
+migraine with aura	disease	associated_with	TRPM8	gene
+asthma	disease	associated_with	RORA	gene
+schizophrenia	disease	associated_with	RORA	gene
+mental depression	disease	associated_with	RORA	gene
+Lytico-bodig disease	disease	associated_with	TRPM7	gene
+Lytico-bodig disease	disease	associated_with	TRPM7	gene
+Lytico-bodig disease	disease	associated_with	TRPM7	gene
+Lytico-bodig disease	disease	associated_with	TRPM7	gene
+Oguchi disease-2	disease	associated_with	GRK1	gene
+congenital nongoitrous hypothryoidism 6	disease	associated_with	THRA	gene
+congenital nongoitrous hypothryoidism 6	disease	associated_with	THRA	gene
+congenital nongoitrous hypothryoidism 6	disease	associated_with	THRA	gene
+long QT syndrome	disease	associated_with	KCNQ1	gene
+long QT syndrome	disease	associated_with	KCNQ1	gene
+type 2 diabetes	disease	associated_with	KCNQ1	gene
+type 2 diabetes	disease	associated_with	KCNQ1	gene
+familial atrial fibrillation	disease	associated_with	KCNQ1	gene
+familial atrial fibrillation	disease	associated_with	KCNQ1	gene
+bladder cancer	disease	associated_with	HRAS	gene
+Costello syndrome	disease	associated_with	HRAS	gene
+Schimmelpenning syndrome	disease	associated_with	HRAS	gene
+follicular thyroid cancer	disease	associated_with	HRAS	gene
+alcohol dependence	disease	associated_with	OXTR	gene
+alcohol dependence	disease	associated_with	OXTR	gene
+alcohol dependence	disease	associated_with	OXTR	gene
+alcohol dependence	disease	associated_with	OXTR	gene
+alcohol dependence	disease	associated_with	OXTR	gene
+alcohol dependence	disease	associated_with	OXTR	gene
+type 2 diabetes	disease	associated_with	KCNJ11	gene
+type 2 diabetes	disease	associated_with	KCNJ11	gene
+type 2 diabetes	disease	associated_with	KCNJ11	gene
+type 2 diabetes	disease	associated_with	KCNJ11	gene
+permanent neonatal diabetes mellitus	disease	associated_with	KCNJ11	gene
+permanent neonatal diabetes mellitus	disease	associated_with	KCNJ11	gene
+permanent neonatal diabetes mellitus	disease	associated_with	KCNJ11	gene
+permanent neonatal diabetes mellitus	disease	associated_with	KCNJ11	gene
+maturity-onset diabetes of the young type 13	disease	associated_with	KCNJ11	gene
+maturity-onset diabetes of the young type 13	disease	associated_with	KCNJ11	gene
+maturity-onset diabetes of the young type 13	disease	associated_with	KCNJ11	gene
+maturity-onset diabetes of the young type 13	disease	associated_with	KCNJ11	gene
+rare genetic diabetes mellitus	disease	associated_with	KCNJ11	gene
+rare genetic diabetes mellitus	disease	associated_with	KCNJ11	gene
+rare genetic diabetes mellitus	disease	associated_with	KCNJ11	gene
+rare genetic diabetes mellitus	disease	associated_with	KCNJ11	gene
+undetermined early-onset epileptic encephalopathy	disease	associated_with	KCNQ2	gene
+undetermined early-onset epileptic encephalopathy	disease	associated_with	KCNQ2	gene
+undetermined early-onset epileptic encephalopathy	disease	associated_with	KCNQ2	gene
+undetermined early-onset epileptic encephalopathy	disease	associated_with	KCNQ2	gene
+coronary artery disease	disease	associated_with	KCNQ3	gene
+coronary artery disease	disease	associated_with	KCNQ3	gene
+attention deficit hyperactivity disorder	disease	associated_with	GRM5	gene
+attention deficit hyperactivity disorder	disease	associated_with	GRM5	gene
+attention deficit hyperactivity disorder	disease	associated_with	GRM5	gene
+attention deficit hyperactivity disorder	disease	associated_with	GRM5	gene
+attention deficit hyperactivity disorder	disease	associated_with	GRM5	gene
+attention deficit hyperactivity disorder	disease	associated_with	GRM5	gene
+attention deficit hyperactivity disorder	disease	associated_with	GRM5	gene
+attention deficit hyperactivity disorder	disease	associated_with	GRM5	gene
+rheumatoid arthritis	disease	associated_with	GRM5	gene
+rheumatoid arthritis	disease	associated_with	GRM5	gene
+rheumatoid arthritis	disease	associated_with	GRM5	gene
+rheumatoid arthritis	disease	associated_with	GRM5	gene
+rheumatoid arthritis	disease	associated_with	GRM5	gene
+rheumatoid arthritis	disease	associated_with	GRM5	gene
+rheumatoid arthritis	disease	associated_with	GRM5	gene
+rheumatoid arthritis	disease	associated_with	GRM5	gene
+congenital stationary night blindness 1B	disease	associated_with	GRM6	gene
+congenital stationary night blindness 1B	disease	associated_with	GRM6	gene
+congenital stationary night blindness 1B	disease	associated_with	GRM6	gene
+major depressive disorders	disease	associated_with	GRM7	gene
+cleft lip and cleft palate	disease	associated_with	GRM7	gene
+panic disorder	disease	associated_with	GRM7	gene
+unipolar depression	disease	associated_with	GRM7	gene
+mental depression	disease	associated_with	GRM8	gene
+mental depression	disease	associated_with	GRM8	gene
+mental depression	disease	associated_with	GRM8	gene
+mental depression	disease	associated_with	GRM8	gene
+atherosclerosis	disease	associated_with	GRM8	gene
+atherosclerosis	disease	associated_with	GRM8	gene
+atherosclerosis	disease	associated_with	GRM8	gene
+atherosclerosis	disease	associated_with	GRM8	gene
+human immunodeficiency virus infectious disease	disease	associated_with	GRM8	gene
+human immunodeficiency virus infectious disease	disease	associated_with	GRM8	gene
+human immunodeficiency virus infectious disease	disease	associated_with	GRM8	gene
+human immunodeficiency virus infectious disease	disease	associated_with	GRM8	gene
+morbid obesity	disease	associated_with	RARB	gene
+morbid obesity	disease	associated_with	RARB	gene
+morbid obesity	disease	associated_with	RARB	gene
+morbid obesity	disease	associated_with	RARB	gene
+morbid obesity	disease	associated_with	RARB	gene
+multiple sclerosis	disease	associated_with	MET	gene
+multiple sclerosis	disease	associated_with	MET	gene
+multiple sclerosis	disease	associated_with	MET	gene
+autosomal recessive nonsyndromic deafness 97	disease	associated_with	MET	gene
+autosomal recessive nonsyndromic deafness 97	disease	associated_with	MET	gene
+autosomal recessive nonsyndromic deafness 97	disease	associated_with	MET	gene
+osteofibrous dysplasia	disease	associated_with	MET	gene
+osteofibrous dysplasia	disease	associated_with	MET	gene
+osteofibrous dysplasia	disease	associated_with	MET	gene
+anterior segment dysgenesis 6	disease	associated_with	CYP1B1	gene
+primary congenital glaucoma 3A	disease	associated_with	CYP1B1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+coronary artery disease	disease	associated_with	OPRM1	gene
+acute myeloid leukemia	disease	associated_with	FLT3	gene
+acute myeloid leukemia	disease	associated_with	FLT3	gene
+acute myeloid leukemia	disease	associated_with	FLT3	gene
+acute myeloid leukemia	disease	associated_with	FLT3	gene
+acute myeloid leukemia	disease	associated_with	FLT3	gene
+acute myeloid leukemia	disease	associated_with	FLT3	gene
+acute myeloid leukemia	disease	associated_with	FLT3	gene
+acute myeloid leukemia	disease	associated_with	FLT3	gene
+acute myeloid leukemia	disease	associated_with	FLT3	gene
+smallpox	disease	associated_with	CYP2C8	gene
+osteonecrosis	disease	associated_with	CYP2C8	gene
+advanced sleep phase syndrome 2	disease	associated_with	CSNK1D	gene
+retinitis pigmentosa 17	disease	associated_with	CA4	gene
+retinitis pigmentosa 17	disease	associated_with	CA4	gene
+retinitis pigmentosa 17	disease	associated_with	CA4	gene
+retinitis pigmentosa 17	disease	associated_with	CA4	gene
+retinitis pigmentosa 17	disease	associated_with	CA4	gene
+obesity	disease	associated_with	CADM1	gene
+obesity	disease	associated_with	CADM1	gene
+early infantile epileptic encephalopathy 19	disease	associated_with	GABRA1	gene
+Parkinson's disease	disease	associated_with	GAK	gene
+congenital diarrhea 6	disease	associated_with	GUCY2C	gene
+schizophrenia	disease	associated_with	CACNA1C	gene
+schizophrenia	disease	associated_with	CACNA1C	gene
+schizophrenia	disease	associated_with	CACNA1C	gene
+schizophrenia	disease	associated_with	CACNA1C	gene
+schizophrenia	disease	associated_with	CACNA1C	gene
+major depressive disorders	disease	associated_with	CACNA1C	gene
+major depressive disorders	disease	associated_with	CACNA1C	gene
+major depressive disorders	disease	associated_with	CACNA1C	gene
+major depressive disorders	disease	associated_with	CACNA1C	gene
+major depressive disorders	disease	associated_with	CACNA1C	gene
+bipolar disorder	disease	associated_with	CACNA1C	gene
+bipolar disorder	disease	associated_with	CACNA1C	gene
+bipolar disorder	disease	associated_with	CACNA1C	gene
+bipolar disorder	disease	associated_with	CACNA1C	gene
+bipolar disorder	disease	associated_with	CACNA1C	gene
+Timothy syndrome	disease	associated_with	CACNA1C	gene
+Timothy syndrome	disease	associated_with	CACNA1C	gene
+Timothy syndrome	disease	associated_with	CACNA1C	gene
+Timothy syndrome	disease	associated_with	CACNA1C	gene
+Timothy syndrome	disease	associated_with	CACNA1C	gene
+Brugada syndrome 3	disease	associated_with	CACNA1C	gene
+Brugada syndrome 3	disease	associated_with	CACNA1C	gene
+Brugada syndrome 3	disease	associated_with	CACNA1C	gene
+Brugada syndrome 3	disease	associated_with	CACNA1C	gene
+Brugada syndrome 3	disease	associated_with	CACNA1C	gene
+unipolar depression	disease	associated_with	CACNA1C	gene
+unipolar depression	disease	associated_with	CACNA1C	gene
+unipolar depression	disease	associated_with	CACNA1C	gene
+unipolar depression	disease	associated_with	CACNA1C	gene
+unipolar depression	disease	associated_with	CACNA1C	gene
+combined vitamin K-dependent clotting factors deficiency	disease	associated_with	GGCX	gene
+combined vitamin K-dependent clotting factors deficiency	disease	associated_with	GGCX	gene
+combined vitamin K-dependent clotting factors deficiency	disease	associated_with	GGCX	gene
+combined vitamin K-dependent clotting factors deficiency	disease	associated_with	GGCX	gene
+dystonia 23	disease	associated_with	CACNA1B	gene
+syndromic X-linked intellectual disability 94	disease	associated_with	GRIA3	gene
+syndromic X-linked intellectual disability 94	disease	associated_with	GRIA3	gene
+syndromic X-linked intellectual disability 94	disease	associated_with	GRIA3	gene
+syndromic X-linked intellectual disability 94	disease	associated_with	GRIA3	gene
+syndromic X-linked intellectual disability 94	disease	associated_with	GRIA3	gene
+syndromic X-linked intellectual disability 94	disease	associated_with	GRIA3	gene
+syndromic X-linked intellectual disability 94	disease	associated_with	GRIA3	gene
+syndromic X-linked intellectual disability 94	disease	associated_with	GRIA3	gene
+syndromic X-linked intellectual disability 94	disease	associated_with	GRIA3	gene
+syndromic X-linked intellectual disability 94	disease	associated_with	GRIA3	gene
+syndromic X-linked intellectual disability 94	disease	associated_with	GRIA3	gene
+syndromic X-linked intellectual disability 94	disease	associated_with	GRIA3	gene
+syndromic X-linked intellectual disability 94	disease	associated_with	GRIA3	gene
+phenylketonuria	disease	associated_with	PAH	gene
+polycystic ovary syndrome	disease	associated_with	INSR	gene
+polycystic ovary syndrome	disease	associated_with	INSR	gene
+cystic fibrosis	disease	associated_with	CFTR	gene
+cystic fibrosis	disease	associated_with	CFTR	gene
+cystic fibrosis	disease	associated_with	CFTR	gene
+cystic fibrosis	disease	associated_with	CFTR	gene
+cystic fibrosis	disease	associated_with	CFTR	gene
+cystic fibrosis	disease	associated_with	CFTR	gene
+congenital bilateral aplasia of the vas deferens	disease	associated_with	CFTR	gene
+congenital bilateral aplasia of the vas deferens	disease	associated_with	CFTR	gene
+congenital bilateral aplasia of the vas deferens	disease	associated_with	CFTR	gene
+congenital bilateral aplasia of the vas deferens	disease	associated_with	CFTR	gene
+congenital bilateral aplasia of the vas deferens	disease	associated_with	CFTR	gene
+congenital bilateral aplasia of the vas deferens	disease	associated_with	CFTR	gene
+Bruton-type agammaglobulinemia	disease	associated_with	BTK	gene
+galactosialidosis	disease	associated_with	CTSA	gene
+galactosialidosis	disease	associated_with	CTSA	gene
+infantile parkinsonism-dystonia	disease	associated_with	SLC6A3	gene
+infantile parkinsonism-dystonia	disease	associated_with	SLC6A3	gene
+infantile parkinsonism-dystonia	disease	associated_with	SLC6A3	gene
+infantile parkinsonism-dystonia	disease	associated_with	SLC6A3	gene
+infantile parkinsonism-dystonia	disease	associated_with	SLC6A3	gene
+infantile parkinsonism-dystonia	disease	associated_with	SLC6A3	gene
+infantile parkinsonism-dystonia	disease	associated_with	SLC6A3	gene
+infantile parkinsonism-dystonia	disease	associated_with	SLC6A3	gene
+infantile parkinsonism-dystonia	disease	associated_with	SLC6A3	gene
+infantile parkinsonism-dystonia	disease	associated_with	SLC6A3	gene
+infantile parkinsonism-dystonia	disease	associated_with	SLC6A3	gene
+infantile parkinsonism-dystonia	disease	associated_with	SLC6A3	gene
+infantile parkinsonism-dystonia	disease	associated_with	SLC6A3	gene
+infantile parkinsonism-dystonia	disease	associated_with	SLC6A3	gene
+infantile parkinsonism-dystonia	disease	associated_with	SLC6A3	gene
+growth delay due to insulin-like growth factor I resistance	disease	associated_with	IGF1R	gene
+growth delay due to insulin-like growth factor I resistance	disease	associated_with	IGF1R	gene
+periodontitis	disease	associated_with	IGF2R	gene
+periodontitis	disease	associated_with	IGF2R	gene
+platelet-type bleeding disorder 8	disease	associated_with	P2RY12	gene
+Hallermann-Streiff syndrome	disease	associated_with	GJA1	gene
+Hallermann-Streiff syndrome	disease	associated_with	GJA1	gene
+Hallermann-Streiff syndrome	disease	associated_with	GJA1	gene
+odontoonychodermal syndrome	disease	associated_with	GJA1	gene
+odontoonychodermal syndrome	disease	associated_with	GJA1	gene
+odontoonychodermal syndrome	disease	associated_with	GJA1	gene
+erythrokeratodermia variabilis et progressiva 3	disease	associated_with	GJA1	gene
+erythrokeratodermia variabilis et progressiva 3	disease	associated_with	GJA1	gene
+erythrokeratodermia variabilis et progressiva 3	disease	associated_with	GJA1	gene
+autosomal dominant palmoplantar keratoderma and congenital alopecia	disease	associated_with	GJA1	gene
+autosomal dominant palmoplantar keratoderma and congenital alopecia	disease	associated_with	GJA1	gene
+autosomal dominant palmoplantar keratoderma and congenital alopecia	disease	associated_with	GJA1	gene
+type-1 diabetes	disease	associated_with	TYK2	gene
+psoriasis	disease	associated_with	TYK2	gene
+rheumatoid arthritis	disease	associated_with	TYK2	gene
+congenital myasthenic syndrome 21	disease	associated_with	SLC18A3	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+glucocorticoid resistance	disease	associated_with	NR3C1	gene
+stroke	disease	associated_with	ALDH2	gene
+stroke	disease	associated_with	ALDH2	gene
+coronary artery disease	disease	associated_with	ALDH2	gene
+coronary artery disease	disease	associated_with	ALDH2	gene
+intracranial aneurysm	disease	associated_with	ALDH2	gene
+intracranial aneurysm	disease	associated_with	ALDH2	gene
+cerebrovascular disease	disease	associated_with	ALDH2	gene
+cerebrovascular disease	disease	associated_with	ALDH2	gene
+alcohol dependence	disease	associated_with	ALDH2	gene
+alcohol dependence	disease	associated_with	ALDH2	gene
+thiamine-responsive megaloblastic anemia syndrome	disease	associated_with	SLC19A2	gene
+thiamine-responsive megaloblastic anemia syndrome	disease	associated_with	SLC19A2	gene
+Crohn's disease	disease	associated_with	JAK2	gene
+Crohn's disease	disease	associated_with	JAK2	gene
+Crohn's disease	disease	associated_with	JAK2	gene
+Crohn's disease	disease	associated_with	JAK2	gene
+acute myeloid leukemia	disease	associated_with	JAK2	gene
+acute myeloid leukemia	disease	associated_with	JAK2	gene
+acute myeloid leukemia	disease	associated_with	JAK2	gene
+acute myeloid leukemia	disease	associated_with	JAK2	gene
+polycythemia vera	disease	associated_with	JAK2	gene
+polycythemia vera	disease	associated_with	JAK2	gene
+polycythemia vera	disease	associated_with	JAK2	gene
+polycythemia vera	disease	associated_with	JAK2	gene
+myelofibrosis	disease	associated_with	JAK2	gene
+myelofibrosis	disease	associated_with	JAK2	gene
+myelofibrosis	disease	associated_with	JAK2	gene
+myelofibrosis	disease	associated_with	JAK2	gene
+myelodysplastic/myeloproliferative neoplasm	disease	associated_with	JAK2	gene
+myelodysplastic/myeloproliferative neoplasm	disease	associated_with	JAK2	gene
+myelodysplastic/myeloproliferative neoplasm	disease	associated_with	JAK2	gene
+myelodysplastic/myeloproliferative neoplasm	disease	associated_with	JAK2	gene
+platelet-type bleeding disorder 8	disease	associated_with	P2RY12	gene
+platelet-type bleeding disorder 8	disease	associated_with	P2RY12	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+epilepsy	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+prune belly syndrome	disease	associated_with	CHRM3	gene
+morbid obesity	disease	associated_with	FBN2	gene
+epilepsy	disease	associated_with	GABRG2	gene
+cataract 1 multiple types	disease	associated_with	GJA8	gene
+cataract 1 multiple types	disease	associated_with	GJA8	gene
+cataract 1 multiple types	disease	associated_with	GJA8	gene
+Charcot–Marie–Tooth disease	disease	associated_with	GJB1	gene
+Charcot–Marie–Tooth disease	disease	associated_with	GJB1	gene
+Charcot–Marie–Tooth disease	disease	associated_with	GJB1	gene
+Bart-Pumphrey syndrome	disease	associated_with	GJB2	gene
+Bart-Pumphrey syndrome	disease	associated_with	GJB2	gene
+Bart-Pumphrey syndrome	disease	associated_with	GJB2	gene
+Vohwinkel syndrome	disease	associated_with	GJB2	gene
+Vohwinkel syndrome	disease	associated_with	GJB2	gene
+Vohwinkel syndrome	disease	associated_with	GJB2	gene
+autosomal dominant nonsyndromic deafness 3A	disease	associated_with	GJB2	gene
+autosomal dominant nonsyndromic deafness 3A	disease	associated_with	GJB2	gene
+autosomal dominant nonsyndromic deafness 3A	disease	associated_with	GJB2	gene
+palmoplantar keratoderma-deafness syndrome	disease	associated_with	GJB2	gene
+palmoplantar keratoderma-deafness syndrome	disease	associated_with	GJB2	gene
+palmoplantar keratoderma-deafness syndrome	disease	associated_with	GJB2	gene
+syndromic genetic deafness	disease	associated_with	GJB2	gene
+syndromic genetic deafness	disease	associated_with	GJB2	gene
+syndromic genetic deafness	disease	associated_with	GJB2	gene
+autosomal dominant nonsyndromic deafness 2B	disease	associated_with	GJB3	gene
+autosomal dominant nonsyndromic deafness 2B	disease	associated_with	GJB3	gene
+autosomal dominant nonsyndromic deafness 2B	disease	associated_with	GJB3	gene
+Clouston syndrome	disease	associated_with	GJB6	gene
+Clouston syndrome	disease	associated_with	GJB6	gene
+Clouston syndrome	disease	associated_with	GJB6	gene
+autosomal recessive nonsyndromic deafness 1B	disease	associated_with	GJB6	gene
+autosomal recessive nonsyndromic deafness 1B	disease	associated_with	GJB6	gene
+autosomal recessive nonsyndromic deafness 1B	disease	associated_with	GJB6	gene
+autosomal dominant nonsyndromic deafness 3B	disease	associated_with	GJB6	gene
+autosomal dominant nonsyndromic deafness 3B	disease	associated_with	GJB6	gene
+autosomal dominant nonsyndromic deafness 3B	disease	associated_with	GJB6	gene
+hereditary spastic paraplegia 44	disease	associated_with	GJC2	gene
+hereditary spastic paraplegia 44	disease	associated_with	GJC2	gene
+hereditary spastic paraplegia 44	disease	associated_with	GJC2	gene
+interstitial lung disease	disease	associated_with	DPP9	gene
+interstitial lung disease	disease	associated_with	DPP9	gene
+erythrokeratodermia variabilis et progressiva 2	disease	associated_with	GJB4	gene
+erythrokeratodermia variabilis et progressiva 2	disease	associated_with	GJB4	gene
+erythrokeratodermia variabilis et progressiva 2	disease	associated_with	GJB4	gene
+Ehlers-Danlos syndrome, periodontitis type	disease	associated_with	C1R	gene
+melanoma	disease	associated_with	PARP1	gene
+melanoma	disease	associated_with	PARP1	gene
+neuroblastoma, susceptibility to, 3	disease	associated_with	ALK	gene
+neuroblastoma, susceptibility to, 3	disease	associated_with	ALK	gene
+neuroblastoma, susceptibility to, 3	disease	associated_with	ALK	gene
+facial dysmorphism-lens dislocation-anterior segment abnormalities-spontaneous filtering blebs syndrome	disease	associated_with	ASPH	gene
+facial dysmorphism-lens dislocation-anterior segment abnormalities-spontaneous filtering blebs syndrome	disease	associated_with	ASPH	gene
+hypokalemic periodic paralysis	disease	associated_with	CACNA1S	gene
+hypokalemic periodic paralysis	disease	associated_with	CACNA1S	gene
+hypokalemic periodic paralysis	disease	associated_with	CACNA1S	gene
+osteoarthritis	disease	associated_with	CAMK2B	gene
+metabolic disease	disease	associated_with	CAMK2B	gene
+autosomal dominant mental retardation 54	disease	associated_with	CAMK2B	gene
+congenital myasthenic syndrome 1B	disease	associated_with	CHRNA1	gene
+congenital myasthenic syndrome 1B	disease	associated_with	CHRNA1	gene
+congenital myasthenic syndrome 1B	disease	associated_with	CHRNA1	gene
+autosomal dominant nocturnal frontal lobe epilepsy 4	disease	associated_with	CHRNA2	gene
+autosomal dominant nocturnal frontal lobe epilepsy 4	disease	associated_with	CHRNA2	gene
+obesity	disease	associated_with	CHRNA3	gene
+obesity	disease	associated_with	CHRNA3	gene
+chronic obstructive pulmonary disease	disease	associated_with	CHRNA3	gene
+chronic obstructive pulmonary disease	disease	associated_with	CHRNA3	gene
+ulcerative colitis	disease	associated_with	GPR35	gene
+ulcerative colitis	disease	associated_with	GPR35	gene
+ulcerative colitis	disease	associated_with	GPR35	gene
+ulcerative colitis	disease	associated_with	GPR35	gene
+inflammatory bowel diseases	disease	associated_with	GPR35	gene
+inflammatory bowel diseases	disease	associated_with	GPR35	gene
+inflammatory bowel diseases	disease	associated_with	GPR35	gene
+inflammatory bowel diseases	disease	associated_with	GPR35	gene
+sclerosing cholangitis	disease	associated_with	GPR35	gene
+sclerosing cholangitis	disease	associated_with	GPR35	gene
+sclerosing cholangitis	disease	associated_with	GPR35	gene
+sclerosing cholangitis	disease	associated_with	GPR35	gene
+epileptic encephalopathy, early infantile, 32	disease	associated_with	KCNA2	gene
+coronary artery disease	disease	associated_with	LPA	gene
+metabolic disease	disease	associated_with	NR1H3	gene
+metabolic disease	disease	associated_with	NR1H3	gene
+hereditary spastic paraplegia 54	disease	associated_with	DDHD2	gene
+hereditary spastic paraplegia 54	disease	associated_with	DDHD2	gene
+cataract 18	disease	associated_with	FYCO1	gene
+deafness-infertility syndrome	disease	associated_with	CATSPER2	gene
+deafness-infertility syndrome	disease	associated_with	CATSPER2	gene
+deafness-infertility syndrome	disease	associated_with	CATSPER2	gene
+FTDALS4	disease	associated_with	TBK1	gene
+inflammatory bowel diseases	disease	associated_with	PRKCB	gene
+inflammatory bowel diseases	disease	associated_with	PRKCB	gene
+inflammatory bowel diseases	disease	associated_with	PRKCB	gene
+inflammatory bowel diseases	disease	associated_with	PRKCB	gene
+spinocerebellar ataxia type 14	disease	associated_with	PRKCG	gene
+spinocerebellar ataxia type 14	disease	associated_with	PRKCG	gene
+spinocerebellar ataxia type 14	disease	associated_with	PRKCG	gene
+spinocerebellar ataxia type 14	disease	associated_with	PRKCG	gene
+rheumatoid arthritis	disease	associated_with	PRKCH	gene
+morbid obesity	disease	associated_with	PRKCH	gene
+Charcot-Marie-Tooth disease dominant intermediate E	disease	associated_with	INF2	gene
+Charcot-Marie-Tooth disease dominant intermediate E	disease	associated_with	INF2	gene
+focal segmental glomerulosclerosis 5	disease	associated_with	INF2	gene
+focal segmental glomerulosclerosis 5	disease	associated_with	INF2	gene
+glucocorticoid-remediable aldosteronism	disease	associated_with	CYP11B2	gene
+neutropenia	disease	associated_with	ELANE	gene
+cyclic hematopoiesis	disease	associated_with	ELANE	gene
+sudden infant death syndrome	disease	associated_with	SCN5A	gene
+Brugada syndrome 1	disease	associated_with	SCN5A	gene
+dilated cardiomyopathy 1E	disease	associated_with	SCN5A	gene
+long QT syndrome 3	disease	associated_with	SCN5A	gene
+obesity	disease	associated_with	RYR2	gene
+obesity	disease	associated_with	RYR2	gene
+obesity	disease	associated_with	RYR2	gene
+obesity	disease	associated_with	RYR2	gene
+lymphoblastic leukemia	disease	associated_with	RYR2	gene
+lymphoblastic leukemia	disease	associated_with	RYR2	gene
+lymphoblastic leukemia	disease	associated_with	RYR2	gene
+lymphoblastic leukemia	disease	associated_with	RYR2	gene
+arrhythmogenic right ventricular dysplasia 2	disease	associated_with	RYR2	gene
+arrhythmogenic right ventricular dysplasia 2	disease	associated_with	RYR2	gene
+arrhythmogenic right ventricular dysplasia 2	disease	associated_with	RYR2	gene
+arrhythmogenic right ventricular dysplasia 2	disease	associated_with	RYR2	gene
+Curry-Jones syndrome	disease	associated_with	SMO	gene
+Curry-Jones syndrome	disease	associated_with	SMO	gene
+Curry-Jones syndrome	disease	associated_with	SMO	gene
+colorectal cancer	disease	associated_with	PIK3CA	gene
+colorectal cancer	disease	associated_with	PIK3CA	gene
+colorectal cancer	disease	associated_with	PIK3CA	gene
+seborrheic keratosis	disease	associated_with	PIK3CA	gene
+seborrheic keratosis	disease	associated_with	PIK3CA	gene
+seborrheic keratosis	disease	associated_with	PIK3CA	gene
+Macrocephaly-capillary malformation	disease	associated_with	PIK3CA	gene
+Macrocephaly-capillary malformation	disease	associated_with	PIK3CA	gene
+Macrocephaly-capillary malformation	disease	associated_with	PIK3CA	gene
+CLOVES syndrome	disease	associated_with	PIK3CA	gene
+CLOVES syndrome	disease	associated_with	PIK3CA	gene
+CLOVES syndrome	disease	associated_with	PIK3CA	gene
+CLAPO syndrome	disease	associated_with	PIK3CA	gene
+CLAPO syndrome	disease	associated_with	PIK3CA	gene
+CLAPO syndrome	disease	associated_with	PIK3CA	gene
+Brunner Syndrome	disease	associated_with	MAOA	gene
+Brunner Syndrome	disease	associated_with	MAOA	gene
+Brunner Syndrome	disease	associated_with	MAOA	gene
+Brunner Syndrome	disease	associated_with	MAOA	gene
+Brunner Syndrome	disease	associated_with	MAOA	gene
+Brunner Syndrome	disease	associated_with	MAOA	gene
+paramyotonia congenita	disease	associated_with	SCN4A	gene
+hypokalemic periodic paralysis	disease	associated_with	SCN4A	gene
+hyperkalemic periodic paralysis	disease	associated_with	SCN4A	gene
+congenital myasthenic syndrome 16	disease	associated_with	SCN4A	gene
+dental caries	disease	associated_with	SCN9A	gene
+dental caries	disease	associated_with	SCN9A	gene
+Dravet syndrome	disease	associated_with	SCN9A	gene
+Dravet syndrome	disease	associated_with	SCN9A	gene
+generalized epilepsy	disease	associated_with	SCN9A	gene
+generalized epilepsy	disease	associated_with	SCN9A	gene
+Paroxysmal extreme pain disorder	disease	associated_with	SCN9A	gene
+Paroxysmal extreme pain disorder	disease	associated_with	SCN9A	gene
+post-traumatic stress disorder	disease	associated_with	KAT2B	gene
+post-traumatic stress disorder	disease	associated_with	KAT2B	gene
+colorectal cancer	disease	associated_with	MSH2	gene
+colorectal cancer	disease	associated_with	MSH2	gene
+Mismatch repair cancer syndrome	disease	associated_with	MSH2	gene
+Mismatch repair cancer syndrome	disease	associated_with	MSH2	gene
+Lynch syndrome	disease	associated_with	MSH2	gene
+Lynch syndrome	disease	associated_with	MSH2	gene
+Muir-Torre syndrome	disease	associated_with	MSH2	gene
+Muir-Torre syndrome	disease	associated_with	MSH2	gene
+colorectal cancer	disease	associated_with	MSH6	gene
+colorectal cancer	disease	associated_with	MSH6	gene
+Mismatch repair cancer syndrome	disease	associated_with	MSH6	gene
+Mismatch repair cancer syndrome	disease	associated_with	MSH6	gene
+epinephrine	drug	may treat	pre-eclampsia	disease
+norepinephrine	drug	may treat	pre-eclampsia	disease
+clozapine	drug	may treat	pre-eclampsia	disease
+terazosin	drug	may treat	pre-eclampsia	disease
+indoramin	drug	may treat	pre-eclampsia	disease
+silodosin	drug	may treat	pre-eclampsia	disease
+risperidone	drug	may treat	pre-eclampsia	disease
+mianserin	drug	may treat	pre-eclampsia	disease
+oxymetazoline	drug	may treat	pre-eclampsia	disease
+cyproheptadine	drug	may treat	pre-eclampsia	disease
+tamsulosin	drug	may treat	pre-eclampsia	disease
+doxazosin	drug	may treat	pre-eclampsia	disease
+phentolamine	drug	may treat	pre-eclampsia	disease
+prazosin	drug	may treat	pre-eclampsia	disease
+methoxamine	drug	may treat	pre-eclampsia	disease
+dapiprazole	drug	may treat	pre-eclampsia	disease
+labetalol	drug	may treat	pre-eclampsia	disease
+alfuzosin	drug	may treat	pre-eclampsia	disease
+spiperone	drug	may treat	pre-eclampsia	disease
+ritanserin	drug	may treat	pre-eclampsia	disease
+BMY-7378	drug	may treat	pre-eclampsia	disease
+spiroxatrine	drug	may treat	pre-eclampsia	disease
+NAN 190	drug	may treat	pre-eclampsia	disease
+α-methylnoradrenaline	drug	may treat	pre-eclampsia	disease
+WB-4101	drug	may treat	pre-eclampsia	disease
+epinephrine	drug	may treat	gestational hypertension	disease
+norepinephrine	drug	may treat	gestational hypertension	disease
+clozapine	drug	may treat	gestational hypertension	disease
+terazosin	drug	may treat	gestational hypertension	disease
+indoramin	drug	may treat	gestational hypertension	disease
+silodosin	drug	may treat	gestational hypertension	disease
+risperidone	drug	may treat	gestational hypertension	disease
+mianserin	drug	may treat	gestational hypertension	disease
+oxymetazoline	drug	may treat	gestational hypertension	disease
+cyproheptadine	drug	may treat	gestational hypertension	disease
+tamsulosin	drug	may treat	gestational hypertension	disease
+doxazosin	drug	may treat	gestational hypertension	disease
+phentolamine	drug	may treat	gestational hypertension	disease
+prazosin	drug	may treat	gestational hypertension	disease
+methoxamine	drug	may treat	gestational hypertension	disease
+dapiprazole	drug	may treat	gestational hypertension	disease
+labetalol	drug	may treat	gestational hypertension	disease
+alfuzosin	drug	may treat	gestational hypertension	disease
+spiperone	drug	may treat	gestational hypertension	disease
+ritanserin	drug	may treat	gestational hypertension	disease
+BMY-7378	drug	may treat	gestational hypertension	disease
+spiroxatrine	drug	may treat	gestational hypertension	disease
+NAN 190	drug	may treat	gestational hypertension	disease
+α-methylnoradrenaline	drug	may treat	gestational hypertension	disease
+WB-4101	drug	may treat	gestational hypertension	disease
+ibrutinib	drug	may treat	systemic lupus erythematosus	disease
+ibrutinib	drug	may treat	smallpox	disease
+ibrutinib	drug	may treat	rheumatoid arthritis	disease
+ibrutinib	drug	may treat	maturity-onset diabetes of the young type 11	disease
+mitotane	drug	may treat	congenital adrenal insufficiency	disease
+sitagliptin	drug	may treat	rheumatoid arthritis	disease
+vildagliptin	drug	may treat	rheumatoid arthritis	disease
+linagliptin	drug	may treat	rheumatoid arthritis	disease
+saxagliptin	drug	may treat	rheumatoid arthritis	disease
+alogliptin	drug	may treat	rheumatoid arthritis	disease
+omarigliptin	drug	may treat	rheumatoid arthritis	disease
+Hypothetical protein CTL0156	drug	may treat	Li-Fraumeni syndrome	disease
+Hypothetical protein CT_788	drug	may treat	Li-Fraumeni syndrome	disease
+Hypothetical protein CTL0156	drug	may treat	basal-cell carcinoma	disease
+Hypothetical protein CT_788	drug	may treat	basal-cell carcinoma	disease
+Hypothetical protein CTL0156	drug	may treat	head and neck squamous cell carcinoma	disease
+Hypothetical protein CT_788	drug	may treat	head and neck squamous cell carcinoma	disease
+Hypothetical protein CTL0156	drug	may treat	Li-Fraumeni syndrome 1	disease
+Hypothetical protein CT_788	drug	may treat	Li-Fraumeni syndrome 1	disease
+everolimus	drug	may treat	macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome	disease
+ridaforolimus	drug	may treat	macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome	disease
+dactolisib	drug	may treat	macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome	disease
+temsirolimus	drug	may treat	macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome	disease
+Non-structural protein 14 [SARS-CoV-2]	drug	may treat	Fabry disease	disease
+AIDA	drug	may treat	autosomal recessive spinocerebellar ataxia 13	disease
+CPCCOEt	drug	may treat	autosomal recessive spinocerebellar ataxia 13	disease
+AIDA	drug	may treat	spinocerebellar ataxia 44	disease
+CPCCOEt	drug	may treat	spinocerebellar ataxia 44	disease
+navitoclax	drug	may treat	chronic lymphocytic leukemia	disease
+Epidermal growth factor receptor	drug	may treat	renal hypomagnesemia 4	disease
+gefitinib	drug	may treat	glioma	disease
+erlotinib	drug	may treat	glioma	disease
+lapatinib	drug	may treat	glioma	disease
+Epidermal growth factor	drug	may treat	glioma	disease
+Brigatinib	drug	may treat	glioma	disease
+afatinib	drug	may treat	glioma	disease
+canertinib	drug	may treat	glioma	disease
+neratinib	drug	may treat	glioma	disease
+vandetanib	drug	may treat	glioma	disease
+icotinib	drug	may treat	glioma	disease
+dacomitinib	drug	may treat	glioma	disease
+Inclusion membrane protein E CT_116	drug	may treat	glioma	disease
+Inclusion membrane protein E CTL0371	drug	may treat	glioma	disease
+osimertinib	drug	may treat	glioma	disease
+gefitinib	drug	may treat	non-small-cell lung carcinoma	disease
+erlotinib	drug	may treat	non-small-cell lung carcinoma	disease
+lapatinib	drug	may treat	non-small-cell lung carcinoma	disease
+Epidermal growth factor	drug	may treat	non-small-cell lung carcinoma	disease
+Brigatinib	drug	may treat	non-small-cell lung carcinoma	disease
+afatinib	drug	may treat	non-small-cell lung carcinoma	disease
+canertinib	drug	may treat	non-small-cell lung carcinoma	disease
+neratinib	drug	may treat	non-small-cell lung carcinoma	disease
+vandetanib	drug	may treat	non-small-cell lung carcinoma	disease
+icotinib	drug	may treat	non-small-cell lung carcinoma	disease
+dacomitinib	drug	may treat	non-small-cell lung carcinoma	disease
+Inclusion membrane protein E CT_116	drug	may treat	non-small-cell lung carcinoma	disease
+Inclusion membrane protein E CTL0371	drug	may treat	non-small-cell lung carcinoma	disease
+osimertinib	drug	may treat	non-small-cell lung carcinoma	disease
+Isopentenyl pyrophosphate	drug	may treat	Hyper-IgD syndrome	disease
+geranyl diphosphate	drug	may treat	Hyper-IgD syndrome	disease
+geranylgeranyl pyrophosphate	drug	may treat	Hyper-IgD syndrome	disease
+Isopentenyl pyrophosphate	drug	may treat	mevalonic aciduria	disease
+geranyl diphosphate	drug	may treat	mevalonic aciduria	disease
+geranylgeranyl pyrophosphate	drug	may treat	mevalonic aciduria	disease
+Isopentenyl pyrophosphate	drug	may treat	MVK	disease
+geranyl diphosphate	drug	may treat	MVK	disease
+geranylgeranyl pyrophosphate	drug	may treat	MVK	disease
+dabigatran	drug	may treat	thrombophilia	disease
+ximelagatran	drug	may treat	thrombophilia	disease
+Anti-thrombin antibodies	drug	may treat	thrombophilia	disease
+dabigatran	drug	may treat	Hypoprothrombinemia	disease
+ximelagatran	drug	may treat	Hypoprothrombinemia	disease
+Anti-thrombin antibodies	drug	may treat	Hypoprothrombinemia	disease
+sorafenib	drug	may treat	hypertrophic cardiomyopathy	disease
+vemurafenib	drug	may treat	hypertrophic cardiomyopathy	disease
+sorafenib	drug	may treat	Noonan syndrome 5	disease
+vemurafenib	drug	may treat	Noonan syndrome 5	disease
+sorafenib	drug	may treat	dilated cardiomyopathy 1NN	disease
+vemurafenib	drug	may treat	dilated cardiomyopathy 1NN	disease
+PRE-084	drug	may treat	autosomal recessive distal spinal muscular atrophy 2	disease
+dextromethorphan	drug	may treat	autosomal recessive distal spinal muscular atrophy 2	disease
+(-)-pentazocine	drug	may treat	autosomal recessive distal spinal muscular atrophy 2	disease
+bd-1047	drug	may treat	autosomal recessive distal spinal muscular atrophy 2	disease
+Hypothetical protein CT_449	drug	may treat	autosomal recessive distal spinal muscular atrophy 2	disease
+Hypothetical protein CTL0709	drug	may treat	autosomal recessive distal spinal muscular atrophy 2	disease
+non-structural protein 6 [SARS-CoV-2]	drug	may treat	autosomal recessive distal spinal muscular atrophy 2	disease
+PRE-084	drug	may treat	amyotrophic lateral sclerosis type 16	disease
+dextromethorphan	drug	may treat	amyotrophic lateral sclerosis type 16	disease
+(-)-pentazocine	drug	may treat	amyotrophic lateral sclerosis type 16	disease
+bd-1047	drug	may treat	amyotrophic lateral sclerosis type 16	disease
+Hypothetical protein CT_449	drug	may treat	amyotrophic lateral sclerosis type 16	disease
+Hypothetical protein CTL0709	drug	may treat	amyotrophic lateral sclerosis type 16	disease
+non-structural protein 6 [SARS-CoV-2]	drug	may treat	amyotrophic lateral sclerosis type 16	disease
+glycochenodeoxycholic acid	drug	may treat	metabolic disease	disease
+Inclusion membrane protein E CT_116	drug	may treat	autosomal dominant mental retardation 48	disease
+Inclusion membrane protein E CTL0371	drug	may treat	autosomal dominant mental retardation 48	disease
+sorafenib	drug	may treat	spondyloepimetaphyseal dysplasia-short limb-abnormal calcification syndrome	disease
+Helicase [SARS-CoV-2]	drug	may treat	nonsyndromic deafness	disease
+Helicase [SARS-CoV-2]	drug	may treat	autosomal recessive nonsyndromic deafness 24	disease
+semagacestat	drug	may treat	Pick disease	disease
+semagacestat	drug	may treat	Alzheimer disease 3	disease
+semagacestat	drug	may treat	dilated cardiomyopathy 1U	disease
+lonafarnib	drug	may treat	acute myeloid leukemia	disease
+lonafarnib	drug	may treat	juvenile myelomonocytic leukemia	disease
+lonafarnib	drug	may treat	Noonan syndrome 3	disease
+Inclusion membrane protein F CTL0372	drug	may treat	autosomal dominant type IV Ehlers-Danlos syndrome	disease
+Inclusion membrane protein F CT_117	drug	may treat	autosomal dominant type IV Ehlers-Danlos syndrome	disease
+alvocidib	drug	may treat	melanoma, cutaneous malignant, susceptibility to, 3	disease
+palbociclib	drug	may treat	melanoma, cutaneous malignant, susceptibility to, 3	disease
+palbociclib	drug	may treat	rheumatoid arthritis	disease
+palbociclib	drug	may treat	microcephaly 12, primary, autosomal recessive	disease
+naltrexone	drug	may treat	coronary artery disease	disease
+hydrocodone	drug	may treat	coronary artery disease	disease
+methylnaltrexone	drug	may treat	coronary artery disease	disease
+tapentadol	drug	may treat	coronary artery disease	disease
+(-)-pentazocine	drug	may treat	coronary artery disease	disease
+sufentanil	drug	may treat	coronary artery disease	disease
+loperamide	drug	may treat	coronary artery disease	disease
+diprenorphine	drug	may treat	coronary artery disease	disease
+DADLE	drug	may treat	coronary artery disease	disease
+butorphanol	drug	may treat	coronary artery disease	disease
+L-morphan	drug	may treat	coronary artery disease	disease
+nalorphine	drug	may treat	coronary artery disease	disease
+naltrindole	drug	may treat	coronary artery disease	disease
+dihydromorphine	drug	may treat	coronary artery disease	disease
+nalmefene	drug	may treat	coronary artery disease	disease
+endomorphin-1	drug	may treat	coronary artery disease	disease
+alvimopan	drug	may treat	coronary artery disease	disease
+DAMGO	drug	may treat	coronary artery disease	disease
+etonitazene	drug	may treat	coronary artery disease	disease
+levallorphan	drug	may treat	coronary artery disease	disease
+levomethadone	drug	may treat	coronary artery disease	disease
+quadazocine	drug	may treat	coronary artery disease	disease
+naltriben	drug	may treat	coronary artery disease	disease
+cebranopadol	drug	may treat	coronary artery disease	disease
+eluxadoline	drug	may treat	coronary artery disease	disease
+aminooxyacetic acid	drug	may treat	obesity	disease
+hypothetical protein CTL0003	drug	may treat	melanoma-pancreatic cancer syndrome	disease
+enoxaparin sodium	drug	may treat	antithrombin III deficiency	disease
+tafamidis	drug	may treat	transthyretin amyloidosis	disease
+tafamidis	drug	may treat	hereditary ATTR amyloidosis	disease
+capsaicin	drug	may treat	cystic fibrosis	disease
+capsaicin	drug	may treat	congenital bilateral aplasia of the vas deferens	disease
+letrozole	drug	may treat	aromatase excess syndrome	disease
+aminoglutethimide	drug	may treat	aromatase excess syndrome	disease
+exemestane	drug	may treat	aromatase excess syndrome	disease
+anastrozole	drug	may treat	aromatase excess syndrome	disease
+testolactone	drug	may treat	aromatase excess syndrome	disease
+azalanstat	drug	may treat	aromatase excess syndrome	disease
+fadrozole	drug	may treat	aromatase excess syndrome	disease
+maraviroc	drug	may treat	type 1 diabetes mellitus 22	disease
+vicriviroc	drug	may treat	type 1 diabetes mellitus 22	disease
+aplaviroc	drug	may treat	type 1 diabetes mellitus 22	disease
+Cenicriviroc	drug	may treat	type 1 diabetes mellitus 22	disease
+bisphenol A	drug	may treat	Kennedy disease	disease
+fluoxymesterone	drug	may treat	Kennedy disease	disease
+dihydrotestosterone	drug	may treat	Kennedy disease	disease
+mifepristone	drug	may treat	Kennedy disease	disease
+flutamide	drug	may treat	Kennedy disease	disease
+nandrolone	drug	may treat	Kennedy disease	disease
+methyltestosterone	drug	may treat	Kennedy disease	disease
+cyproterone acetate	drug	may treat	Kennedy disease	disease
+ethylestrenol	drug	may treat	Kennedy disease	disease
+bicalutamide	drug	may treat	Kennedy disease	disease
+enzalutamide	drug	may treat	Kennedy disease	disease
+metribolone	drug	may treat	Kennedy disease	disease
+nilutamide	drug	may treat	Kennedy disease	disease
+andarine	drug	may treat	Kennedy disease	disease
+dromostanolone propionate	drug	may treat	Kennedy disease	disease
+mibolerone	drug	may treat	Kennedy disease	disease
+testosterone propionate	drug	may treat	Kennedy disease	disease
+hydroxyflutamide	drug	may treat	Kennedy disease	disease
+plerixafor	drug	may treat	WHIM syndrome	disease
+nepicastat	drug	may treat	dopamine beta-hydroxylase deficiency	disease
+L-Tryptophan	drug	may treat	neonatal severe primary hyperparathyroidism	disease
+cinacalcet	drug	may treat	neonatal severe primary hyperparathyroidism	disease
+spermine	drug	may treat	neonatal severe primary hyperparathyroidism	disease
+NPS-2143	drug	may treat	neonatal severe primary hyperparathyroidism	disease
+ponatinib	drug	may treat	colorectal cancer	disease
+sunitinib	drug	may treat	colorectal cancer	disease
+sorafenib	drug	may treat	colorectal cancer	disease
+linifanib	drug	may treat	colorectal cancer	disease
+vandetanib	drug	may treat	colorectal cancer	disease
+ponatinib	drug	may treat	phaeochromocytoma	disease
+sunitinib	drug	may treat	phaeochromocytoma	disease
+sorafenib	drug	may treat	phaeochromocytoma	disease
+linifanib	drug	may treat	phaeochromocytoma	disease
+vandetanib	drug	may treat	phaeochromocytoma	disease
+ponatinib	drug	may treat	multiple endocrine neoplasia type 2A	disease
+sunitinib	drug	may treat	multiple endocrine neoplasia type 2A	disease
+sorafenib	drug	may treat	multiple endocrine neoplasia type 2A	disease
+linifanib	drug	may treat	multiple endocrine neoplasia type 2A	disease
+vandetanib	drug	may treat	multiple endocrine neoplasia type 2A	disease
+ponatinib	drug	may treat	multiple endocrine neoplasia type 2B	disease
+sunitinib	drug	may treat	multiple endocrine neoplasia type 2B	disease
+sorafenib	drug	may treat	multiple endocrine neoplasia type 2B	disease
+linifanib	drug	may treat	multiple endocrine neoplasia type 2B	disease
+vandetanib	drug	may treat	multiple endocrine neoplasia type 2B	disease
+ponatinib	drug	may treat	familial medullary thyroid carcinoma	disease
+sunitinib	drug	may treat	familial medullary thyroid carcinoma	disease
+sorafenib	drug	may treat	familial medullary thyroid carcinoma	disease
+linifanib	drug	may treat	familial medullary thyroid carcinoma	disease
+vandetanib	drug	may treat	familial medullary thyroid carcinoma	disease
+ponatinib	drug	may treat	hereditary pheochromocytoma-paraganglioma	disease
+sunitinib	drug	may treat	hereditary pheochromocytoma-paraganglioma	disease
+sorafenib	drug	may treat	hereditary pheochromocytoma-paraganglioma	disease
+linifanib	drug	may treat	hereditary pheochromocytoma-paraganglioma	disease
+vandetanib	drug	may treat	hereditary pheochromocytoma-paraganglioma	disease
+estriol	drug	may treat	obesity	disease
+tamoxifen	drug	may treat	obesity	disease
+estrone	drug	may treat	obesity	disease
+ethinylestradiol	drug	may treat	obesity	disease
+17β-estradiol	drug	may treat	obesity	disease
+diethylstilbestrol	drug	may treat	obesity	disease
+raloxifene	drug	may treat	obesity	disease
+lasofoxifene	drug	may treat	obesity	disease
+bazedoxifene	drug	may treat	obesity	disease
+Hexestrol	drug	may treat	obesity	disease
+estriol	drug	may treat	breast cancer	disease
+tamoxifen	drug	may treat	breast cancer	disease
+estrone	drug	may treat	breast cancer	disease
+ethinylestradiol	drug	may treat	breast cancer	disease
+17β-estradiol	drug	may treat	breast cancer	disease
+diethylstilbestrol	drug	may treat	breast cancer	disease
+raloxifene	drug	may treat	breast cancer	disease
+lasofoxifene	drug	may treat	breast cancer	disease
+bazedoxifene	drug	may treat	breast cancer	disease
+Hexestrol	drug	may treat	breast cancer	disease
+estriol	drug	may treat	alcohol dependence	disease
+tamoxifen	drug	may treat	alcohol dependence	disease
+estrone	drug	may treat	alcohol dependence	disease
+ethinylestradiol	drug	may treat	alcohol dependence	disease
+17β-estradiol	drug	may treat	alcohol dependence	disease
+diethylstilbestrol	drug	may treat	alcohol dependence	disease
+raloxifene	drug	may treat	alcohol dependence	disease
+lasofoxifene	drug	may treat	alcohol dependence	disease
+bazedoxifene	drug	may treat	alcohol dependence	disease
+Hexestrol	drug	may treat	alcohol dependence	disease
+Urofollitropin	drug	may treat	prostate cancer	disease
+Urofollitropin	drug	may treat	erectile dysfunction	disease
+Urofollitropin	drug	may treat	polycystic ovary syndrome	disease
+Urofollitropin	drug	may treat	ovarian hyperstimulation syndrome	disease
+Urofollitropin	drug	may treat	46 XX gonadal dysgenesis	disease
+Nintedanib	drug	may treat	breast cancer	disease
+Nintedanib	drug	may treat	Antley-Bixler syndrome	disease
+Nintedanib	drug	may treat	Crouzon syndrone	disease
+Nintedanib	drug	may treat	Beare-Stevenson cutis gyrata syndrome	disease
+Nintedanib	drug	may treat	Jackson–Weiss syndrome	disease
+Nintedanib	drug	may treat	McGillivray syndrome	disease
+Nintedanib	drug	may treat	LADD syndrome	disease
+DL-TBOA	drug	may treat	episodic ataxia type 6	disease
+sunitinib	drug	may treat	Jackson–Weiss syndrome	disease
+sorafenib	drug	may treat	Jackson–Weiss syndrome	disease
+pazopanib	drug	may treat	Jackson–Weiss syndrome	disease
+Nintedanib	drug	may treat	Jackson–Weiss syndrome	disease
+sunitinib	drug	may treat	Encephalocraniocutaneous lipomatosis	disease
+sorafenib	drug	may treat	Encephalocraniocutaneous lipomatosis	disease
+pazopanib	drug	may treat	Encephalocraniocutaneous lipomatosis	disease
+Nintedanib	drug	may treat	Encephalocraniocutaneous lipomatosis	disease
+sunitinib	drug	may treat	osteoglophonic dwarfism	disease
+sorafenib	drug	may treat	osteoglophonic dwarfism	disease
+pazopanib	drug	may treat	osteoglophonic dwarfism	disease
+Nintedanib	drug	may treat	osteoglophonic dwarfism	disease
+sunitinib	drug	may treat	Hartsfield-Bixler-Demyer syndrome	disease
+sorafenib	drug	may treat	Hartsfield-Bixler-Demyer syndrome	disease
+pazopanib	drug	may treat	Hartsfield-Bixler-Demyer syndrome	disease
+Nintedanib	drug	may treat	Hartsfield-Bixler-Demyer syndrome	disease
+Nintedanib	drug	may treat	SADDAN	disease
+Nintedanib	drug	may treat	bladder cancer	disease
+Nintedanib	drug	may treat	seborrheic keratosis	disease
+Nintedanib	drug	may treat	Muenke syndrome	disease
+Nintedanib	drug	may treat	Crouzonodermoskeletal syndrome	disease
+Nintedanib	drug	may treat	LADD syndrome	disease
+Nintedanib	drug	may treat	camptodactyly-tall stature-scoliosis-hearing loss syndrome	disease
+Nintedanib	drug	may treat	thanatophoric dysplasia type 2	disease
+abarelix	drug	may treat	hypogonadotropic hypogonadism 7 with or without anosmia	disease
+buserelin	drug	may treat	hypogonadotropic hypogonadism 7 with or without anosmia	disease
+leuprolide	drug	may treat	hypogonadotropic hypogonadism 7 with or without anosmia	disease
+triptorelin	drug	may treat	hypogonadotropic hypogonadism 7 with or without anosmia	disease
+goserelin	drug	may treat	hypogonadotropic hypogonadism 7 with or without anosmia	disease
+cetrorelix	drug	may treat	hypogonadotropic hypogonadism 7 with or without anosmia	disease
+histrelin	drug	may treat	hypogonadotropic hypogonadism 7 with or without anosmia	disease
+elagolix	drug	may treat	hypogonadotropic hypogonadism 7 with or without anosmia	disease
+relugolix	drug	may treat	hypogonadotropic hypogonadism 7 with or without anosmia	disease
+sufugolix	drug	may treat	hypogonadotropic hypogonadism 7 with or without anosmia	disease
+flunitrazepam	drug	may treat	early infantile epileptic encephalopathy 19	disease
+diazepam	drug	may treat	early infantile epileptic encephalopathy 19	disease
+zolpidem	drug	may treat	early infantile epileptic encephalopathy 19	disease
+alprazolam	drug	may treat	early infantile epileptic encephalopathy 19	disease
+clonazepam	drug	may treat	early infantile epileptic encephalopathy 19	disease
+triazolam	drug	may treat	early infantile epileptic encephalopathy 19	disease
+muscimol	drug	may treat	early infantile epileptic encephalopathy 19	disease
+picrotoxin	drug	may treat	early infantile epileptic encephalopathy 19	disease
+flumazenil	drug	may treat	early infantile epileptic encephalopathy 19	disease
+ocinaplon	drug	may treat	early infantile epileptic encephalopathy 19	disease
+bicuculline	drug	may treat	early infantile epileptic encephalopathy 19	disease
+gaboxadol	drug	may treat	early infantile epileptic encephalopathy 19	disease
+bretazenil	drug	may treat	early infantile epileptic encephalopathy 19	disease
+methyl 6,7-dimethoxy-4-ethyl-β-carboline-3-carboxylate	drug	may treat	early infantile epileptic encephalopathy 19	disease
+indiplon	drug	may treat	early infantile epileptic encephalopathy 19	disease
+isoguvacine	drug	may treat	early infantile epileptic encephalopathy 19	disease
+L-838417	drug	may treat	early infantile epileptic encephalopathy 19	disease
+Ro-15-4513	drug	may treat	early infantile epileptic encephalopathy 19	disease
+ZK93423	drug	may treat	early infantile epileptic encephalopathy 19	disease
+L-822179	drug	may treat	early infantile epileptic encephalopathy 19	disease
+ZK93426	drug	may treat	early infantile epileptic encephalopathy 19	disease
+isonipecotic acid	drug	may treat	early infantile epileptic encephalopathy 19	disease
+RO4938581	drug	may treat	early infantile epileptic encephalopathy 19	disease
+terfenadine	drug	may treat	long QT syndrome	disease
+astemizole	drug	may treat	long QT syndrome	disease
+disopyramide	drug	may treat	long QT syndrome	disease
+dofetilide	drug	may treat	long QT syndrome	disease
+ibutilide	drug	may treat	long QT syndrome	disease
+E4031	drug	may treat	long QT syndrome	disease
+rottlerin	drug	may treat	long QT syndrome	disease
+terfenadine	drug	may treat	short QT syndrome	disease
+astemizole	drug	may treat	short QT syndrome	disease
+disopyramide	drug	may treat	short QT syndrome	disease
+dofetilide	drug	may treat	short QT syndrome	disease
+ibutilide	drug	may treat	short QT syndrome	disease
+E4031	drug	may treat	short QT syndrome	disease
+rottlerin	drug	may treat	short QT syndrome	disease
+miglitol	drug	may treat	glycogen storage disease II	disease
+duvoglustat	drug	may treat	glycogen storage disease II	disease
+mitotane	drug	may treat	glucocorticoid-remediable aldosteronism	disease
+metyrapone	drug	may treat	glucocorticoid-remediable aldosteronism	disease
+fadrozole	drug	may treat	glucocorticoid-remediable aldosteronism	disease
+piracetam	drug	may treat	syndromic X-linked intellectual disability 94	disease
+allopurinol	drug	may treat	obesity	disease
+sunitinib	drug	may treat	acute myeloid leukemia	disease
+sorafenib	drug	may treat	acute myeloid leukemia	disease
+masitinib	drug	may treat	acute myeloid leukemia	disease
+cediranib	drug	may treat	acute myeloid leukemia	disease
+crenolanib	drug	may treat	acute myeloid leukemia	disease
+linifanib	drug	may treat	acute myeloid leukemia	disease
+pazopanib	drug	may treat	acute myeloid leukemia	disease
+semaxanib	drug	may treat	acute myeloid leukemia	disease
+sunitinib	drug	may treat	gastrointestinal stromal tumor	disease
+sorafenib	drug	may treat	gastrointestinal stromal tumor	disease
+masitinib	drug	may treat	gastrointestinal stromal tumor	disease
+cediranib	drug	may treat	gastrointestinal stromal tumor	disease
+crenolanib	drug	may treat	gastrointestinal stromal tumor	disease
+linifanib	drug	may treat	gastrointestinal stromal tumor	disease
+pazopanib	drug	may treat	gastrointestinal stromal tumor	disease
+semaxanib	drug	may treat	gastrointestinal stromal tumor	disease
+sunitinib	drug	may treat	piebaldism	disease
+sorafenib	drug	may treat	piebaldism	disease
+masitinib	drug	may treat	piebaldism	disease
+cediranib	drug	may treat	piebaldism	disease
+crenolanib	drug	may treat	piebaldism	disease
+linifanib	drug	may treat	piebaldism	disease
+pazopanib	drug	may treat	piebaldism	disease
+semaxanib	drug	may treat	piebaldism	disease
+diclofenac	drug	may treat	type 2 diabetes	disease
+resveratrol	drug	may treat	type 2 diabetes	disease
+linoleic acid	drug	may treat	type 2 diabetes	disease
+indomethacin	drug	may treat	type 2 diabetes	disease
+mesalazine	drug	may treat	type 2 diabetes	disease
+pioglitazone	drug	may treat	type 2 diabetes	disease
+bexarotene	drug	may treat	type 2 diabetes	disease
+rosiglitazone	drug	may treat	type 2 diabetes	disease
+bardoxolone methyl	drug	may treat	type 2 diabetes	disease
+ciglitazone	drug	may treat	type 2 diabetes	disease
+farglitazar	drug	may treat	type 2 diabetes	disease
+netoglitazone	drug	may treat	type 2 diabetes	disease
+Troglitazone	drug	may treat	type 2 diabetes	disease
+diclofenac	drug	may treat	familial partial lipodystrophy	disease
+resveratrol	drug	may treat	familial partial lipodystrophy	disease
+linoleic acid	drug	may treat	familial partial lipodystrophy	disease
+indomethacin	drug	may treat	familial partial lipodystrophy	disease
+mesalazine	drug	may treat	familial partial lipodystrophy	disease
+pioglitazone	drug	may treat	familial partial lipodystrophy	disease
+bexarotene	drug	may treat	familial partial lipodystrophy	disease
+rosiglitazone	drug	may treat	familial partial lipodystrophy	disease
+bardoxolone methyl	drug	may treat	familial partial lipodystrophy	disease
+ciglitazone	drug	may treat	familial partial lipodystrophy	disease
+farglitazar	drug	may treat	familial partial lipodystrophy	disease
+netoglitazone	drug	may treat	familial partial lipodystrophy	disease
+Troglitazone	drug	may treat	familial partial lipodystrophy	disease
+hydrochlorothiazide	drug	may treat	Gitelman syndrome	disease
+metolazone	drug	may treat	Gitelman syndrome	disease
+chlorothiazide	drug	may treat	Gitelman syndrome	disease
+cyclothiazide	drug	may treat	Gitelman syndrome	disease
+arachidonic acid	drug	may treat	focal segmental glomerulosclerosis 2	disease
+hydron	drug	may treat	focal segmental glomerulosclerosis 2	disease
+2-aminoethoxydiphenylborate	drug	may treat	focal segmental glomerulosclerosis 2	disease
+20-HETE	drug	may treat	focal segmental glomerulosclerosis 2	disease
+tetraethylammonium	drug	may treat	obesity	disease
+tubocurarine	drug	may treat	obesity	disease
+dapagliflozin	drug	may treat	renal glycosuria	disease
+canagliflozin	drug	may treat	renal glycosuria	disease
+empagliflozin	drug	may treat	renal glycosuria	disease
+sergliflozin etabonate	drug	may treat	renal glycosuria	disease
+pregnenolone sulfate	drug	may treat	congenital stationary night blindness 1C	disease
+2-aminoethoxydiphenylborate	drug	may treat	spinocerebellar ataxia type 41	disease
+2-aminoethoxydiphenylborate	drug	may treat	obesity	disease
+adenosine triphosphate	drug	may treat	progressive familial heart block type IB	disease
+adenosine diphosphate	drug	may treat	progressive familial heart block type IB	disease
+adenosine	drug	may treat	progressive familial heart block type IB	disease
+adenosine monophosphate	drug	may treat	progressive familial heart block type IB	disease
+clotrimazole	drug	may treat	progressive familial heart block type IB	disease
+spermine	drug	may treat	progressive familial heart block type IB	disease
+AMP-PNP	drug	may treat	progressive familial heart block type IB	disease
+tetrahydrocannabinol	drug	may treat	migraine disorder	disease
+L-menthol	drug	may treat	migraine disorder	disease
+linoleic acid	drug	may treat	migraine disorder	disease
+anandamide	drug	may treat	migraine disorder	disease
+clotrimazole	drug	may treat	migraine disorder	disease
+cannabidiol	drug	may treat	migraine disorder	disease
+NADA	drug	may treat	migraine disorder	disease
+5-benzyloxytryptamine	drug	may treat	migraine disorder	disease
+tetrahydrocannabinol	drug	may treat	amyotrophic lateral sclerosis	disease
+L-menthol	drug	may treat	amyotrophic lateral sclerosis	disease
+linoleic acid	drug	may treat	amyotrophic lateral sclerosis	disease
+anandamide	drug	may treat	amyotrophic lateral sclerosis	disease
+clotrimazole	drug	may treat	amyotrophic lateral sclerosis	disease
+cannabidiol	drug	may treat	amyotrophic lateral sclerosis	disease
+NADA	drug	may treat	amyotrophic lateral sclerosis	disease
+5-benzyloxytryptamine	drug	may treat	amyotrophic lateral sclerosis	disease
+tetrahydrocannabinol	drug	may treat	migraine without aura	disease
+L-menthol	drug	may treat	migraine without aura	disease
+linoleic acid	drug	may treat	migraine without aura	disease
+anandamide	drug	may treat	migraine without aura	disease
+clotrimazole	drug	may treat	migraine without aura	disease
+cannabidiol	drug	may treat	migraine without aura	disease
+NADA	drug	may treat	migraine without aura	disease
+5-benzyloxytryptamine	drug	may treat	migraine without aura	disease
+tetrahydrocannabinol	drug	may treat	migraine with aura	disease
+L-menthol	drug	may treat	migraine with aura	disease
+linoleic acid	drug	may treat	migraine with aura	disease
+anandamide	drug	may treat	migraine with aura	disease
+clotrimazole	drug	may treat	migraine with aura	disease
+cannabidiol	drug	may treat	migraine with aura	disease
+NADA	drug	may treat	migraine with aura	disease
+5-benzyloxytryptamine	drug	may treat	migraine with aura	disease
+cholesterol	drug	may treat	asthma	disease
+cholesterol	drug	may treat	schizophrenia	disease
+cholesterol	drug	may treat	mental depression	disease
+adenosine triphosphate	drug	may treat	Lytico-bodig disease	disease
+adenosine cyclic phosphate	drug	may treat	Lytico-bodig disease	disease
+hydron	drug	may treat	Lytico-bodig disease	disease
+nafamostat	drug	may treat	Lytico-bodig disease	disease
+balanol	drug	may treat	Oguchi disease-2	disease
+liothyronine	drug	may treat	congenital nongoitrous hypothryoidism 6	disease
+DL-3,3',5'-triiodothyronine	drug	may treat	congenital nongoitrous hypothryoidism 6	disease
+tiratricol	drug	may treat	congenital nongoitrous hypothryoidism 6	disease
+mefenamic acid	drug	may treat	long QT syndrome	disease
+niflumic acid	drug	may treat	long QT syndrome	disease
+mefenamic acid	drug	may treat	type 2 diabetes	disease
+niflumic acid	drug	may treat	type 2 diabetes	disease
+mefenamic acid	drug	may treat	familial atrial fibrillation	disease
+niflumic acid	drug	may treat	familial atrial fibrillation	disease
+lonafarnib	drug	may treat	bladder cancer	disease
+lonafarnib	drug	may treat	Costello syndrome	disease
+lonafarnib	drug	may treat	Schimmelpenning syndrome	disease
+lonafarnib	drug	may treat	follicular thyroid cancer	disease
+oxytocin	drug	may treat	alcohol dependence	disease
+arginine vasopressin	drug	may treat	alcohol dependence	disease
+vasotocin	drug	may treat	alcohol dependence	disease
+L-371,257	drug	may treat	alcohol dependence	disease
+nelivaptan	drug	may treat	alcohol dependence	disease
+relcovaptan	drug	may treat	alcohol dependence	disease
+tolbutamide	drug	may treat	type 2 diabetes	disease
+glyburide	drug	may treat	type 2 diabetes	disease
+minoxidil	drug	may treat	type 2 diabetes	disease
+nicorandil	drug	may treat	type 2 diabetes	disease
+tolbutamide	drug	may treat	permanent neonatal diabetes mellitus	disease
+glyburide	drug	may treat	permanent neonatal diabetes mellitus	disease
+minoxidil	drug	may treat	permanent neonatal diabetes mellitus	disease
+nicorandil	drug	may treat	permanent neonatal diabetes mellitus	disease
+tolbutamide	drug	may treat	maturity-onset diabetes of the young type 13	disease
+glyburide	drug	may treat	maturity-onset diabetes of the young type 13	disease
+minoxidil	drug	may treat	maturity-onset diabetes of the young type 13	disease
+nicorandil	drug	may treat	maturity-onset diabetes of the young type 13	disease
+tolbutamide	drug	may treat	rare genetic diabetes mellitus	disease
+glyburide	drug	may treat	rare genetic diabetes mellitus	disease
+minoxidil	drug	may treat	rare genetic diabetes mellitus	disease
+nicorandil	drug	may treat	rare genetic diabetes mellitus	disease
+tetraethylammonium	drug	may treat	undetermined early-onset epileptic encephalopathy	disease
+flupirtine	drug	may treat	undetermined early-onset epileptic encephalopathy	disease
+ezogabine	drug	may treat	undetermined early-onset epileptic encephalopathy	disease
+linopirdine	drug	may treat	undetermined early-onset epileptic encephalopathy	disease
+tetraethylammonium	drug	may treat	coronary artery disease	disease
+ezogabine	drug	may treat	coronary artery disease	disease
+6-methyl-2-(phenylethynyl)pyridine	drug	may treat	attention deficit hyperactivity disorder	disease
+ADX-47273	drug	may treat	attention deficit hyperactivity disorder	disease
+CDPPB	drug	may treat	attention deficit hyperactivity disorder	disease
+CTEP	drug	may treat	attention deficit hyperactivity disorder	disease
+fenobam	drug	may treat	attention deficit hyperactivity disorder	disease
+MTEP	drug	may treat	attention deficit hyperactivity disorder	disease
+CHPG	drug	may treat	attention deficit hyperactivity disorder	disease
+dipraglurant	drug	may treat	attention deficit hyperactivity disorder	disease
+6-methyl-2-(phenylethynyl)pyridine	drug	may treat	rheumatoid arthritis	disease
+ADX-47273	drug	may treat	rheumatoid arthritis	disease
+CDPPB	drug	may treat	rheumatoid arthritis	disease
+CTEP	drug	may treat	rheumatoid arthritis	disease
+fenobam	drug	may treat	rheumatoid arthritis	disease
+MTEP	drug	may treat	rheumatoid arthritis	disease
+CHPG	drug	may treat	rheumatoid arthritis	disease
+dipraglurant	drug	may treat	rheumatoid arthritis	disease
+DCPG	drug	may treat	congenital stationary night blindness 1B	disease
+eglumetad	drug	may treat	congenital stationary night blindness 1B	disease
+LY379268	drug	may treat	congenital stationary night blindness 1B	disease
+DCG-IV	drug	may treat	major depressive disorders	disease
+DCG-IV	drug	may treat	cleft lip and cleft palate	disease
+DCG-IV	drug	may treat	panic disorder	disease
+DCG-IV	drug	may treat	unipolar depression	disease
+DCG-IV	drug	may treat	mental depression	disease
+DCPG	drug	may treat	mental depression	disease
+eglumetad	drug	may treat	mental depression	disease
+L-AP4	drug	may treat	mental depression	disease
+DCG-IV	drug	may treat	atherosclerosis	disease
+DCPG	drug	may treat	atherosclerosis	disease
+eglumetad	drug	may treat	atherosclerosis	disease
+L-AP4	drug	may treat	atherosclerosis	disease
+DCG-IV	drug	may treat	human immunodeficiency virus infectious disease	disease
+DCPG	drug	may treat	human immunodeficiency virus infectious disease	disease
+eglumetad	drug	may treat	human immunodeficiency virus infectious disease	disease
+L-AP4	drug	may treat	human immunodeficiency virus infectious disease	disease
+tretinoin	drug	may treat	morbid obesity	disease
+adapalene	drug	may treat	morbid obesity	disease
+alitretinoin	drug	may treat	morbid obesity	disease
+tazarotene	drug	may treat	morbid obesity	disease
+tamibarotene	drug	may treat	morbid obesity	disease
+cabozantinib	drug	may treat	multiple sclerosis	disease
+crizotinib	drug	may treat	multiple sclerosis	disease
+tivantinib	drug	may treat	multiple sclerosis	disease
+cabozantinib	drug	may treat	autosomal recessive nonsyndromic deafness 97	disease
+crizotinib	drug	may treat	autosomal recessive nonsyndromic deafness 97	disease
+tivantinib	drug	may treat	autosomal recessive nonsyndromic deafness 97	disease
+cabozantinib	drug	may treat	osteofibrous dysplasia	disease
+crizotinib	drug	may treat	osteofibrous dysplasia	disease
+tivantinib	drug	may treat	osteofibrous dysplasia	disease
+chrysin	drug	may treat	anterior segment dysgenesis 6	disease
+chrysin	drug	may treat	primary congenital glaucoma 3A	disease
+pethidine	drug	may treat	coronary artery disease	disease
+morphine	drug	may treat	coronary artery disease	disease
+codeine	drug	may treat	coronary artery disease	disease
+(RS)-methadone	drug	may treat	coronary artery disease	disease
+nalbuphine	drug	may treat	coronary artery disease	disease
+hydromorphone	drug	may treat	coronary artery disease	disease
+fentanyl	drug	may treat	coronary artery disease	disease
+buprenorphine	drug	may treat	coronary artery disease	disease
+sunitinib	drug	may treat	acute myeloid leukemia	disease
+sorafenib	drug	may treat	acute myeloid leukemia	disease
+pacritinib	drug	may treat	acute myeloid leukemia	disease
+cediranib	drug	may treat	acute myeloid leukemia	disease
+crenolanib	drug	may treat	acute myeloid leukemia	disease
+lestaurtinib	drug	may treat	acute myeloid leukemia	disease
+linifanib	drug	may treat	acute myeloid leukemia	disease
+midostaurin	drug	may treat	acute myeloid leukemia	disease
+ceritinib	drug	may treat	acute myeloid leukemia	disease
+phenelzine	drug	may treat	smallpox	disease
+phenelzine	drug	may treat	osteonecrosis	disease
+PF-4800567	drug	may treat	advanced sleep phase syndrome 2	disease
+topiramate	drug	may treat	retinitis pigmentosa 17	disease
+acetazolamide	drug	may treat	retinitis pigmentosa 17	disease
+chlorthalidone	drug	may treat	retinitis pigmentosa 17	disease
+methazolamide	drug	may treat	retinitis pigmentosa 17	disease
+dichlorphenamide	drug	may treat	retinitis pigmentosa 17	disease
+Inclusion membrane protein E CT_116	drug	may treat	obesity	disease
+Inclusion membrane protein E CTL0371	drug	may treat	obesity	disease
+CGS8216	drug	may treat	early infantile epileptic encephalopathy 19	disease
+SB-203580	drug	may treat	Parkinson's disease	disease
+linaclotide	drug	may treat	congenital diarrhea 6	disease
+nifedipine	drug	may treat	schizophrenia	disease
+verapamil	drug	may treat	schizophrenia	disease
+diltiazem	drug	may treat	schizophrenia	disease
+nisoldipine	drug	may treat	schizophrenia	disease
+mibefradil	drug	may treat	schizophrenia	disease
+nifedipine	drug	may treat	major depressive disorders	disease
+verapamil	drug	may treat	major depressive disorders	disease
+diltiazem	drug	may treat	major depressive disorders	disease
+nisoldipine	drug	may treat	major depressive disorders	disease
+mibefradil	drug	may treat	major depressive disorders	disease
+nifedipine	drug	may treat	bipolar disorder	disease
+verapamil	drug	may treat	bipolar disorder	disease
+diltiazem	drug	may treat	bipolar disorder	disease
+nisoldipine	drug	may treat	bipolar disorder	disease
+mibefradil	drug	may treat	bipolar disorder	disease
+nifedipine	drug	may treat	Timothy syndrome	disease
+verapamil	drug	may treat	Timothy syndrome	disease
+diltiazem	drug	may treat	Timothy syndrome	disease
+nisoldipine	drug	may treat	Timothy syndrome	disease
+mibefradil	drug	may treat	Timothy syndrome	disease
+nifedipine	drug	may treat	Brugada syndrome 3	disease
+verapamil	drug	may treat	Brugada syndrome 3	disease
+diltiazem	drug	may treat	Brugada syndrome 3	disease
+nisoldipine	drug	may treat	Brugada syndrome 3	disease
+mibefradil	drug	may treat	Brugada syndrome 3	disease
+nifedipine	drug	may treat	unipolar depression	disease
+verapamil	drug	may treat	unipolar depression	disease
+diltiazem	drug	may treat	unipolar depression	disease
+nisoldipine	drug	may treat	unipolar depression	disease
+mibefradil	drug	may treat	unipolar depression	disease
+anisindione	drug	may treat	combined vitamin K-dependent clotting factors deficiency	disease
+Hypothetical protein CT_556	drug	may treat	combined vitamin K-dependent clotting factors deficiency	disease
+Hypothetical protein CTL0819	drug	may treat	combined vitamin K-dependent clotting factors deficiency	disease
+membrane protein [SARS-CoV-2]	drug	may treat	combined vitamin K-dependent clotting factors deficiency	disease
+Ziconotide	drug	may treat	dystonia 23	disease
+aniracetam	drug	may treat	syndromic X-linked intellectual disability 94	disease
+(S)-AMPA	drug	may treat	syndromic X-linked intellectual disability 94	disease
+NBQX	drug	may treat	syndromic X-linked intellectual disability 94	disease
+CX546	drug	may treat	syndromic X-linked intellectual disability 94	disease
+cx516	drug	may treat	syndromic X-linked intellectual disability 94	disease
+cyclothiazide	drug	may treat	syndromic X-linked intellectual disability 94	disease
+GYKI-2466	drug	may treat	syndromic X-linked intellectual disability 94	disease
+S-18986	drug	may treat	syndromic X-linked intellectual disability 94	disease
+IDRA-21	drug	may treat	syndromic X-linked intellectual disability 94	disease
+tezampanel	drug	may treat	syndromic X-linked intellectual disability 94	disease
+LY-300168	drug	may treat	syndromic X-linked intellectual disability 94	disease
+Joro toxin	drug	may treat	syndromic X-linked intellectual disability 94	disease
+argiotoxin	drug	may treat	syndromic X-linked intellectual disability 94	disease
+fenclonine	drug	may treat	phenylketonuria	disease
+Brigatinib	drug	may treat	polycystic ovary syndrome	disease
+ceritinib	drug	may treat	polycystic ovary syndrome	disease
+genistein	drug	may treat	cystic fibrosis	disease
+glyburide	drug	may treat	cystic fibrosis	disease
+felodipine	drug	may treat	cystic fibrosis	disease
+nimodipine	drug	may treat	cystic fibrosis	disease
+apigenin	drug	may treat	cystic fibrosis	disease
+ivacaftor	drug	may treat	cystic fibrosis	disease
+genistein	drug	may treat	congenital bilateral aplasia of the vas deferens	disease
+glyburide	drug	may treat	congenital bilateral aplasia of the vas deferens	disease
+felodipine	drug	may treat	congenital bilateral aplasia of the vas deferens	disease
+nimodipine	drug	may treat	congenital bilateral aplasia of the vas deferens	disease
+apigenin	drug	may treat	congenital bilateral aplasia of the vas deferens	disease
+ivacaftor	drug	may treat	congenital bilateral aplasia of the vas deferens	disease
+ibrutinib	drug	may treat	Bruton-type agammaglobulinemia	disease
+telaprevir	drug	may treat	galactosialidosis	disease
+boceprevir	drug	may treat	galactosialidosis	disease
+clomipramine	drug	may treat	infantile parkinsonism-dystonia	disease
+mazindol	drug	may treat	infantile parkinsonism-dystonia	disease
+nomifensine	drug	may treat	infantile parkinsonism-dystonia	disease
+atomoxetine	drug	may treat	infantile parkinsonism-dystonia	disease
+methylphenidate	drug	may treat	infantile parkinsonism-dystonia	disease
+trimipramine	drug	may treat	infantile parkinsonism-dystonia	disease
+sibutramine	drug	may treat	infantile parkinsonism-dystonia	disease
+bupropion	drug	may treat	infantile parkinsonism-dystonia	disease
+dexmethylphenidate	drug	may treat	infantile parkinsonism-dystonia	disease
+dextroamphetamine	drug	may treat	infantile parkinsonism-dystonia	disease
+phenelzine	drug	may treat	infantile parkinsonism-dystonia	disease
+Desvenlafaxine	drug	may treat	infantile parkinsonism-dystonia	disease
+gbr-12935	drug	may treat	infantile parkinsonism-dystonia	disease
+levomilnacipran	drug	may treat	infantile parkinsonism-dystonia	disease
+WIN35428	drug	may treat	infantile parkinsonism-dystonia	disease
+Brigatinib	drug	may treat	growth delay due to insulin-like growth factor I resistance	disease
+ceritinib	drug	may treat	growth delay due to insulin-like growth factor I resistance	disease
+Inclusion membrane protein E CT_116	drug	may treat	periodontitis	disease
+Inclusion membrane protein E CTL0371	drug	may treat	periodontitis	disease
+adenosine diphosphate	drug	may treat	platelet-type bleeding disorder 8	disease
+1-octanol	drug	may treat	Hallermann-Streiff syndrome	disease
+flufenamic acid	drug	may treat	Hallermann-Streiff syndrome	disease
+carbenoxolone	drug	may treat	Hallermann-Streiff syndrome	disease
+1-octanol	drug	may treat	odontoonychodermal syndrome	disease
+flufenamic acid	drug	may treat	odontoonychodermal syndrome	disease
+carbenoxolone	drug	may treat	odontoonychodermal syndrome	disease
+1-octanol	drug	may treat	erythrokeratodermia variabilis et progressiva 3	disease
+flufenamic acid	drug	may treat	erythrokeratodermia variabilis et progressiva 3	disease
+carbenoxolone	drug	may treat	erythrokeratodermia variabilis et progressiva 3	disease
+1-octanol	drug	may treat	autosomal dominant palmoplantar keratoderma and congenital alopecia	disease
+flufenamic acid	drug	may treat	autosomal dominant palmoplantar keratoderma and congenital alopecia	disease
+carbenoxolone	drug	may treat	autosomal dominant palmoplantar keratoderma and congenital alopecia	disease
+ruxolitinib	drug	may treat	type-1 diabetes	disease
+ruxolitinib	drug	may treat	psoriasis	disease
+ruxolitinib	drug	may treat	rheumatoid arthritis	disease
+Vesamicol	drug	may treat	congenital myasthenic syndrome 21	disease
+cortisol	drug	may treat	glucocorticoid resistance	disease
+desoximetasone	drug	may treat	glucocorticoid resistance	disease
+mifepristone	drug	may treat	glucocorticoid resistance	disease
+betamethasone	drug	may treat	glucocorticoid resistance	disease
+methylprednisolone	drug	may treat	glucocorticoid resistance	disease
+Clobetasol propionate	drug	may treat	glucocorticoid resistance	disease
+budesonide	drug	may treat	glucocorticoid resistance	disease
+dexamethasone	drug	may treat	glucocorticoid resistance	disease
+prednisone	drug	may treat	glucocorticoid resistance	disease
+fluorometholone	drug	may treat	glucocorticoid resistance	disease
+difluprednate	drug	may treat	glucocorticoid resistance	disease
+fluocinolone acetonide	drug	may treat	glucocorticoid resistance	disease
+desoxycortone	drug	may treat	glucocorticoid resistance	disease
+fluticasone	drug	may treat	glucocorticoid resistance	disease
+triamcinolone	drug	may treat	glucocorticoid resistance	disease
+triamcinolone acetonide	drug	may treat	glucocorticoid resistance	disease
+Ciclesonide	drug	may treat	glucocorticoid resistance	disease
+fluocinonide	drug	may treat	glucocorticoid resistance	disease
+RU28362	drug	may treat	glucocorticoid resistance	disease
+fluticasone propionate	drug	may treat	glucocorticoid resistance	disease
+prednisolone	drug	may treat	glucocorticoid resistance	disease
+prunetin	drug	may treat	stroke	disease
+Alda-1	drug	may treat	stroke	disease
+prunetin	drug	may treat	coronary artery disease	disease
+Alda-1	drug	may treat	coronary artery disease	disease
+prunetin	drug	may treat	intracranial aneurysm	disease
+Alda-1	drug	may treat	intracranial aneurysm	disease
+prunetin	drug	may treat	cerebrovascular disease	disease
+Alda-1	drug	may treat	cerebrovascular disease	disease
+prunetin	drug	may treat	alcohol dependence	disease
+Alda-1	drug	may treat	alcohol dependence	disease
+Hypothetical protein CT_728	drug	may treat	thiamine-responsive megaloblastic anemia syndrome	disease
+Hypothetical protein CTL0097	drug	may treat	thiamine-responsive megaloblastic anemia syndrome	disease
+momelotinib	drug	may treat	Crohn's disease	disease
+pacritinib	drug	may treat	Crohn's disease	disease
+baricitinib	drug	may treat	Crohn's disease	disease
+ruxolitinib	drug	may treat	Crohn's disease	disease
+momelotinib	drug	may treat	acute myeloid leukemia	disease
+pacritinib	drug	may treat	acute myeloid leukemia	disease
+baricitinib	drug	may treat	acute myeloid leukemia	disease
+ruxolitinib	drug	may treat	acute myeloid leukemia	disease
+momelotinib	drug	may treat	polycythemia vera	disease
+pacritinib	drug	may treat	polycythemia vera	disease
+baricitinib	drug	may treat	polycythemia vera	disease
+ruxolitinib	drug	may treat	polycythemia vera	disease
+momelotinib	drug	may treat	myelofibrosis	disease
+pacritinib	drug	may treat	myelofibrosis	disease
+baricitinib	drug	may treat	myelofibrosis	disease
+ruxolitinib	drug	may treat	myelofibrosis	disease
+momelotinib	drug	may treat	myelodysplastic/myeloproliferative neoplasm	disease
+pacritinib	drug	may treat	myelodysplastic/myeloproliferative neoplasm	disease
+baricitinib	drug	may treat	myelodysplastic/myeloproliferative neoplasm	disease
+ruxolitinib	drug	may treat	myelodysplastic/myeloproliferative neoplasm	disease
+ticagrelor	drug	may treat	platelet-type bleeding disorder 8	disease
+cangrelor	drug	may treat	platelet-type bleeding disorder 8	disease
+tropicamide	drug	may treat	epilepsy	disease
+amitriptyline	drug	may treat	epilepsy	disease
+darifenacin	drug	may treat	epilepsy	disease
+acetylcholine	drug	may treat	epilepsy	disease
+3-quinuclidinyl-benzilate	drug	may treat	epilepsy	disease
+brucine	drug	may treat	epilepsy	disease
+pilocarpine	drug	may treat	epilepsy	disease
+glycopyrrolate	drug	may treat	epilepsy	disease
+biperiden	drug	may treat	epilepsy	disease
+vincamine	drug	may treat	epilepsy	disease
+bethanechol	drug	may treat	epilepsy	disease
+pirenzepine	drug	may treat	epilepsy	disease
+arecoline	drug	may treat	epilepsy	disease
+tolterodine	drug	may treat	epilepsy	disease
+aclidinium	drug	may treat	epilepsy	disease
+oxotremorine	drug	may treat	epilepsy	disease
+(RS)-oxybutynin	drug	may treat	epilepsy	disease
+vinburnine	drug	may treat	epilepsy	disease
+dicyclomine	drug	may treat	epilepsy	disease
+propantheline	drug	may treat	epilepsy	disease
+clidinium	drug	may treat	epilepsy	disease
+hexocyclium	drug	may treat	epilepsy	disease
+himbacine	drug	may treat	epilepsy	disease
+milameline	drug	may treat	epilepsy	disease
+sabcomeline	drug	may treat	epilepsy	disease
+xanomeline	drug	may treat	epilepsy	disease
+methoctramine free base	drug	may treat	epilepsy	disease
+umeclidinium	drug	may treat	epilepsy	disease
+tropicamide	drug	may treat	prune belly syndrome	disease
+amitriptyline	drug	may treat	prune belly syndrome	disease
+darifenacin	drug	may treat	prune belly syndrome	disease
+acetylcholine	drug	may treat	prune belly syndrome	disease
+3-quinuclidinyl-benzilate	drug	may treat	prune belly syndrome	disease
+brucine	drug	may treat	prune belly syndrome	disease
+pilocarpine	drug	may treat	prune belly syndrome	disease
+glycopyrrolate	drug	may treat	prune belly syndrome	disease
+biperiden	drug	may treat	prune belly syndrome	disease
+vincamine	drug	may treat	prune belly syndrome	disease
+bethanechol	drug	may treat	prune belly syndrome	disease
+pirenzepine	drug	may treat	prune belly syndrome	disease
+arecoline	drug	may treat	prune belly syndrome	disease
+tolterodine	drug	may treat	prune belly syndrome	disease
+aclidinium	drug	may treat	prune belly syndrome	disease
+oxotremorine	drug	may treat	prune belly syndrome	disease
+(RS)-oxybutynin	drug	may treat	prune belly syndrome	disease
+vinburnine	drug	may treat	prune belly syndrome	disease
+dicyclomine	drug	may treat	prune belly syndrome	disease
+propantheline	drug	may treat	prune belly syndrome	disease
+clidinium	drug	may treat	prune belly syndrome	disease
+hexocyclium	drug	may treat	prune belly syndrome	disease
+himbacine	drug	may treat	prune belly syndrome	disease
+milameline	drug	may treat	prune belly syndrome	disease
+sabcomeline	drug	may treat	prune belly syndrome	disease
+xanomeline	drug	may treat	prune belly syndrome	disease
+methoctramine free base	drug	may treat	prune belly syndrome	disease
+umeclidinium	drug	may treat	prune belly syndrome	disease
+Non-structural protein 9 [SARS-CoV-2]	drug	may treat	morbid obesity	disease
+picrotoxin	drug	may treat	epilepsy	disease
+1-octanol	drug	may treat	cataract 1 multiple types	disease
+flufenamic acid	drug	may treat	cataract 1 multiple types	disease
+carbenoxolone	drug	may treat	cataract 1 multiple types	disease
+1-octanol	drug	may treat	Charcot–Marie–Tooth disease	disease
+flufenamic acid	drug	may treat	Charcot–Marie–Tooth disease	disease
+carbenoxolone	drug	may treat	Charcot–Marie–Tooth disease	disease
+1-octanol	drug	may treat	Bart-Pumphrey syndrome	disease
+flufenamic acid	drug	may treat	Bart-Pumphrey syndrome	disease
+carbenoxolone	drug	may treat	Bart-Pumphrey syndrome	disease
+1-octanol	drug	may treat	Vohwinkel syndrome	disease
+flufenamic acid	drug	may treat	Vohwinkel syndrome	disease
+carbenoxolone	drug	may treat	Vohwinkel syndrome	disease
+1-octanol	drug	may treat	autosomal dominant nonsyndromic deafness 3A	disease
+flufenamic acid	drug	may treat	autosomal dominant nonsyndromic deafness 3A	disease
+carbenoxolone	drug	may treat	autosomal dominant nonsyndromic deafness 3A	disease
+1-octanol	drug	may treat	palmoplantar keratoderma-deafness syndrome	disease
+flufenamic acid	drug	may treat	palmoplantar keratoderma-deafness syndrome	disease
+carbenoxolone	drug	may treat	palmoplantar keratoderma-deafness syndrome	disease
+1-octanol	drug	may treat	syndromic genetic deafness	disease
+flufenamic acid	drug	may treat	syndromic genetic deafness	disease
+carbenoxolone	drug	may treat	syndromic genetic deafness	disease
+1-octanol	drug	may treat	autosomal dominant nonsyndromic deafness 2B	disease
+flufenamic acid	drug	may treat	autosomal dominant nonsyndromic deafness 2B	disease
+carbenoxolone	drug	may treat	autosomal dominant nonsyndromic deafness 2B	disease
+1-octanol	drug	may treat	Clouston syndrome	disease
+flufenamic acid	drug	may treat	Clouston syndrome	disease
+carbenoxolone	drug	may treat	Clouston syndrome	disease
+1-octanol	drug	may treat	autosomal recessive nonsyndromic deafness 1B	disease
+flufenamic acid	drug	may treat	autosomal recessive nonsyndromic deafness 1B	disease
+carbenoxolone	drug	may treat	autosomal recessive nonsyndromic deafness 1B	disease
+1-octanol	drug	may treat	autosomal dominant nonsyndromic deafness 3B	disease
+flufenamic acid	drug	may treat	autosomal dominant nonsyndromic deafness 3B	disease
+carbenoxolone	drug	may treat	autosomal dominant nonsyndromic deafness 3B	disease
+1-octanol	drug	may treat	hereditary spastic paraplegia 44	disease
+flufenamic acid	drug	may treat	hereditary spastic paraplegia 44	disease
+carbenoxolone	drug	may treat	hereditary spastic paraplegia 44	disease
+Inclusion membrane protein E CT_116	drug	may treat	interstitial lung disease	disease
+Inclusion membrane protein E CTL0371	drug	may treat	interstitial lung disease	disease
+1-octanol	drug	may treat	erythrokeratodermia variabilis et progressiva 2	disease
+flufenamic acid	drug	may treat	erythrokeratodermia variabilis et progressiva 2	disease
+carbenoxolone	drug	may treat	erythrokeratodermia variabilis et progressiva 2	disease
+nafamostat	drug	may treat	Ehlers-Danlos syndrome, periodontitis type	disease
+olaparib	drug	may treat	melanoma	disease
+rucaparib	drug	may treat	melanoma	disease
+Brigatinib	drug	may treat	neuroblastoma, susceptibility to, 3	disease
+crizotinib	drug	may treat	neuroblastoma, susceptibility to, 3	disease
+ceritinib	drug	may treat	neuroblastoma, susceptibility to, 3	disease
+Hypothetical protein CT_005	drug	may treat	facial dysmorphism-lens dislocation-anterior segment abnormalities-spontaneous filtering blebs syndrome	disease
+Hypothetical protein CTL0260	drug	may treat	facial dysmorphism-lens dislocation-anterior segment abnormalities-spontaneous filtering blebs syndrome	disease
+nifedipine	drug	may treat	hypokalemic periodic paralysis	disease
+verapamil	drug	may treat	hypokalemic periodic paralysis	disease
+diltiazem	drug	may treat	hypokalemic periodic paralysis	disease
+staurosporine	drug	may treat	osteoarthritis	disease
+staurosporine	drug	may treat	metabolic disease	disease
+staurosporine	drug	may treat	autosomal dominant mental retardation 54	disease
+pancuronium (cation)	drug	may treat	congenital myasthenic syndrome 1B	disease
+succinylcholine	drug	may treat	congenital myasthenic syndrome 1B	disease
+mecamylamine	drug	may treat	congenital myasthenic syndrome 1B	disease
+hexamethonium	drug	may treat	autosomal dominant nocturnal frontal lobe epilepsy 4	disease
+mecamylamine	drug	may treat	autosomal dominant nocturnal frontal lobe epilepsy 4	disease
+hexamethonium	drug	may treat	obesity	disease
+mecamylamine	drug	may treat	obesity	disease
+hexamethonium	drug	may treat	chronic obstructive pulmonary disease	disease
+mecamylamine	drug	may treat	chronic obstructive pulmonary disease	disease
+furosemide	drug	may treat	ulcerative colitis	disease
+pamoic acid	drug	may treat	ulcerative colitis	disease
+kynurenic acid	drug	may treat	ulcerative colitis	disease
+zaprinast	drug	may treat	ulcerative colitis	disease
+furosemide	drug	may treat	inflammatory bowel diseases	disease
+pamoic acid	drug	may treat	inflammatory bowel diseases	disease
+kynurenic acid	drug	may treat	inflammatory bowel diseases	disease
+zaprinast	drug	may treat	inflammatory bowel diseases	disease
+furosemide	drug	may treat	sclerosing cholangitis	disease
+pamoic acid	drug	may treat	sclerosing cholangitis	disease
+kynurenic acid	drug	may treat	sclerosing cholangitis	disease
+zaprinast	drug	may treat	sclerosing cholangitis	disease
+anandamide	drug	may treat	epileptic encephalopathy, early infantile, 32	disease
+Hypothetical protein CT_164	drug	may treat	coronary artery disease	disease
+desmosterol	drug	may treat	metabolic disease	disease
+(25R)-cholest-5-ene-3β,26-diol	drug	may treat	metabolic disease	disease
+Hypothetical protein CT_449	drug	may treat	hereditary spastic paraplegia 54	disease
+Hypothetical protein CTL0709	drug	may treat	hereditary spastic paraplegia 54	disease
+Helicase [SARS-CoV-2]	drug	may treat	cataract 18	disease
+progesterone	drug	may treat	deafness-infertility syndrome	disease
+alprostadil	drug	may treat	deafness-infertility syndrome	disease
+mibefradil	drug	may treat	deafness-infertility syndrome	disease
+Helicase [SARS-CoV-2]	drug	may treat	FTDALS4	disease
+ingenol mebutate	drug	may treat	inflammatory bowel diseases	disease
+balanol	drug	may treat	inflammatory bowel diseases	disease
+enzastaurin	drug	may treat	inflammatory bowel diseases	disease
+ruboxistaurin	drug	may treat	inflammatory bowel diseases	disease
+ingenol mebutate	drug	may treat	spinocerebellar ataxia type 14	disease
+balanol	drug	may treat	spinocerebellar ataxia type 14	disease
+enzastaurin	drug	may treat	spinocerebellar ataxia type 14	disease
+ruboxistaurin	drug	may treat	spinocerebellar ataxia type 14	disease
+balanol	drug	may treat	rheumatoid arthritis	disease
+balanol	drug	may treat	morbid obesity	disease
+Hypothetical protein CTL0156	drug	may treat	Charcot-Marie-Tooth disease dominant intermediate E	disease
+Hypothetical protein CT_788	drug	may treat	Charcot-Marie-Tooth disease dominant intermediate E	disease
+Hypothetical protein CTL0156	drug	may treat	focal segmental glomerulosclerosis 5	disease
+Hypothetical protein CT_788	drug	may treat	focal segmental glomerulosclerosis 5	disease
+fadrozole	drug	may treat	glucocorticoid-remediable aldosteronism	disease
+sivelestat	drug	may treat	neutropenia	disease
+sivelestat	drug	may treat	cyclic hematopoiesis	disease
+lidocaine	drug	may treat	sudden infant death syndrome	disease
+lidocaine	drug	may treat	Brugada syndrome 1	disease
+lidocaine	drug	may treat	dilated cardiomyopathy 1E	disease
+lidocaine	drug	may treat	long QT syndrome 3	disease
+caffeine	drug	may treat	obesity	disease
+adenosine triphosphate	drug	may treat	obesity	disease
+procaine	drug	may treat	obesity	disease
+suramin	drug	may treat	obesity	disease
+caffeine	drug	may treat	lymphoblastic leukemia	disease
+adenosine triphosphate	drug	may treat	lymphoblastic leukemia	disease
+procaine	drug	may treat	lymphoblastic leukemia	disease
+suramin	drug	may treat	lymphoblastic leukemia	disease
+caffeine	drug	may treat	arrhythmogenic right ventricular dysplasia 2	disease
+adenosine triphosphate	drug	may treat	arrhythmogenic right ventricular dysplasia 2	disease
+procaine	drug	may treat	arrhythmogenic right ventricular dysplasia 2	disease
+suramin	drug	may treat	arrhythmogenic right ventricular dysplasia 2	disease
+vismodegib	drug	may treat	Curry-Jones syndrome	disease
+saridegib	drug	may treat	Curry-Jones syndrome	disease
+sonidegib	drug	may treat	Curry-Jones syndrome	disease
+LY-294002	drug	may treat	colorectal cancer	disease
+dactolisib	drug	may treat	colorectal cancer	disease
+idelalisib	drug	may treat	colorectal cancer	disease
+LY-294002	drug	may treat	seborrheic keratosis	disease
+dactolisib	drug	may treat	seborrheic keratosis	disease
+idelalisib	drug	may treat	seborrheic keratosis	disease
+LY-294002	drug	may treat	Macrocephaly-capillary malformation	disease
+dactolisib	drug	may treat	Macrocephaly-capillary malformation	disease
+idelalisib	drug	may treat	Macrocephaly-capillary malformation	disease
+LY-294002	drug	may treat	CLOVES syndrome	disease
+dactolisib	drug	may treat	CLOVES syndrome	disease
+idelalisib	drug	may treat	CLOVES syndrome	disease
+LY-294002	drug	may treat	CLAPO syndrome	disease
+dactolisib	drug	may treat	CLAPO syndrome	disease
+idelalisib	drug	may treat	CLAPO syndrome	disease
+tranylcypromine	drug	may treat	Brunner Syndrome	disease
+moclobemide	drug	may treat	Brunner Syndrome	disease
+phenelzine	drug	may treat	Brunner Syndrome	disease
+clorgiline	drug	may treat	Brunner Syndrome	disease
+pirlindole	drug	may treat	Brunner Syndrome	disease
+befloxatone	drug	may treat	Brunner Syndrome	disease
+(RS)-mexiletine	drug	may treat	paramyotonia congenita	disease
+(RS)-mexiletine	drug	may treat	hypokalemic periodic paralysis	disease
+(RS)-mexiletine	drug	may treat	hyperkalemic periodic paralysis	disease
+(RS)-mexiletine	drug	may treat	congenital myasthenic syndrome 16	disease
+saxitoxin	drug	may treat	dental caries	disease
+lacosamide	drug	may treat	dental caries	disease
+saxitoxin	drug	may treat	Dravet syndrome	disease
+lacosamide	drug	may treat	Dravet syndrome	disease
+saxitoxin	drug	may treat	generalized epilepsy	disease
+lacosamide	drug	may treat	generalized epilepsy	disease
+saxitoxin	drug	may treat	Paroxysmal extreme pain disorder	disease
+lacosamide	drug	may treat	Paroxysmal extreme pain disorder	disease
+epigallocatechin gallate	drug	may treat	post-traumatic stress disorder	disease
+plumbagin	drug	may treat	post-traumatic stress disorder	disease
+Inclusion membrane protein CT_813	drug	may treat	colorectal cancer	disease
+Inclusion membrane protein CTL0184	drug	may treat	colorectal cancer	disease
+Inclusion membrane protein CT_813	drug	may treat	Mismatch repair cancer syndrome	disease
+Inclusion membrane protein CTL0184	drug	may treat	Mismatch repair cancer syndrome	disease
+Inclusion membrane protein CT_813	drug	may treat	Lynch syndrome	disease
+Inclusion membrane protein CTL0184	drug	may treat	Lynch syndrome	disease
+Inclusion membrane protein CT_813	drug	may treat	Muir-Torre syndrome	disease
+Inclusion membrane protein CTL0184	drug	may treat	Muir-Torre syndrome	disease
+Inclusion membrane protein CT_813	drug	may treat	colorectal cancer	disease
+Inclusion membrane protein CTL0184	drug	may treat	colorectal cancer	disease
+Inclusion membrane protein CT_813	drug	may treat	Mismatch repair cancer syndrome	disease
+Inclusion membrane protein CTL0184	drug	may treat	Mismatch repair cancer syndrome	disease

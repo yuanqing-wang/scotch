@@ -1,0 +1,275 @@
+{
+    "name": "major",
+    "children": [
+        {
+            "name": "data scientist",
+            "children": [
+                {
+                    "name": "computer science",
+                    "value": 17769
+                },
+                {
+                    "name": "mathematics",
+                    "value": 6842
+                },
+                {
+                    "name": "data science",
+                    "value": 6666
+                },
+                {
+                    "name": "business administration",
+                    "value": 6537
+                },
+                {
+                    "name": "statistics",
+                    "value": 6141
+                },
+                {
+                    "name": "physics",
+                    "value": 5563
+                },
+                {
+                    "name": "economics",
+                    "value": 4483
+                },
+                {
+                    "name": "mechanical engineering",
+                    "value": 3009
+                },
+                {
+                    "name": "computer engineering",
+                    "value": 2780
+                },
+                {
+                    "name": "information technology",
+                    "value": 2717
+                }
+            ]
+        },
+        {
+            "name": "data engineer",
+            "children": [
+                {
+                    "name": "computer science",
+                    "value": 14130
+                },
+                {
+                    "name": "information technology",
+                    "value": 3713
+                },
+                {
+                    "name": "business administration",
+                    "value": 3416
+                },
+                {
+                    "name": "computer engineering",
+                    "value": 2580
+                },
+                {
+                    "name": "mechanical engineering",
+                    "value": 1420
+                },
+                {
+                    "name": "electrical and electronics engineering",
+                    "value": 1364
+                },
+                {
+                    "name": "data science",
+                    "value": 1358
+                },
+                {
+                    "name": "mathematics",
+                    "value": 1356
+                },
+                {
+                    "name": "computer software engineering",
+                    "value": 1316
+                },
+                {
+                    "name": "electrical, electronics and communications engineering",
+                    "value": 1040
+                }
+            ]
+        },
+        {
+            "name": "data analyst",
+            "children": [
+                {
+                    "name": "business administration",
+                    "value": 36243
+                },
+                {
+                    "name": "computer science",
+                    "value": 24392
+                },
+                {
+                    "name": "economics",
+                    "value": 12904
+                },
+                {
+                    "name": "information technology",
+                    "value": 11307
+                },
+                {
+                    "name": "statistics",
+                    "value": 8111
+                },
+                {
+                    "name": "mathematics",
+                    "value": 8060
+                },
+                {
+                    "name": "business administration and management, general",
+                    "value": 6354
+                },
+                {
+                    "name": "mechanical engineering",
+                    "value": 4891
+                },
+                {
+                    "name": "data science",
+                    "value": 4646
+                },
+                {
+                    "name": "accounting",
+                    "value": 4381
+                }
+            ]
+        },
+        {
+            "name": "machine learning engineer",
+            "children": [
+                {
+                    "name": "computer science",
+                    "value": 5313
+                },
+                {
+                    "name": "computer engineering",
+                    "value": 936
+                },
+                {
+                    "name": "data science",
+                    "value": 623
+                },
+                {
+                    "name": "electrical and electronics engineering",
+                    "value": 580
+                },
+                {
+                    "name": "mathematics",
+                    "value": 579
+                },
+                {
+                    "name": "artificial intelligence",
+                    "value": 527
+                },
+                {
+                    "name": "electrical engineering",
+                    "value": 525
+                },
+                {
+                    "name": "information technology",
+                    "value": 524
+                },
+                {
+                    "name": "physics",
+                    "value": 408
+                },
+                {
+                    "name": "mechanical engineering",
+                    "value": 395
+                }
+            ]
+        },
+        {
+            "name": "statistician",
+            "children": [
+                {
+                    "name": "statistics",
+                    "value": 5744
+                },
+                {
+                    "name": "business administration",
+                    "value": 2280
+                },
+                {
+                    "name": "mathematics",
+                    "value": 1945
+                },
+                {
+                    "name": "economics",
+                    "value": 1534
+                },
+                {
+                    "name": "biostatistics",
+                    "value": 1161
+                },
+                {
+                    "name": "mathematics and statistics",
+                    "value": 669
+                },
+                {
+                    "name": "applied statistics",
+                    "value": 661
+                },
+                {
+                    "name": "applied mathematics",
+                    "value": 444
+                },
+                {
+                    "name": "psychology",
+                    "value": 374
+                },
+                {
+                    "name": "computer science",
+                    "value": 325
+                }
+            ]
+        },
+        {
+            "name": "data entry",
+            "children": [
+                {
+                    "name": "high school diploma",
+                    "value": 11341
+                },
+                {
+                    "name": "diploma",
+                    "value": 10596
+                },
+                {
+                    "name": "business administration",
+                    "value": 9796
+                },
+                {
+                    "name": "accounting",
+                    "value": 5762
+                },
+                {
+                    "name": "computer science",
+                    "value": 4861
+                },
+                {
+                    "name": "business administration and management, general",
+                    "value": 4809
+                },
+                {
+                    "name": "general studies",
+                    "value": 4439
+                },
+                {
+                    "name": "psychology",
+                    "value": 3240
+                },
+                {
+                    "name": "information technology",
+                    "value": 3118
+                },
+                {
+                    "name": "business",
+                    "value": 2381
+                }
+            ]
+        }
+    ]
+}

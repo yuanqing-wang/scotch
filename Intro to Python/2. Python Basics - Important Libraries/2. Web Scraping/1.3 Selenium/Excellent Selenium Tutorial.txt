@@ -1,0 +1,2 @@
+1. https://www.scrapingbee.com/blog/selenium-python/
+2. (optional) https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping/
