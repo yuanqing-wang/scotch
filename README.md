@@ -13,8 +13,6 @@ Module | Notes
 ## Useful resources
 
 ### Mathematical Foundations
-
-Math helper videos:
 - [Fun with functions playlist 🍿](https://www.youtube.com/playlist?list=PLieme_dDfavgNH_eoC5hWX-75fwst0abG)(4 modules of average 15 min duration)
 - [Single variable calculus playlist 🍿](https://www.youtube.com/playlist?list=PLieme_dDfaviKfYPpqE6iO5ByxHb9nFmO) (8 modules of average 15 min duration)
 - [Multi variable calculus playlist 🍿](https://www.youtube.com/playlist?list=PLieme_dDfavg9CSUr1i_ai3XQnaVbxx1D) (5 modules of average 16 min duration)
