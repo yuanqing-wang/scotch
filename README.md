@@ -4,9 +4,9 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 
 ## Syllabus
 
-Module | Notes
---------------------- | ---------------------
-[OOMPH (Object-Oriented Mathematical Programming Hackathon)](pages/oomph) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VYVsk98aWBI0wg6jx8lZZGK3aZqpw46o#scrollTo=dSNAs33hiI7Y)
+Module | Notes | Video 
+--------------------- | --------------------- | -------
+[OOMPH (Object-Oriented Mathematical Programming Hackathon)](pages/oomph) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VYVsk98aWBI0wg6jx8lZZGK3aZqpw46o#scrollTo=dSNAs33hiI7Y) |
 
 ## Course Description
 
