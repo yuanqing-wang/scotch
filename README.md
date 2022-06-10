@@ -2,7 +2,7 @@ Scientific Computing From Scratch
 ---------------------------------
 A summer bootcamp on scientific computing for beginners with [Python](https://www.python.org) and [Pytorch](https://pytorch.org) organized by [Pratyush Tiwary, University of Maryland](http://go.umd.edu/tiwarylab).
 
-Instructors:<br>
+**Instructors**:<br>
 Yuanqing Wang (wangyq@wangyq.net), Memorial Sloan Kettering Cancer Center<br>
 Anil Colpan Zenginoglu (anil@umd.edu), University of Maryland<br>
 Onur Kara (okara83@gmail.com)
