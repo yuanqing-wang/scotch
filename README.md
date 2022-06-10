@@ -5,7 +5,9 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 Instructors:
 
 Yuanqing Wang (wangyq@wangyq.net), Memorial Sloan Kettering Cancer Center
+
 Anil Colpan Zenginoglu (anil@umd.edu), University of Maryland
+
 Onur Kara (okara83@gmail.com)
 
 
