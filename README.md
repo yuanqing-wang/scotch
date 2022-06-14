@@ -27,14 +27,14 @@ Data analysis | | |  [Jul 6, 2022 4-6PM EST](https://calendar.google.com/event?a
 - [Linear algebra (Khan Academy)](https://www.khanacademy.org/math/linear-algebra)
 
 ### Python and Data Science
-- [PY4E - Python for Everybody](https://www.py4e.com)
-- [Learn Python - Code Academy](https://www.codecademy.com/learn/learn-python)
-- [Python Documentation](https://docs.python.org/3/)
-- [Python and Jupyter Notebooks](https://qiskit.org/textbook/ch-prerequisites/python-and-jupyter-notebooks.html)
 - [MolSSI Education Resources](http://education.molssi.org/resources.html#programming)
     - [Python Data and Scripting for Biochemists](https://education.molssi.org/python-scripting-biochemistry/chapters/setup.html)
     - [Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/)
     - [Python for Data Analysis](https://education.molssi.org/python-data-analysis/)
+- [PY4E - Python for Everybody](https://www.py4e.com)
+- [Learn Python - Code Academy](https://www.codecademy.com/learn/learn-python)
+- [Python Documentation](https://docs.python.org/3/)
+- [Python and Jupyter Notebooks](https://qiskit.org/textbook/ch-prerequisites/python-and-jupyter-notebooks.html)
 - [Python basics notebooks](https://github.com/okara83/python-pytorch-workshop)
 
 
