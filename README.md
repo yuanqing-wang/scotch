@@ -11,7 +11,7 @@ Onur Kara ([okara83@gmail.com](mailto:okara83@gmail.com)), Ronin Institute
 
 Module | Scope | Notes | Video 
 --------------------- | --------------------- | --------------------- | -------
-[OOMPH (Object-Oriented Mathematical Programming Hackathon)](pages/oomph) | Introduction to object-oriented programming. <br> Implement your vector and matrix from scratch. <br> Implement your linear regression algorithm from scratch. <br> Your first machine learning model. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VYVsk98aWBI0wg6jx8lZZGK3aZqpw46o#scrollTo=dSNAs33hiI7Y) |
+[OOMPH (Object-Oriented Mathematical Programming Hackathon)](pages/oomph) | Introduction to object-oriented programming. <br><br> Implement your vector and matrix from scratch. <br><br> Implement your linear regression algorithm from scratch. <br><br> Your first machine learning model. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VYVsk98aWBI0wg6jx8lZZGK3aZqpw46o#scrollTo=dSNAs33hiI7Y) |
 
 ## Useful resources
 
