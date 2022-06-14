@@ -11,6 +11,7 @@ Onur Kara ([okara83@gmail.com](mailto:okara83@gmail.com)), Ronin Institute
 
 Module | Scope | Notes | Time <br> (Click to add to calendar) | Zoom | Video
 --------------------- | --------------------- | --------------------- | ------- | --- | --- 
+Introduction to python. | Basic syntax <br><br> What is a function <br><br> Useful packages <br><br> Data handling <br><br> Visualization <br><br> | | [Jun 21, 2022 4-6PM EST](https://calendar.google.com/event?action=TEMPLATE&tmeid=YnEzcmE4OWJucnMwZ2FyN2M3aTZjaWhvaTRfMjAyMjA2MjFUMjAwMDAwWiB5dWFucWluZy53YW5nQGNob2RlcmFsYWIub3Jn&tmsrc=yuanqing.wang%40choderalab.org&scp=ALL ) | [![Zoom](https://img.shields.io/badge/umd.zoom.us/my/ptiwary-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://umd.zoom.us/my/ptiwary) | 
 Your first machine learning model from scratch. | Introduction to functions and objects. <br><br> Implement your vector and matrix from scratch. <br><br> Implement your linear regression algorithm from scratch. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VYVsk98aWBI0wg6jx8lZZGK3aZqpw46o#scrollTo=dSNAs33hiI7Y) | [Jun 22, 2022 4-6PM EST](https://calendar.google.com/event?action=TEMPLATE&tmeid=YnEzcmE4OWJucnMwZ2FyN2M3aTZjaWhvaTRfMjAyMjA2MjJUMjAwMDAwWiB5dWFucWluZy53YW5nQGNob2RlcmFsYWIub3Jn&tmsrc=yuanqing.wang%40choderalab.org&scp=ALL ) | [![Zoom](https://img.shields.io/badge/umd.zoom.us/my/ptiwary-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://umd.zoom.us/my/ptiwary) | 
 
 ## Useful resources
