@@ -11,7 +11,6 @@ github_username:  yuanqing-wang
 theme: minima
 header_pages:
   - pages/prerequisites.md
-  - pages/years/2022/schedule.md
   - pages/contribute.md 
   
   
