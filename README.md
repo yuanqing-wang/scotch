@@ -4,14 +4,14 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 
 **Instructors**:<br>
 [Yuanqing Wang](http://www.wangyq.net) ([wangyq@wangyq.net](mailto:wangyq@wangyq.net)), Memorial Sloan Kettering Cancer Center<br>
-Anil Colpan Zenginoglu ([anil@umd.edu](mailto:anil@umd.edu)), University of Maryland<br>
+[Anil Zenginoglu](https://anilzen.github.io/) ([anil@umd.edu](mailto:anil@umd.edu)), University of Maryland<br>
 Onur Kara ([okara83@gmail.com](mailto:okara83@gmail.com)), Ronin Institute
 
 ## Syllabus
 
 Module | Scope | Notes | Time <br> (Click to add to calendar) | Video
 --------------------- | --------------------- | --------------------- | ------- | --- 
-Introduction to python | Basic syntax <br><br> What is a function <br><br> Useful packages <br><br> Data handling <br><br> Visualization <br><br> | | [Jun 21, 2022 4-6PM EST](https://calendar.google.com/event?action=TEMPLATE&tmeid=YnEzcmE4OWJucnMwZ2FyN2M3aTZjaWhvaTRfMjAyMjA2MjFUMjAwMDAwWiB5dWFucWluZy53YW5nQGNob2RlcmFsYWIub3Jn&tmsrc=yuanqing.wang%40choderalab.org&scp=ALL ) | 
+Introduction to python | Basic syntax <br><br> What is a function <br><br> Useful packages <br><br> Data handling <br><br> Visualization <br><br> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y-lHeI1ZpyHou8-dSFBNtGJjzqDzahdV) | [Jun 21, 2022 4-6PM EST](https://calendar.google.com/event?action=TEMPLATE&tmeid=YnEzcmE4OWJucnMwZ2FyN2M3aTZjaWhvaTRfMjAyMjA2MjFUMjAwMDAwWiB5dWFucWluZy53YW5nQGNob2RlcmFsYWIub3Jn&tmsrc=yuanqing.wang%40choderalab.org&scp=ALL ) | 
 Your first machine learning model from scratch | Introduction to functions and objects. <br><br> Implement your vector and matrix from scratch. <br><br> Implement your linear regression algorithm from scratch. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VYVsk98aWBI0wg6jx8lZZGK3aZqpw46o#scrollTo=dSNAs33hiI7Y) | [Jun 22, 2022 4-6PM EST](https://calendar.google.com/event?action=TEMPLATE&tmeid=YnEzcmE4OWJucnMwZ2FyN2M3aTZjaWhvaTRfMjAyMjA2MjJUMjAwMDAwWiB5dWFucWluZy53YW5nQGNob2RlcmFsYWIub3Jn&tmsrc=yuanqing.wang%40choderalab.org&scp=ALL ) | 
 Scientific data visualization | | | [Jul 5, 2022 4-6PM EST](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmZjdGx1Z2d0azY0YmowdmY2ZzNuOTBnZHNfMjAyMjA3MDVUMjAwMDAwWiB5dWFucWluZy53YW5nQGNob2RlcmFsYWIub3Jn&tmsrc=yuanqing.wang%40choderalab.org&scp=ALL ) |
 Data analysis | | |  [Jul 6, 2022 4-6PM EST](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmZjdGx1Z2d0azY0YmowdmY2ZzNuOTBnZHNfMjAyMjA3MDZUMjAwMDAwWiB5dWFucWluZy53YW5nQGNob2RlcmFsYWIub3Jn&tmsrc=yuanqing.wang%40choderalab.org&scp=ALL ) | 
