@@ -6,6 +6,7 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 [Yuanqing Wang](http://www.wangyq.net) ([wangyq@wangyq.net](mailto:wangyq@wangyq.net)), Memorial Sloan Kettering Cancer Center<br>
 [Anil Zenginoglu](https://anilzen.github.io/) ([anil@umd.edu](mailto:anil@umd.edu)), University of Maryland<br>
 Onur Kara ([okara83@gmail.com](mailto:okara83@gmail.com)), Ronin Institute
+Pritha Verma([mailto:pritha@mit.edu](mailto:mailto:pritha@mit.edu)), MIT
 
 ## Syllabus
 
