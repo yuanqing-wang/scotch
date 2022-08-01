@@ -7,6 +7,8 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 [Anil Zenginoglu](https://anilzen.github.io/) ([anil@umd.edu](mailto:anil@umd.edu)), University of Maryland<br>
 Onur Kara ([okara83@gmail.com](mailto:okara83@gmail.com)), Ronin Institute<br>
 Pritha Verma ([pritha@mit.edu](mailto:pritha@mit.edu)), Massachusetts Institute of Technology
+Zachary Smith([zsmith7@umd.edu](mailto:zsmith7@umd.edu)), University of Maryland<br>
+
 
 ## Syllabus
 
