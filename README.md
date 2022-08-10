@@ -20,6 +20,7 @@ Numpy & Pandas | |   [![Colab](https://colab.research.google.com/assets/colab-ba
 Matplotlib & SciKit-Learn | | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jty2pn2NXmNKC21fX-38x1dxlXXE0iLN?usp=sharing) |  [Jul 6, 2022 4-6PM EST](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmZjdGx1Z2d0azY0YmowdmY2ZzNuOTBnZHNfMjAyMjA3MDZUMjAwMDAwWiB5dWFucWluZy53YW5nQGNob2RlcmFsYWIub3Jn&tmsrc=yuanqing.wang%40choderalab.org&scp=ALL ) | 
 Introduction to machine learning with PyTorch | Basic syntax <br><br> Linear regression <br><br> (Stochastic) gradient descent <br><br> Train a bad and a good model on MNIST| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zzFqjmz4-D7w7UzpTLu0AW61R8bqm4tn?usp=sharing) |  [Aug 9, 2022 4-6PM EST](https://calendar.google.com/event?action=TEMPLATE&tmeid=MG90ZTRpZWdvbGw2YnRwYnBrc2gycmRtYjVfMjAyMjA4MDlUMjAwMDAwWiB5dWFucWluZy53YW5nQGNob2RlcmFsYWIub3Jn&tmsrc=yuanqing.wang%40choderalab.org) | [🎬](https://youtu.be/_JkV6cbmDos)|
 
+
 ## Useful resources
 
 ### Mathematical Foundations
@@ -45,6 +46,9 @@ Introduction to machine learning with PyTorch | Basic syntax <br><br> Linear reg
 ### PyTorch and Machine Learning
 - [Pytorch Documentation 🔥](https://pytorch.org/docs/stable/index.html)
 - [Fast AI](https://www.fast.ai)
+- [Neural networks tutorial](https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html)
+- [CIFAR 10 tutorial](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
+- [Tensorboard tutorial](https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html)
 
 ## Open Education Statement
 All notes of this class will be published in on this website under [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
