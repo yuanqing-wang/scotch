@@ -8,6 +8,8 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 Onur Kara ([okara83@gmail.com](mailto:okara83@gmail.com)), Ronin Institute<br>
 Pritha Verma ([pritha@mit.edu](mailto:pritha@mit.edu)), Massachusetts Institute of Technology<br>
 [Zachary Smith](https://zacharysmith.me) ([zsmith7@umd.edu](mailto:zsmith7@umd.edu)), University of Maryland<br>
+Rishi Bedi([rbedi100@gmail.com](mailto:rbedi100@gmail.com)), Y-Trap
+
 
 
 ## Syllabus
@@ -20,6 +22,7 @@ Numpy & Pandas | |   [![Colab](https://colab.research.google.com/assets/colab-ba
 Matplotlib & SciKit-Learn | | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jty2pn2NXmNKC21fX-38x1dxlXXE0iLN?usp=sharing) |  [Jul 6, 2022 4-6PM EST](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmZjdGx1Z2d0azY0YmowdmY2ZzNuOTBnZHNfMjAyMjA3MDZUMjAwMDAwWiB5dWFucWluZy53YW5nQGNob2RlcmFsYWIub3Jn&tmsrc=yuanqing.wang%40choderalab.org&scp=ALL ) | 
 Introduction to machine learning with PyTorch | Basic syntax <br><br> Linear regression <br><br> (Stochastic) gradient descent <br><br> Train a bad and a good model on MNIST| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zzFqjmz4-D7w7UzpTLu0AW61R8bqm4tn?usp=sharing) |  [Aug 9, 2022 4-6PM EST](https://calendar.google.com/event?action=TEMPLATE&tmeid=MG90ZTRpZWdvbGw2YnRwYnBrc2gycmRtYjVfMjAyMjA4MDlUMjAwMDAwWiB5dWFucWluZy53YW5nQGNob2RlcmFsYWIub3Jn&tmsrc=yuanqing.wang%40choderalab.org) | [🎬](https://youtu.be/_JkV6cbmDos)|
 Tensorboard and Convolution | | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/130TNfhAxK-JyxqwDCEVdlOkEFj5CUrEb?usp=sharing) | [Aug 10, 2022 4-6PM EST](https://calendar.google.com/event?action=TEMPLATE&tmeid=MG90ZTRpZWdvbGw2YnRwYnBrc2gycmRtYjVfMjAyMjA4MTBUMjAwMDAwWiB5dWFucWluZy53YW5nQGNob2RlcmFsYWIub3Jn&tmsrc=yuanqing.wang%40choderalab.org&scp=ALL) 
+Generative Models: Alphafold and Autoencoders | | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j_rZk4zhtfYDUP6Vo4i34nMli-X2nain?usp=sharing) | [Aug 23, 2022 4-6PM EST](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2NoYW5ucWo3b2lvODc2OGhwbWFsbDh1cDJfMjAyMjA4MjNUMjAwMDAwWiB5dWFucWluZy53YW5nQGNob2RlcmFsYWIub3Jn&tmsrc=yuanqing.wang%40choderalab.org&scp=ALL) 
 
 
 ## Useful resources
