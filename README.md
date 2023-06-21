@@ -5,10 +5,7 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 **Instructors**:<br>
 [Yuanqing Wang](http://www.wangyq.net) ([wangyq@wangyq.net](mailto:wangyq@wangyq.net)), Memorial Sloan Kettering Cancer Center<br>
 [Anil Zenginoglu](https://anilzen.github.io/) ([anil@umd.edu](mailto:anil@umd.edu)), University of Maryland<br>
-Onur Kara ([okara83@gmail.com](mailto:okara83@gmail.com)), Ronin Institute<br>
-Pritha Verma ([pritha@mit.edu](mailto:pritha@mit.edu)), Massachusetts Institute of Technology<br>
-[Zachary Smith](https://zacharysmith.me) ([zsmith7@umd.edu](mailto:zsmith7@umd.edu)), University of Maryland<br>
-Rishi Bedi([rbedi100@gmail.com](mailto:rbedi100@gmail.com)), Y-Trap
+[Vatsal Agarwal](https://scholar.google.com/citations?user=DJRhPVgAAAAJ&hl=en) ([vatsalag99@gmail.com](mailto:vatsalag99@gmail.com)), University of Maryland<br>
 
 
 
@@ -17,13 +14,12 @@ Rishi Bedi([rbedi100@gmail.com](mailto:rbedi100@gmail.com)), Y-Trap
 Module | Scope | Notes | Time <br> (Click to add to calendar) | Video
 --------------------- | --------------------- | --------------------- | ------- | --- 
 Introduction to python | Basic syntax <br><br> What is a function <br><br> Useful packages <br><br> Data handling <br><br> Visualization <br><br> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y-lHeI1ZpyHou8-dSFBNtGJjzqDzahdV) | Jun 20 2023 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/_b8DrAM1MYpbRvfpv-3BuyzN9yeacWjKh0To58ZVApRpzpK6FqfWmVkxMsEiEufD.7Ha3oJd8B4C_5d67)
-Your first machine learning model from scratch | Introduction to functions and objects. <br><br> Implement your vector and matrix from scratch. <br><br> Implement your linear regression algorithm from scratch. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12SNDSA54_3VTJ3TQAQux1aSOMIU9Tcif?usp=sharing) | Jun 21 2023 4-6PM EDT| [🎬](https://youtu.be/nMp_6IVeKgE)
-Numpy & Intro to Pandas | |   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vTvBAb2ixBSr97dMEekGXKDsFO_Wpxx0?usp=sharing)| Jun 20 2023 4-6PM EDT |
-Matplotlib & SciKit-Learn | | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jty2pn2NXmNKC21fX-38x1dxlXXE0iLN?usp=sharing) |  Jun 20 2023 4-6PM EDT | 
-Introduction to machine learning with PyTorch | Basic syntax <br><br> Linear regression <br><br> (Stochastic) gradient descent <br><br> Train a bad and a good model on MNIST| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zzFqjmz4-D7w7UzpTLu0AW61R8bqm4tn?usp=sharing) |  Jun 20 2023 4-6PM EDT| [🎬](https://youtu.be/_JkV6cbmDos)|
-Tensorboard and Convolution | | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/130TNfhAxK-JyxqwDCEVdlOkEFj5CUrEb?usp=sharing) | Jun 20 2023 4-6PM EDT
-Generative Models: Alphafold and Autoencoders | | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j_rZk4zhtfYDUP6Vo4i34nMli-X2nain?usp=sharing) | Jun 20 2023 4-6PM EDT
-Debugging | | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10pEYJqsnhzoR1goMdADiH4AdZXQ9jgCF?usp=sharing) | Jun 20 2023 4-6PM EDT
+Numpy & Data Handling | |   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qpsjL1PKgM7lqxQz9KqOVpla3VoACmPq?usp=sharing)| Jun 21 2023 4-6PM EDT |
+Matplotlib & SciKit-Learn | | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jty2pn2NXmNKC21fX-38x1dxlXXE0iLN?usp=sharing) |  July 11 2023 4-6PM EDT | 
+Introduction to machine learning with PyTorch | Basic syntax <br><br> Linear regression <br><br> (Stochastic) gradient descent <br><br> Train a bad and a good model on MNIST| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zzFqjmz4-D7w7UzpTLu0AW61R8bqm4tn?usp=sharing) |  July 12 2023 4-6PM EDT| [🎬](https://youtu.be/_JkV6cbmDos)|
+Tensorboard and Convolution | | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/130TNfhAxK-JyxqwDCEVdlOkEFj5CUrEb?usp=sharing) | July 18 2023 4-6PM EDT
+Generative Models: Alphafold and Autoencoders | | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j_rZk4zhtfYDUP6Vo4i34nMli-X2nain?usp=sharing) | July 19 2023 4-6PM EDT
+Debugging | | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10pEYJqsnhzoR1goMdADiH4AdZXQ9jgCF?usp=sharing) | Aug 15-16 2023 4-6PM EDT
 
 
 ## Useful resources
