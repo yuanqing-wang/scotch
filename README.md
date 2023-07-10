@@ -6,6 +6,8 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 [Yuanqing Wang](http://www.wangyq.net) ([wangyq@wangyq.net](mailto:wangyq@wangyq.net)), Memorial Sloan Kettering Cancer Center<br>
 [Anil Zenginoglu](https://anilzen.github.io/) ([anil@umd.edu](mailto:anil@umd.edu)), University of Maryland<br>
 [Vatsal Agarwal](https://scholar.google.com/citations?user=DJRhPVgAAAAJ&hl=en) ([vatsalag99@gmail.com](mailto:vatsalag99@gmail.com)), University of Maryland<br>
+[Dedi Wang](https://wangdedi1997.github.io/) ([dwang97@umd.edu](mailto:dwang97@umd.edu)), University of Maryland<br>
+[Wenhao Gao](https://wenhao-gao.github.io/) ([whgao@mit.edu](mailto:whgao@mit.edu)), MIT<br>
 
 
 
