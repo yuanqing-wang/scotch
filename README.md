@@ -9,6 +9,7 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 [Dedi Wang](https://wangdedi1997.github.io/) ([dwang97@umd.edu](mailto:dwang97@umd.edu)), University of Maryland<br>
 [Wenhao Gao](https://wenhao-gao.github.io/) ([whgao@mit.edu](mailto:whgao@mit.edu)), MIT<br>
 [Emmanuel Noutahi](https://scholar.google.ca/citations?user=JcuwpbQAAAAJ&hl=fr) ([emmanuel@valencediscovery.com](mailto:emmanuel@valencediscovery.com)), Valence Discovery<br>
+[Nikhil Thota](https://www.linkedin.com/in/nikhil-thota/) ([nthota2@jhu.edu](mailto:nthota2@jhu.edu)), The Johns Hopkins University<br>
 
 
 
