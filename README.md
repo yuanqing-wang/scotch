@@ -24,7 +24,9 @@ Matplotlib | Basics of Matplotlib <br><br> Line plots <br><br> Visualizing error
 Pandas and sklearn | Working with datasets and very basics of machine learning | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FF2BV3uX7hGfQxOkF1GLvFp3CzL7x-5r) |  July 12 2023 4-6PM EDT |  [🎬](https://umd.zoom.us/rec/share/-mAcw7Mg4smGMYlfJ1f5j4GbRqIdfMbAC0ZnfZc0AAf_jUNeSrYIsf-0vrewHXg.YHlNWzRSQPaxZe1r?startTime=1689192277000)
 Introduction to machine learning with PyTorch Part 1| Basic syntax <br><br> Linear regression <br><br> (Stochastic) gradient descent| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wzkRzzs1VxCoZX1jtmDODdLRS7eXUsM2) |  July 18 2023 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/IuDWUgq2Pek_DiRUS_nfe8NiOXQpe58SFTSu26_S9K6JNudlCQXGIIAaEmm8AQ81.Dmptvp1CHKdtXDrK?startTime=1689710428000)|
 Introduction to machine learning with PyTorch Part 2|Train a bad and a good model on MNIST| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wzkRzzs1VxCoZX1jtmDODdLRS7eXUsM2?usp=sharing) |  July 19 2023 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/MhBEGr3bvcqRfNKaPXvD_r5p7BYkXNViZgp5tnKPiXEbR4t_hPkE53xfJeYYjs1W.V8ngCPK70AhElLRO)|
-More on machine learning with PyTorch| Cross Validation <br><br> Tensorboard <br><br> Hyperparameter Optimization | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VknCWvHjt0XvMqG1FvwfIxGtg4XeNDm8?usp=sharing) | August 15 2023 4-6PM EDT
+More on machine learning with PyTorch| Cross Validation <br><br> Tensorboard <br><br> Hyperparameter Optimization | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VknCWvHjt0XvMqG1FvwfIxGtg4XeNDm8?usp=sharing) | August 15 2023 4-6PM EDT | [🎬](https://umd.zoom.us/rec/share/SV-sVtKWccaBUFhKmDJUEe1Fl1l6CMZMSyqeizQbsZ88tky_TAGnGbwUe4Mi5U2a.D8lWoRaB6E23OvVv)|
+
+
 
 
 ## Useful resources
