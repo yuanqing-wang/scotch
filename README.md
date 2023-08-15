@@ -10,6 +10,7 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 [Wenhao Gao](https://wenhao-gao.github.io/) ([whgao@mit.edu](mailto:whgao@mit.edu)), MIT<br>
 [Emmanuel Noutahi](https://scholar.google.ca/citations?user=JcuwpbQAAAAJ&hl=fr) ([emmanuel@valencediscovery.com](mailto:emmanuel@valencediscovery.com)), Valence Discovery<br>
 [Nikhil Thota](https://www.linkedin.com/in/nikhil-thota/) ([nthota2@jhu.edu](mailto:nthota2@jhu.edu)), The Johns Hopkins University<br>
+[Thomas Struble](https://www.linkedin.com/in/tjstruble/) ([thomas.struble@merck.com](mailto:thomas.struble@merck.com)), Merck<br>
 
 
 
@@ -23,9 +24,7 @@ Matplotlib | Basics of Matplotlib <br><br> Line plots <br><br> Visualizing error
 Pandas and sklearn | Working with datasets and very basics of machine learning | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FF2BV3uX7hGfQxOkF1GLvFp3CzL7x-5r) |  July 12 2023 4-6PM EDT |  [🎬](https://umd.zoom.us/rec/share/-mAcw7Mg4smGMYlfJ1f5j4GbRqIdfMbAC0ZnfZc0AAf_jUNeSrYIsf-0vrewHXg.YHlNWzRSQPaxZe1r?startTime=1689192277000)
 Introduction to machine learning with PyTorch Part 1| Basic syntax <br><br> Linear regression <br><br> (Stochastic) gradient descent| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wzkRzzs1VxCoZX1jtmDODdLRS7eXUsM2) |  July 18 2023 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/IuDWUgq2Pek_DiRUS_nfe8NiOXQpe58SFTSu26_S9K6JNudlCQXGIIAaEmm8AQ81.Dmptvp1CHKdtXDrK?startTime=1689710428000)|
 Introduction to machine learning with PyTorch Part 2|Train a bad and a good model on MNIST| [![Colab](https://colab.research.google.com/drive/1wzkRzzs1VxCoZX1jtmDODdLRS7eXUsM2?usp=sharing) |  July 19 2023 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/MhBEGr3bvcqRfNKaPXvD_r5p7BYkXNViZgp5tnKPiXEbR4t_hPkE53xfJeYYjs1W.V8ngCPK70AhElLRO)|
-Tensorboard and Convolution | | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/130TNfhAxK-JyxqwDCEVdlOkEFj5CUrEb?usp=sharing) | August 2023 4-6PM EDT
-Generative Models: Alphafold and Autoencoders | | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j_rZk4zhtfYDUP6Vo4i34nMli-X2nain?usp=sharing) | August 2023 4-6PM EDT
-Debugging | | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10pEYJqsnhzoR1goMdADiH4AdZXQ9jgCF?usp=sharing) | August 2023 4-6PM EDT
+More on machine learning with PyTorch| Cross Validation <br><br> Tensorboard <br><br> Hyperparameter Optimization | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VknCWvHjt0XvMqG1FvwfIxGtg4XeNDm8?usp=sharing) | August 15 2023 4-6PM EDT
 
 
 ## Useful resources
