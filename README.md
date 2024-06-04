@@ -63,6 +63,3 @@ All notes of this class will be published in on this website under [Creative Com
 Should you wish to improve the course materials, please follow instructions [here](pages/contribute.md) to submit _issues_ or _pull requests_ to this GitHub repo.
 This is a **ZERO Textbook Cost** course.
 Links to all materials will be accesible on this GitHub repo and website.
-
-## Sponsors
-<img src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" height="100"><img src="https://omc.umd.edu/img/logos/28_informalseal.jpg" height="100"><img src="https://avatars.githubusercontent.com/u/26232579?s=200&v=4" height="100">
