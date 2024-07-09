@@ -2,15 +2,9 @@ Scientific Computing From Scratch
 ---------------------------------
 A summer bootcamp on scientific computing for beginners with [Python](https://www.python.org) and [Pytorch](https://pytorch.org) organized by [Pratyush Tiwary, University of Maryland](http://go.umd.edu/tiwarylab).
 
-**2023 Instructors**:<br>
-[Yuanqing Wang](http://www.wangyq.net) ([wangyq@wangyq.net](mailto:wangyq@wangyq.net)), Memorial Sloan Kettering Cancer Center<br>
-[Anil Zenginoglu](https://anilzen.github.io/) ([anil@umd.edu](mailto:anil@umd.edu)), University of Maryland<br>
-[Vatsal Agarwal](https://scholar.google.com/citations?user=DJRhPVgAAAAJ&hl=en) ([vatsalag99@gmail.com](mailto:vatsalag99@gmail.com)), University of Maryland<br>
-[Dedi Wang](https://wangdedi1997.github.io/) ([dwang97@umd.edu](mailto:dwang97@umd.edu)), University of Maryland<br>
-[Wenhao Gao](https://wenhao-gao.github.io/) ([whgao@mit.edu](mailto:whgao@mit.edu)), MIT<br>
-[Emmanuel Noutahi](https://scholar.google.ca/citations?user=JcuwpbQAAAAJ&hl=fr) ([emmanuel@valencediscovery.com](mailto:emmanuel@valencediscovery.com)), Valence Discovery<br>
-[Nikhil Thota](https://www.linkedin.com/in/nikhil-thota/) ([nthota2@jhu.edu](mailto:nthota2@jhu.edu)), The Johns Hopkins University<br>
-[Thomas Struble](https://www.linkedin.com/in/tjstruble/) ([thomas.struble@merck.com](mailto:thomas.struble@merck.com)), Merck<br>
+**2024 Instructors**:<br>
+[Eric Beyerle](https://terpconnect.umd.edu/~ebeyerle/) ([https://terpconnect.umd.edu/~ebeyerle/](mailto:ebeyerle@umd.edu)), University of Maryland<br>
+[João Vieira Ribeiro](https://www.linkedin.com/in/joaovieiraribeiro/) ([https://www.linkedin.com/in/joaovieiraribeiro/](mailto:j.p.g.l.m.rodrigues@gmail.com)), Schrodinger<br>
 
 
 
@@ -18,8 +12,8 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 
 Module | Scope | Notes | Time <br> (Click to add to calendar) | Video
 --------------------- | --------------------- | --------------------- | ------- | --- 
-Introduction to python | Basic syntax <br><br> What is a function <br><br> Useful packages <br><br> Data handling <br><br> Visualization <br><br> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y-lHeI1ZpyHou8-dSFBNtGJjzqDzahdV) | Jun 20 2023 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/_b8DrAM1MYpbRvfpv-3BuyzN9yeacWjKh0To58ZVApRpzpK6FqfWmVkxMsEiEufD.7Ha3oJd8B4C_5d67)
-Numpy & Data Handling | More on lists, dictionaries, arrays <br><br> Data Handling with Numpy <br><br> Loading files in python |   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qpsjL1PKgM7lqxQz9KqOVpla3VoACmPq)| Jun 21 2023 4-6PM EDT | [🎬](https://umd.zoom.us/rec/share/FOHxmWbnDrewY97e7-dpFSee-bzLUTWSZTSuCmJXmkVdEvikxmpVVXedS2q98VKk.sGgRdNnsyvcGejOH?startTime=1687377536000)
+Introduction to python | Basic syntax <br><br> What is a function <br><br> Useful packages <br><br> Data handling <br><br> Visualization <br><br> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t9DJG2BotRevdAhem474HcmcdTA7yyxs) | July 10 2024 4-6PM EDT| [🎬]()
+Numpy & Data Handling | More on lists, dictionaries, arrays <br><br> Data Handling with Numpy <br><br> Loading files in python |   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XPgEN5Ly-aTU4W0BEKfVXdAXf7E1sjqL)| July 11 2024 4-6PM EDT | [🎬]()
 Matplotlib | Basics of Matplotlib <br><br> Line plots <br><br> Visualizing errors <br><br> Multiple subplots <br><br> Contour plots| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18MoWvoDkv9xKzKrkI-u1Q8Thv56sRk3_?usp=drive_link) |  July 11 2023 4-6PM EDT | [🎬](https://umd.zoom.us/rec/share/JLtWg8xHlQbRAgE2BG4AzMr40nljjETRgfRXNlB3cxMIyWGy8rInCJWP_nwdp-oz.6c9RlLLfNRh4Hzri)
 Pandas and sklearn | Working with datasets and very basics of machine learning | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FF2BV3uX7hGfQxOkF1GLvFp3CzL7x-5r) |  July 12 2023 4-6PM EDT |  [🎬](https://umd.zoom.us/rec/share/-mAcw7Mg4smGMYlfJ1f5j4GbRqIdfMbAC0ZnfZc0AAf_jUNeSrYIsf-0vrewHXg.YHlNWzRSQPaxZe1r?startTime=1689192277000)
 Introduction to machine learning with PyTorch Part 1| Basic syntax <br><br> Linear regression <br><br> (Stochastic) gradient descent| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wzkRzzs1VxCoZX1jtmDODdLRS7eXUsM2) |  July 18 2023 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/IuDWUgq2Pek_DiRUS_nfe8NiOXQpe58SFTSu26_S9K6JNudlCQXGIIAaEmm8AQ81.Dmptvp1CHKdtXDrK?startTime=1689710428000)|
