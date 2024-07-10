@@ -3,7 +3,7 @@ Scientific Computing From Scratch
 A summer bootcamp on scientific computing for beginners with [Python](https://www.python.org) and [Pytorch](https://pytorch.org) organized by [Pratyush Tiwary, University of Maryland](http://go.umd.edu/tiwarylab). All classes via zoom 4-6PM New York time. Zoom link has been sent to registered students.
 
 **2024 Instructors**:<br>
-[João Vieira Ribeiro](https://www.linkedin.com/in/joaovieiraribeiro/), Schrödinger<br>
+[João Rodrigues](https://www.linkedin.com/in/jpglmrodrigues/), Schrödinger<br>
 [Eric Beyerle](https://terpconnect.umd.edu/~ebeyerle/), University of Maryland<br>
 
 
