@@ -7,6 +7,8 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 [Eric Beyerle](https://terpconnect.umd.edu/~ebeyerle/), University of Maryland<br>
 [Ricardo Ramirez](https://www.linkedin.com/in/ricard-ramirez/en), University at Buffalo<br>
 [Payam Kelich](https://payamkelich.github.io/), University of Illinois Urbana-Champaign<br>
+[Qianyu Zheng](https://github.com/qzheng75), Georgia Institute of Technology<br>
+[Aram Bughdaryan](https://www.linkedin.com/in/aram-bughdaryan), Deep Origin<br>
 
 
 
@@ -19,8 +21,8 @@ Introduction to python | Basic syntax <br><br> What is a function <br><br> Usefu
 Numpy & Data Handling | More on lists, dictionaries, arrays <br><br> Data Handling with Numpy|   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XPgEN5Ly-aTU4W0BEKfVXdAXf7E1sjqL)| July 11 2024 4-6PM EDT | [🎬](https://umd.zoom.us/rec/share/66oLPW1aIkAjii4ejxULBo7Oe9jCjpaecfQKjGeZiG6_Zyo6JzlriaHuT2GrCZVs.v_rD0sGfHQOJes_L)
 Matplotlib | Basics of Matplotlib <br><br> Line plots <br><br> Visualizing errors <br><br> Multiple subplots <br><br> Contour plots| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/145yd44NyhTTThX_dBGBm0UiPc5EebgP-) |  July 17 2024 4-6PM EDT | [🎬](https://drive.google.com/file/d/1H7y0UtFF8Z8ZRPayemj7QbKlsC-L-IF2/view?pli=1)
 Pandas and sklearn | Working with datasets  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SfwqeRD5kxHtPMnqtVfjZ-1ST-tvfc6u?usp=sharing) |  July 18 2024 4-6PM EDT |  [🎬](https://umd.zoom.us/rec/share/5VHN-GqBi-3hY-AM4xTbheHAz1abuBb84R2ALwOvJFdIE4MsWzIKdtf9K6GNs0dy.qgdZF83OY6F2xidK)
-Introduction to machine learning with PyTorch Part 1| Basic syntax <br><br> Linear regression <br><br> (Stochastic) gradient descent| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wzkRzzs1VxCoZX1jtmDODdLRS7eXUsM2) | 2023 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/IuDWUgq2Pek_DiRUS_nfe8NiOXQpe58SFTSu26_S9K6JNudlCQXGIIAaEmm8AQ81.Dmptvp1CHKdtXDrK?startTime=1689710428000)|
-Introduction to machine learning with PyTorch Part 2|Train a bad and a good model on MNIST| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wzkRzzs1VxCoZX1jtmDODdLRS7eXUsM2?usp=sharing) | 2023 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/MhBEGr3bvcqRfNKaPXvD_r5p7BYkXNViZgp5tnKPiXEbR4t_hPkE53xfJeYYjs1W.V8ngCPK70AhElLRO)|
+Introduction to machine learning with PyTorch | Part 1| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rnIeJWTe7p5JQnmJtffBnx7EQxYI9yOA?usp=sharing) | July 24 2024 4-6PM EDT| [🎬]()|
+Introduction to machine learning with PyTorch | Part 2 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hRGVgiLQdXmPbG610kET_JltTuEn-f5b?usp=sharing) | July 25 2024 4-6PM EDT| [🎬]()|
 More on machine learning with PyTorch| Cross Validation <br><br> Tensorboard <br><br> Hyperparameter Optimization | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VknCWvHjt0XvMqG1FvwfIxGtg4XeNDm8?usp=sharing) | 2023 4-6PM EDT | [🎬](https://umd.zoom.us/rec/share/SV-sVtKWccaBUFhKmDJUEe1Fl1l6CMZMSyqeizQbsZ88tky_TAGnGbwUe4Mi5U2a.D8lWoRaB6E23OvVv)|
 
 
