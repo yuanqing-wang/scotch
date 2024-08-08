@@ -26,7 +26,7 @@ Pandas and sklearn | Working with datasets  | [![Colab](https://colab.research.g
 Introduction to machine learning with PyTorch | Part 1| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rnIeJWTe7p5JQnmJtffBnx7EQxYI9yOA?usp=sharing) | July 24 2024 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/vyLy5akK5QxNSGm9XhGA6aS-H8bW9i7cu3_S5sVZz-nXRRaMSTIMlrL4V79HZwwJ.S9bt7SVdAWO9Yfsd)|
 Introduction to machine learning with PyTorch | Part 2 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hRGVgiLQdXmPbG610kET_JltTuEn-f5b?usp=sharing) | July 25 2024 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/GDZmehUDz9xb-kixlN4pnmeH-CRIEifFc5SSTn1MxpDi-d7LFzPAMiMHWiUxsdEj.RVsDenbXG35-sXx9)|
 More on machine learning with PyTorch| Part 1 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n9xGu52qzMUzgDOjt9pKSMwTjHXThhHW?usp=sharing) | August 7 2024 4-6PM EDT | [🎬](https://umd.zoom.us/rec/share/3JNiO-cMs8iCj4SRclp-djY6844_Z4PDT1gkXZ70J7WNoOdTJrDvi0J4FRVmBQ.fc717_wmJusS5Wdl)|
-More on machine learning with PyTorch| Part 2 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U1gT5FwldZgfkI9029DC9jnMpM8k6KJM?usp=sharing) | August 8 2024 4-6PM EDT | [🎬]()|
+More on machine learning with PyTorch| Part 2 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U1gT5FwldZgfkI9029DC9jnMpM8k6KJM?usp=sharing) | August 8 2024 4-6PM EDT | [🎬](https://umd.zoom.us/rec/share/VNvQ2VcNAI3EfbCGBwdBvgqeCezGxpdWaNg6D4GaFcG4b3untiPo5oCwi1JjFvGQ.sBKZvDWAHBeAXG9J)|
 
 
 
