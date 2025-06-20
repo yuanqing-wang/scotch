@@ -2,31 +2,22 @@ Scientific Computing From Scratch
 ---------------------------------
 A summer bootcamp on scientific computing for beginners with [Python](https://www.python.org) and [Pytorch](https://pytorch.org) organized by [Pratyush Tiwary, University of Maryland](http://go.umd.edu/tiwarylab). All classes via zoom 4-6PM New York time. Zoom link has been sent to registered students.
 
-**2024 Instructors**:<br>
-[João Rodrigues](https://www.joaor.eu/), Schrödinger<br>
-[Eric Beyerle](https://terpconnect.umd.edu/~ebeyerle/), University of Maryland<br>
-[Ricardo Ramirez](https://www.linkedin.com/in/ricard-ramirez/en), University at Buffalo<br>
-[Payam Kelich](https://payamkelich.github.io/), University of Illinois Urbana-Champaign<br>
-[Qianyu Zheng](https://github.com/qzheng75), Georgia Institute of Technology<br>
-[Aram Bughdaryan](https://www.linkedin.com/in/aram-bughdaryan), Deep Origin<br>
-[Raunak Dey](https://github.com/RaunakDey), University of Maryland<br>
-[Wenhao Gao](https://wenhao-gao.github.io/), MIT<br>
-
-
-
+**2025 Instructors include**:<br>
+[Eric Beyerle](https://erb24.github.io/), University of Copenhagen<br>
+[Pat Walters](https://relaytx.com/our-team/pat-walters-ph-d/), Relay Therapeutics<br>
 
 ## Syllabus
 
 Module | Scope | Notes | Time <br> (Click to add to calendar) | Video
 --------------------- | --------------------- | --------------------- | ------- | --- 
-Introduction to python | Basic syntax <br><br> What is a function <br><br> Useful packages <br><br> Data handling <br><br> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t9DJG2BotRevdAhem474HcmcdTA7yyxs) | July 10 2024 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/4h2aWH3DH3kytRReviMPOYwFEljP5Urr76sxrzCLcGxJ1EQ8_3sMmdO1VQiyB4nU.BPQH8xSy_FI-daY0)
-Numpy & Data Handling | More on lists, dictionaries, arrays <br><br> Data Handling with Numpy|   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T0tpw8XPki_ou9c-eqshjH8r4sM18XLu)| July 11 2024 4-6PM EDT | [🎬](https://umd.zoom.us/rec/share/66oLPW1aIkAjii4ejxULBo7Oe9jCjpaecfQKjGeZiG6_Zyo6JzlriaHuT2GrCZVs.v_rD0sGfHQOJes_L)
-Matplotlib | Basics of Matplotlib <br><br> Line plots <br><br> Visualizing errors <br><br> Multiple subplots <br><br> Contour plots| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R-gEXr_zO2VYvo4FaDlqQL9E6ADzxGvP) |  July 17 2024 4-6PM EDT | [🎬](https://drive.google.com/file/d/1H7y0UtFF8Z8ZRPayemj7QbKlsC-L-IF2/view?pli=1)
-Pandas and sklearn | Working with datasets  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SfwqeRD5kxHtPMnqtVfjZ-1ST-tvfc6u?usp=sharing) |  July 18 2024 4-6PM EDT |  [🎬](https://umd.zoom.us/rec/share/5VHN-GqBi-3hY-AM4xTbheHAz1abuBb84R2ALwOvJFdIE4MsWzIKdtf9K6GNs0dy.qgdZF83OY6F2xidK)
-Introduction to machine learning with PyTorch | Part 1| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rnIeJWTe7p5JQnmJtffBnx7EQxYI9yOA?usp=sharing) | July 24 2024 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/vyLy5akK5QxNSGm9XhGA6aS-H8bW9i7cu3_S5sVZz-nXRRaMSTIMlrL4V79HZwwJ.S9bt7SVdAWO9Yfsd)|
-Introduction to machine learning with PyTorch | Part 2 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hRGVgiLQdXmPbG610kET_JltTuEn-f5b?usp=sharing) | July 25 2024 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/GDZmehUDz9xb-kixlN4pnmeH-CRIEifFc5SSTn1MxpDi-d7LFzPAMiMHWiUxsdEj.RVsDenbXG35-sXx9)|
-More on machine learning with PyTorch| Part 1 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n9xGu52qzMUzgDOjt9pKSMwTjHXThhHW?usp=sharing) | August 7 2024 4-6PM EDT | [🎬](https://umd.zoom.us/rec/share/3JNiO-cMs8iCj4SRclp-djY6844_Z4PDT1gkXZ70J7WNoOdTJrDvi0J4FRVmBQ.fc717_wmJusS5Wdl)|
-More on machine learning with PyTorch| Part 2 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U1gT5FwldZgfkI9029DC9jnMpM8k6KJM?usp=sharing) | August 8 2024 4-6PM EDT | [🎬](https://umd.zoom.us/rec/share/VNvQ2VcNAI3EfbCGBwdBvgqeCezGxpdWaNg6D4GaFcG4b3untiPo5oCwi1JjFvGQ.sBKZvDWAHBeAXG9J)|
+Introduction to python | Basic syntax <br><br> What is a function <br><br> Useful packages <br><br> Data handling <br><br> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t9DJG2BotRevdAhem474HcmcdTA7yyxs) | June 24 2025 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/4h2aWH3DH3kytRReviMPOYwFEljP5Urr76sxrzCLcGxJ1EQ8_3sMmdO1VQiyB4nU.BPQH8xSy_FI-daY0)
+Numpy & Data Handling | More on lists, dictionaries, arrays <br><br> Data Handling with Numpy|   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T0tpw8XPki_ou9c-eqshjH8r4sM18XLu)| June 25 2025 4-6PM EDT | [🎬](https://umd.zoom.us/rec/share/66oLPW1aIkAjii4ejxULBo7Oe9jCjpaecfQKjGeZiG6_Zyo6JzlriaHuT2GrCZVs.v_rD0sGfHQOJes_L)
+Matplotlib | Basics of Matplotlib <br><br> Line plots <br><br> Visualizing errors <br><br> Multiple subplots <br><br> Contour plots| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R-gEXr_zO2VYvo4FaDlqQL9E6ADzxGvP) |  July 1 2025 4-6PM EDT | [🎬](https://drive.google.com/file/d/1H7y0UtFF8Z8ZRPayemj7QbKlsC-L-IF2/view?pli=1)
+Pandas and sklearn | Working with datasets  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SfwqeRD5kxHtPMnqtVfjZ-1ST-tvfc6u?usp=sharing) |  July 2 2025 4-6PM EDT |  [🎬](https://umd.zoom.us/rec/share/5VHN-GqBi-3hY-AM4xTbheHAz1abuBb84R2ALwOvJFdIE4MsWzIKdtf9K6GNs0dy.qgdZF83OY6F2xidK)
+Introduction to machine learning with PyTorch | Part 1| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rnIeJWTe7p5JQnmJtffBnx7EQxYI9yOA?usp=sharing) | July 8 2025 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/vyLy5akK5QxNSGm9XhGA6aS-H8bW9i7cu3_S5sVZz-nXRRaMSTIMlrL4V79HZwwJ.S9bt7SVdAWO9Yfsd)|
+Introduction to machine learning with PyTorch | Part 2 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hRGVgiLQdXmPbG610kET_JltTuEn-f5b?usp=sharing) | July 9 2025 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/GDZmehUDz9xb-kixlN4pnmeH-CRIEifFc5SSTn1MxpDi-d7LFzPAMiMHWiUxsdEj.RVsDenbXG35-sXx9)|
+More on machine learning with PyTorch| Part 1 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n9xGu52qzMUzgDOjt9pKSMwTjHXThhHW?usp=sharing) | July 15 2025 4-6PM EDT | [🎬](https://umd.zoom.us/rec/share/3JNiO-cMs8iCj4SRclp-djY6844_Z4PDT1gkXZ70J7WNoOdTJrDvi0J4FRVmBQ.fc717_wmJusS5Wdl)|
+More on machine learning with PyTorch| Part 2 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U1gT5FwldZgfkI9029DC9jnMpM8k6KJM?usp=sharing) | July 16 2025 4-6PM EDT | [🎬](https://umd.zoom.us/rec/share/VNvQ2VcNAI3EfbCGBwdBvgqeCezGxpdWaNg6D4GaFcG4b3untiPo5oCwi1JjFvGQ.sBKZvDWAHBeAXG9J)|
 
 
 
