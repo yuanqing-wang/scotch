@@ -7,7 +7,7 @@ A summer bootcamp on scientific computing for beginners with [Python](https://ww
 [Pat Walters](https://relaytx.com/our-team/pat-walters-ph-d/), Relay Therapeutics<br>
 [Jessica Bodosa](https://jbodosa.com/), University of Maryland<br>
 [Christian Jorgensen](https://scholar.google.com/citations?user=XdQ2ynwAAAAJ&hl=en), University of Wisconsin - Madison<br>
-[Anjali Verma](https://ipst.umd.edu/people/anjali-verma),University of Maryland<br>
+[Anjali Verma](https://ipst.umd.edu/people/anjali-verma), University of Maryland<br>
 [Mrinal Shekhar](https://www.broadinstitute.org/bios/mrinal-shekhar), Broad Institute of MIT and Harvard<br>
 [Pranav Gupta](https://www.linkedin.com/in/pranav-gupta-b6562043/), Lowe's Companies<br>
 [Rishikesh Magar](https://www.linkedin.com/in/rishikesh-magar/), Deep Apple Therapeutics<br>
