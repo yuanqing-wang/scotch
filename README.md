@@ -24,7 +24,7 @@ Pandas and sklearn | Working with datasets  | [![Colab](https://colab.research.g
 Introduction to machine learning with PyTorch | Part 1| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rNy5uM6-iS44pMTHrzZe9n1UYbEP8gPk#scrollTo=Sr2G8r4VLoeD) | July 8 2025 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/1DeBb3xA7AaRXLe3tVcehrft2u0PF9nZsjuwBxQZhpl1brIIl5TDJFhTvUMobnsE.EiwWoLt3UtRebOUB)|
 Introduction to machine learning with PyTorch | Part 2 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dWK0L_8GzwEDwdea3Teyp8nkNoQhwvdb?usp=drive_link) | July 9 2025 4-6PM EDT| [🎬](https://umd.zoom.us/rec/share/1dWZBU1airWMF2Yg5-X25qiJ4BexvcJE51meyS57wBZuJj7ZU9TKGJ60gm5XJzFo.e0EcSlI5hTYS9OT5)|
 More on machine learning with PyTorch| Introductions to graph neural networks <br><br>  PyTorch Geometric | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O4xw-kVJvL6FgQ1Elb_XmbG8CDCJuMDL#scrollTo=sY0f_MML8NBc) | July 15 2025 4-6PM EDT | [🎬]()|
-More on machine learning with PyTorch| language model pre-training (NLP) <br><br>  train baby GPT from scratch | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sfndNuH5CMNvUEXETJ-T048JnqXoyuhP) | July 16 2025 4-6PM EDT | [🎬]()|
+More on machine learning with PyTorch| Language model pre-training (NLP) <br><br>  train baby GPT from scratch | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sfndNuH5CMNvUEXETJ-T048JnqXoyuhP) | July 16 2025 4-6PM EDT | [🎬]()|
 
 
 
