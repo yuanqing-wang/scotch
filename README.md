@@ -29,7 +29,7 @@ Zoom link has been sent to registered students. Videos will be uploaded below a 
 
 Module | Scope | Notes | Time <br> (Click to add to calendar) | Video 
 --------------------- | --------------------- | --------------------- | ------- | --- 
-Introduction to python | Basic syntax <br><br> Functions <br><br> Useful packages <br><br> Data handling <br><br> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1B9n0J5U_gzGI-teHtV1lLSsrUvfz2C0s?usp=sharing) | June 22 4-6PM EDT| [🎬]() 
+Introduction to python | Basic syntax <br><br> Functions <br><br> Useful packages <br><br> Data handling <br><br> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1B9n0J5U_gzGI-teHtV1lLSsrUvfz2C0s?usp=sharing) | June 22 4-6PM EDT| [🎬](https://www.youtube.com/watch?v=baMCfP_P9pM) 
 Visualizing data and Matplotlib | Matplotlib <br><br> Basic plotting <br><br> Plot customization <br><br> Subplots <br><br>|   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FJP---KjAqfvcGsHRepJbuG8jv4hE35e?usp=sharing) | June 23 4-6PM EDT| [🎬]() 
 Matplotlib | Basics of Matplotlib <br><br> Line plots <br><br> Visualizing errors <br><br> Multiple subplots <br><br> Contour plots| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OHiH7hPNm_pOhhsDcxt8n-gf5uvD8fmH?usp=sharing) |  Upcoming 4-6PM EDT | [🎬]()
 Pandas and sklearn | Working with datasets  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12a-RUZ5hjTSXrSgDFiavJmmEv2jf4-6K) |  Upcoming 4-6PM EDT |  [🎬]()
