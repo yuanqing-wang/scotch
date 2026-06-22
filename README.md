@@ -1,13 +1,26 @@
 Scientific Computing From Scratch
 ---------------------------------
-A summer bootcamp on scientific computing for beginners with [Python](https://www.python.org) and [Pytorch](https://pytorch.org) organized by [Pratyush Tiwary, University of Maryland](http://go.umd.edu/tiwarylab). All classes via zoom 4-6PM New York time. Zoom link has been sent to registered students.
+A summer bootcamp on scientific computing for beginners with [Python](https://www.python.org) and [Pytorch](https://pytorch.org), organized by [Pratyush Tiwary, University of Maryland](http://go.umd.edu/tiwarylab).
+
+All workshops will be held on Zoom from **4–6 PM Eastern time**. Students only need a **laptop** — not an iPad or tablet — and a stable internet connection.
+
+Zoom link has been sent to registered students. Videos will be uploaded below a few hours after each class.
+
+| Topic | Dates |
+|---|---|
+| Python basics | June 22–23, 2026 |
+| AI/PyTorch basics | June 29–30, 2026 |
+| AI/PyTorch not-so-basics | July 27–28, 2026 |
+| Vibe coding / Codex | August 11, 2026 |
 
 **2026 Instructors include**:<br>
 [Jindal Shah](https://ceat.okstate.edu/che/faculty-staff/jindal-shah), Oklahama State University<br>
-[Venkata Adury](https://scholar.google.com/citations?user=FbhG1AIAAAAJ&hl=en), University of Maryland
+[Venkata Adury](https://scholar.google.com/citations?user=FbhG1AIAAAAJ&hl=en), University of Maryland<br>
+[Eric Beyerle](https://erb24.github.io/), University of Copenhagen<br>
+[Niranjan Sarpangala](https://github.com/nsarpangala/), University of Pennsylvania<br>
 
 <!--
-[Eric Beyerle](https://erb24.github.io/), University of Copenhagen<br>
+
 [Rishikesh Magar](https://www.linkedin.com/in/rishikesh-magar/), Deep Apple Therapeutics<br>
 [Pranav Gupta](https://www.linkedin.com/in/pranav-gupta-b6562043/), Lowe's Companies<br>
 -->
