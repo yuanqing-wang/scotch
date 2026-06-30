@@ -18,7 +18,13 @@ Zoom link has been sent to registered students. Videos will be uploaded below a 
 [Venkata Adury](https://scholar.google.com/citations?user=FbhG1AIAAAAJ&hl=en), University of Maryland<br>
 [Eric Beyerle](https://erb24.github.io/), University of Copenhagen<br>
 [Niranjan Sarpangala](https://github.com/nsarpangala/), University of Pennsylvania<br>
+[Pranav Gupta](https://github.com/prannerta100), Cisco<br>
+[Liwei Chang](https://www.linkedin.com/in/liwei-chang-5149361b8/), Schrodinger<br>
+[Rishikesh Magar](https://rishikeshmagar.github.io/), Deep Apple Therapeutics<br>
+[Andrew Kayserian](https://rishikeshmagar.github.io/), AstraZeneca<br>
 
+
+https://www.linkedin.com/in/andrewkayserian/
 <!--
 
 [Rishikesh Magar](https://www.linkedin.com/in/rishikesh-magar/), Deep Apple Therapeutics<br>
