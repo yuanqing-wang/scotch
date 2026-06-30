@@ -21,15 +21,8 @@ Zoom link has been sent to registered students. Videos will be uploaded below a 
 [Pranav Gupta](https://github.com/prannerta100), Cisco<br>
 [Liwei Chang](https://www.linkedin.com/in/liwei-chang-5149361b8/), Schrodinger<br>
 [Rishikesh Magar](https://rishikeshmagar.github.io/), Deep Apple Therapeutics<br>
-[Andrew Kayserian](https://rishikeshmagar.github.io/), AstraZeneca<br>
+[Andrew Kayserian](https://www.linkedin.com/in/andrewkayserian/), AstraZeneca<br>
 
-
-https://www.linkedin.com/in/andrewkayserian/
-<!--
-
-[Rishikesh Magar](https://www.linkedin.com/in/rishikesh-magar/), Deep Apple Therapeutics<br>
-[Pranav Gupta](https://www.linkedin.com/in/pranav-gupta-b6562043/), Lowe's Companies<br>
--->
 
 ## Syllabus
 
