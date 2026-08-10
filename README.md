@@ -34,6 +34,7 @@ Introduction to machine learning with PyTorch | Part 1| [![Colab](https://colab.
 Introduction to machine learning with PyTorch | Part 2 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mfgv0HLIdjrHbiY9scPDi8QlRtXgOik9#scrollTo=iM5GCu1N_Gn2&uniqifier=1) | June 30 4-6PM EDT| [🎬](https://www.youtube.com/watch?v=LaSk_M15eu4)|
 More on machine learning with PyTorch| Introductions to language models | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17GUpDmNbc9Im2ay4hGcRSeTJok2JGnSo?usp=sharing) | July 27 4-6PM EDT | [🎬](https://www.youtube.com/watch?v=EAhCcCqV7EI)|
 More on machine learning with PyTorch| Introductions to Graph Neural Networks and PyTorch Geometric | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TUhqk-S_7XfCZpfNdSTPRAO2Jube0xot#scrollTo=S2Phqjui7T1T) | July 28 4-6PM EDT | [🎬](https://www.youtube.com/watch?v=pF2nO1NslmM)|
+Vibe coding| Vibe coding a GNN for drug discovery | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1TUhqk-S_7XfCZpfNdSTPRAO2Jube0xot#scrollTo=S2Phqjui7T1T](https://colab.research.google.com/drive/16VaHRdq8W5lPjSftTd3SfTLmXRKJtA6E?usp=sharing)) | Aug 11 4-6PM EDT | [🎬]()|
 
 
 
